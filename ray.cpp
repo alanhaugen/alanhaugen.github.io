@@ -1,5 +1,10 @@
 #include <iostream>
+#include <stdio.h>
+#include <stdlib.h>
+
 //#include "ray.h"
+#define STB_IMAGE_IMPLEMENTATION
+#define STB_IMAGE_WRITE_IMPLEMENTATION
 #include "stb_image.h"
 #include "stb_image_write.h"
 
@@ -17,8 +22,11 @@ int main()
 {
 	int nx = 200;
 	int ny = 100;
+    int channels = 3;
 
-	std::cout << "P3\n" << nx << " " << ny << "\n255\n";
+    uint8_t data[3 * 200 * 100];
+
+    int index = 0;
 
 	for (int j = ny - 1; j >= 0; j--)
 	{
@@ -32,9 +40,15 @@ int main()
 			int ig = int(255.99 * g);
 			int ib = int(255.99 * b);
 
-			std::cout << ir << " " << ig << " " << ib << "\n";
+            data[index++] = ir;
+            data[index++] = ig;
+            data[index++] = ib;
 		}
 	}
+
+    int success = stbi_write_png("img.png", nx, ny, channels, data, nx * channels);
+
+    return success;
 
 	//vec3 lowerLeftCorner(-2.0, -1.0, -1.0);
 }

@@ -1,1 +1,8 @@
-a.exe
+# g++
+*.exe
+*.out
+*.o
+raytracer
+
+# Vim
+*.swp

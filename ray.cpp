@@ -1,5 +1,7 @@
 #include <iostream>
 //#include "ray.h"
+#include "stb_image.h"
+#include "stb_image_write.h"
 
 /*
 vec3 color(const ray &r)

@@ -3,6 +3,7 @@
 #include <stdlib.h>
 
 //#include "ray.h"
+#include "vec3.h"
 #define STB_IMAGE_IMPLEMENTATION
 #define STB_IMAGE_WRITE_IMPLEMENTATION
 #include "stb_image.h"
@@ -32,17 +33,11 @@ int main()
 	{
 		for (int i = 0; i < nx; i++)
 		{
-			float r = float(i) / float(nx);
-			float g = float(j) / float(ny);
-			float b = 0.2;
+            vec3 col(float(i) / float(nx), float(j) / float(ny), 0.2);
 
-			int ir = int(255.99 * r);
-			int ig = int(255.99 * g);
-			int ib = int(255.99 * b);
-
-            data[index++] = ir;
-            data[index++] = ig;
-            data[index++] = ib;
+            data[index++] = int(255.99 * col[0]);
+            data[index++] = int(255.99 * col[1]);
+            data[index++] = int(255.99 * col[2]);
 		}
 	}
 

@@ -10,4 +10,4 @@ pathtracer: $(OBJS)
 	g++ -c $*.cpp
 
 clean:
-	rm *.o
+	rm *.o img.png

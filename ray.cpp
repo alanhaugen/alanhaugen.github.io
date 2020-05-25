@@ -4,6 +4,8 @@
 
 #include "ray.h"
 #include "vec3.h"
+#include "sphere.h"
+#include "hitablelist.h"
 #define STB_IMAGE_IMPLEMENTATION
 #define STB_IMAGE_WRITE_IMPLEMENTATION
 #include "stb_image.h"
@@ -29,20 +31,21 @@ float hitSphere(const vec3 &center, float radius, const ray &r)
     }
 }
 
-vec3 color(const ray &r)
+vec3 color(const ray &r, Hitable *world)
 {
-    float t = hitSphere(vec3(0, 0, -1), 0.5, r);
+    hitRecord rec;
 
-    if (t > 0.0)
+    if (world->Hit(r, 0.0, MAXFLOAT, rec))
     {
-        vec3 N = unitVector(r.pointAtParameter(t) - vec3(0, 0, -1));
-        return 0.5 * vec3(N.x() + 1, N.y() + 1, N.z() + 1);
+        return 0.5 * vec3(rec.normal.x() + 1, rec.normal.y() + 1, rec.normal.z() + 1);
     }
+    else
+    {
+        vec3 unitDirection = unitVector(r.direction());
+        float t = 0.5 * (unitDirection.y() + 1.0);
 
-    vec3 unitDirection = unitVector(r.direction());
-    t = 0.5 * (unitDirection.y() + 1.0);
-
-	return (1.0 - t) * vec3(1.0, 1.0, 1.0) + t * vec3(0.5, 0.7, 1.0);
+        return (1.0 - t) * vec3(1.0, 1.0, 1.0) + t * vec3(0.5, 0.7, 1.0);
+    }
 }
 
 int main()
@@ -58,6 +61,12 @@ int main()
 	vec3 vertical(0.0, 2.0, 0.0);
 	vec3 origin(0.0, 0.0, 0.0);
 
+    Hitable *list[2];
+    list[0] = new Sphere(vec3(0, 0, -1), 0.5);
+    list[1] = new Sphere(vec3(0, -100.5, -1), 100);
+
+    Hitable *world = new HitableList(list, 2);
+
 	int index = 0;
 
 	for (int j = ny - 1; j >= 0; j--)
@@ -69,7 +78,8 @@ int main()
 
 			ray r(origin, lowerLeftCorner + u*horizontal + v*vertical);
 
-			vec3 col = color(r); 
+            vec3 p = r.pointAtParameter(2.0);
+            vec3 col = color(r, world);
 
 			data[index++] = int(255.99 * col[0]);
 			data[index++] = int(255.99 * col[1]);

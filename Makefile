@@ -1,4 +1,4 @@
-OBJS = ray.o
+OBJS = ray.o sphere.o hitablelist.o
 .PHONY: clean all
 
 all: pathtracer

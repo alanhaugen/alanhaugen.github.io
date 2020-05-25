@@ -1,6 +1,11 @@
 Makefile
+hitable.h
+hitablelist.cpp
+hitablelist.h
 ray.cpp
 ray.h
+sphere.cpp
+sphere.h
 stb_image.h
 stb_image_write.h
 vec3.h

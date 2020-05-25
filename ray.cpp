@@ -1,10 +1,12 @@
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
+#include <cfloat>
 
 #include "ray.h"
 #include "vec3.h"
 #include "sphere.h"
+#include "camera.h"
 #include "hitablelist.h"
 #define STB_IMAGE_IMPLEMENTATION
 #define STB_IMAGE_WRITE_IMPLEMENTATION
@@ -35,7 +37,7 @@ vec3 color(const ray &r, Hitable *world)
 {
     hitRecord rec;
 
-    if (world->Hit(r, 0.0, MAXFLOAT, rec))
+    if (world->Hit(r, 0.0, FLT_MAX, rec))
     {
         return 0.5 * vec3(rec.normal.x() + 1, rec.normal.y() + 1, rec.normal.z() + 1);
     }
@@ -52,9 +54,12 @@ int main()
 {
 	int nx = 200;
 	int ny = 100;
+    int ns = 100;
 	int channels = 3;
 
 	uint8_t data[3 * 200 * 100];
+
+    Camera cam;
 
 	vec3 lowerLeftCorner(-2.0, -1.0, -1.0);
 	vec3 horizontal(4.0, 0.0, 0.0);
@@ -73,18 +78,24 @@ int main()
 	{
 		for (int i = 0; i < nx; i++)
 		{
-			float u = float(i) / float(nx);
-			float v = float(j) / float(ny);
+            vec3 col(0.0, 0.0, 0.0);
+            for (int s = 0; s < ns; s++)
+            {
+                float ran = rand() / float(RAND_MAX);
+                float u = float(i + ran) / float(nx);
+                float v = float(j + ran) / float(ny);
 
-			ray r(origin, lowerLeftCorner + u*horizontal + v*vertical);
+                ray r = cam.GetRay(u, v);
 
-            vec3 p = r.pointAtParameter(2.0);
-            vec3 col = color(r, world);
+                vec3 p = r.pointAtParameter(2.0);
+                col += color(r, world);
+            }
+            col /= float(ns);
 
-			data[index++] = int(255.99 * col[0]);
-			data[index++] = int(255.99 * col[1]);
-			data[index++] = int(255.99 * col[2]);
-		}
+            data[index++] = int(255.99 * col[0]);
+            data[index++] = int(255.99 * col[1]);
+            data[index++] = int(255.99 * col[2]);
+        }
 	}
 
 	int success = stbi_write_png("img.png", nx, ny, channels, data, nx * channels);

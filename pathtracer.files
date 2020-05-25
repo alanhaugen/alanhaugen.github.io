@@ -1,4 +1,6 @@
 Makefile
+camera.cpp
+camera.h
 hitable.h
 hitablelist.cpp
 hitablelist.h

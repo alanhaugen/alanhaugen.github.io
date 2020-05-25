@@ -2,7 +2,7 @@
 *.exe
 *.out
 *.o
-raytracer
+pathtracer
 
 # Vim
 *.swp

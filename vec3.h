@@ -84,6 +84,11 @@ inline vec3 operator*(const vec3 &v, float t)
     return vec3(t * v.e[0], t * v.e[1], t * v.e[2]);
 }
 
+inline vec3 operator/(const vec3 &v, float t)
+{
+    return vec3(v.e[0] / t, v.e[1] / t, v.e[2] / t);
+}
+
 inline float dot(const vec3 &v1, const vec3 &v2)
 {
     return v1.e[0] * v2.e[0] + v1.e[1] * v2.e[1] + v1.e[2] * v2.e[2];
@@ -154,7 +159,7 @@ inline vec3 &vec3::operator/=(const float t)
 
 inline vec3 unitVector(vec3 v)
 {
-    return v.operator/=(v.length());
+    return v / v.length();
 }
 
 #endif // VEC3_H

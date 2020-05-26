@@ -34,16 +34,17 @@ public:
 class Metal : public Material
 {
 public:
-    Metal(const vec3 &a) : albedo(a) {}
+    Metal(const vec3 &a, float f) : albedo(a) {if (f < 1) { fuzz = f;} else { fuzz = 1;}}
     virtual bool Scatter(const ray &rayIn, const hitRecord &rec, vec3 &attenuation, ray &scattered) const
     {
         vec3 reflected = Reflect(unitVector(rayIn.direction()), rec.normal);
-        scattered = ray(rec.p, reflected);
+        scattered = ray(rec.p, reflected + fuzz * randomInUnitSphere());
         attenuation = albedo;
         return (dot(scattered.direction(), rec.normal) > 0);
     }
 
     vec3 albedo;
+    float fuzz;
 };
 
 #endif // MATERIAL_H

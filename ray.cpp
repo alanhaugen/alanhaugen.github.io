@@ -127,7 +127,7 @@ int main()
         }
 	}
 
-	int success = stbi_write_png("img.png", nx, ny, channels, data, nx * channels);
+    int success = stbi_write_png("images/img.png", nx, ny, channels, data, nx * channels);
 
 	return success;
 }

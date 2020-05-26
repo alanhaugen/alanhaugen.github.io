@@ -4,6 +4,7 @@ camera.h
 hitable.h
 hitablelist.cpp
 hitablelist.h
+material.h
 ray.cpp
 ray.h
 sphere.cpp

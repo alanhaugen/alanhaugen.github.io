@@ -3,11 +3,14 @@
 
 #include "ray.h"
 
+class Material;
+
 struct hitRecord
 {
     float t;
     vec3 p;
     vec3 normal;
+    Material *matPtr;
 };
 
 class Hitable

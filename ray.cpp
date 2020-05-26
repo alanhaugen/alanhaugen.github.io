@@ -7,6 +7,7 @@
 #include "vec3.h"
 #include "sphere.h"
 #include "camera.h"
+#include "material.h"
 #include "hitablelist.h"
 #define STB_IMAGE_IMPLEMENTATION
 #define STB_IMAGE_WRITE_IMPLEMENTATION
@@ -48,14 +49,23 @@ vec3 randomInUnitSphere() // Muller 1959, Marsaglia 1972 https://mathworld.wolfr
     return vec3(x, y, z);
 }
 
-vec3 color(const ray &r, Hitable *world)
+vec3 color(const ray &r, Hitable *world, int depth)
 {
     hitRecord rec;
 
     if (world->Hit(r, 0.001, FLT_MAX, rec))
     {
-        vec3 target = rec.p + rec.normal + randomInUnitSphere();
-        return 0.5 * color(ray(rec.p, target-rec.p), world);
+        ray scattered;
+        vec3 attenuation;
+
+        if (depth < 50 && rec.matPtr->Scatter(r, rec, attenuation, scattered))
+        {
+            return attenuation*color(scattered, world, depth + 1);
+        }
+        else
+        {
+            return vec3(0, 0, 0);
+        }
     }
     else
     {
@@ -82,11 +92,13 @@ int main()
 	vec3 vertical(0.0, 2.0, 0.0);
 	vec3 origin(0.0, 0.0, 0.0);
 
-    Hitable *list[2];
-    list[0] = new Sphere(vec3(0, 0, -1), 0.5);
-    list[1] = new Sphere(vec3(0, -100.5, -1), 100);
+    Hitable *list[4];
+    list[0] = new Sphere(vec3(0, 0, -1), 0.5, new Lambertian(vec3(0.8, 0.3, 0.3)));
+    list[1] = new Sphere(vec3(0, -100.5, -1), 100, new Lambertian(vec3(0.8, 0.8, 0.0)));
+    list[2] = new Sphere(vec3(1, 0, -1), 0.5, new Metal(vec3(0.8, 0.6, 0.2)));
+    list[3] = new Sphere(vec3(-1, 0, -1), 0.5, new Metal(vec3(0.8, 0.8, 0.8)));
 
-    Hitable *world = new HitableList(list, 2);
+    Hitable *world = new HitableList(list, 4);
 
 	int index = 0;
 
@@ -104,7 +116,7 @@ int main()
                 ray r = cam.GetRay(u, v);
 
                 vec3 p = r.pointAtParameter(2.0);
-                col += color(r, world);
+                col += color(r, world, 0);
             }
             col /= float(ns);
             col = vec3(sqrt(col[0]), sqrt(col[1]), sqrt(col[2]));

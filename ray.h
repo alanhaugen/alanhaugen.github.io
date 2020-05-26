@@ -17,4 +17,6 @@ class ray
 	vec3 B;
 };
 
+vec3 randomInUnitSphere();
+
 #endif

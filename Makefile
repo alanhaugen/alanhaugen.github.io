@@ -7,7 +7,7 @@ pathtracer: $(OBJS)
 	g++ $(OBJS) -o pathtracer
 
 %.o: %.cpp
-	g++ -c $*.cpp
+	g++ -g -c $*.cpp
 
 clean:
 	rm *.o img.png

@@ -33,13 +33,29 @@ float hitSphere(const vec3 &center, float radius, const ray &r)
     }
 }
 
+vec3 randomInUnitSphere() // Muller 1959, Marsaglia 1972 https://mathworld.wolfram.com/SpherePointPicking.html
+{
+    float x,y,z;
+    x = rand() / float(RAND_MAX);
+    y = rand() / float(RAND_MAX);
+    z = rand() / float(RAND_MAX);
+
+    vec3 point(x, y, z);
+    x *= 1 / point.length();
+    y *= 1 / point.length();
+    z *= 1 / point.length();
+
+    return vec3(x, y, z);
+}
+
 vec3 color(const ray &r, Hitable *world)
 {
     hitRecord rec;
 
-    if (world->Hit(r, 0.0, FLT_MAX, rec))
+    if (world->Hit(r, 0.001, FLT_MAX, rec))
     {
-        return 0.5 * vec3(rec.normal.x() + 1, rec.normal.y() + 1, rec.normal.z() + 1);
+        vec3 target = rec.p + rec.normal + randomInUnitSphere();
+        return 0.5 * color(ray(rec.p, target-rec.p), world);
     }
     else
     {
@@ -91,6 +107,7 @@ int main()
                 col += color(r, world);
             }
             col /= float(ns);
+            col = vec3(sqrt(col[0]), sqrt(col[1]), sqrt(col[2]));
 
             data[index++] = int(255.99 * col[0]);
             data[index++] = int(255.99 * col[1]);

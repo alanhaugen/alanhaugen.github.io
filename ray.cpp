@@ -92,13 +92,14 @@ int main()
 	vec3 vertical(0.0, 2.0, 0.0);
 	vec3 origin(0.0, 0.0, 0.0);
 
-    Hitable *list[4];
-    list[0] = new Sphere(vec3(0, 0, -1), 0.5, new Lambertian(vec3(0.8, 0.3, 0.3)));
+    Hitable *list[5];
+    list[0] = new Sphere(vec3(0, 0, -1), 0.5, new Lambertian(vec3(0.1, 0.2, 0.5)));
     list[1] = new Sphere(vec3(0, -100.5, -1), 100, new Lambertian(vec3(0.8, 0.8, 0.0)));
-    list[2] = new Sphere(vec3(1, 0, -1), 0.5, new Metal(vec3(0.8, 0.6, 0.2), 0.3));
-    list[3] = new Sphere(vec3(-1, 0, -1), 0.5, new Metal(vec3(0.8, 0.8, 0.8), 1.0));
+    list[2] = new Sphere(vec3(1, 0, -1), 0.5, new Metal(vec3(0.8, 0.6, 0.2)));
+    list[3] = new Sphere(vec3(-1, 0, -1), 0.5, new Dialectric(1.5));
+    list[4] = new Sphere(vec3(-1, 0, -1), -0.45, new Dialectric(1.5));
 
-    Hitable *world = new HitableList(list, 4);
+    Hitable *world = new HitableList(list, 5);
 
 	int index = 0;
 

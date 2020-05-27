@@ -76,6 +76,50 @@ vec3 color(const ray &r, Hitable *world, int depth)
     }
 }
 
+float ran()
+{
+    return rand() / float(RAND_MAX);
+}
+
+Hitable *randomScene()
+{
+    int n = 500;
+    Hitable **list = new Hitable*[n+1];
+    list[0] = new Sphere(vec3(0, -1000, 0), 1000, new Lambertian(vec3(0.5, 0.5, 0.5)));
+    int i = 1;
+    for (int a = -11; a < 11; a++)
+    {
+        for (int b = -11; b < 11; b++)
+        {
+            float chooseMat = ran();
+            vec3 center(a + 0.9 * ran(), 0.2, b + 0.9 * ran());
+
+            if ((center - vec3(4, 0.2, 0)).length() > 0.9)
+            {
+                if (chooseMat < 0.8) // diffuse
+                {
+                    list[i++] = new Sphere(center, 0.2, new Lambertian(vec3(ran()*ran(), ran()*ran(), ran()*ran())));
+                }
+                else if (chooseMat < 0.95) // metal
+                {
+                    list[i++] = new Sphere(center, 0.2,
+                                           new Metal(vec3(0.5*(1 + ran()), 0.5 * (1 + ran()), 0.5 * ran()), 0.5 * ran()));
+                }
+                else // glass
+                {
+                    list[i++] = new Sphere(center, 0.2, new Dielectric(1.5));
+                }
+            }
+        }
+    }
+
+    list[i++] = new Sphere(vec3(0, 1, 0), 1.0, new Dielectric(1.5));
+    list[i++] = new Sphere(vec3(-4, 1, 0), 1.0, new Lambertian(vec3(0.4, 0.2, 0.1)));
+    list[i++] = new Sphere(vec3(4, 1, 0), 1.0, new Metal(vec3(0.7, 0.6, 0.5), 0.0));
+
+    return new HitableList(list, i);
+}
+
 int main()
 {
 	int nx = 200;
@@ -86,7 +130,7 @@ int main()
 	uint8_t data[3 * 200 * 100];
 
     vec3 lookFrom(3, 3, 2);
-    vec3 lookAt(0, 0, -1);
+    vec3 lookAt(0, 0, -10);
     float distToFocus = (lookFrom - lookAt).length();
     float aperture = 2.0;
 
@@ -97,14 +141,16 @@ int main()
 	vec3 vertical(0.0, 2.0, 0.0);
 	vec3 origin(0.0, 0.0, 0.0);
 
-    Hitable *list[5];
+    /*Hitable *list[5];
     list[0] = new Sphere(vec3(0, 0, -1), 0.5, new Lambertian(vec3(0.1, 0.2, 0.5)));
     list[1] = new Sphere(vec3(0, -100.5, -1), 100, new Lambertian(vec3(0.8, 0.8, 0.0)));
     list[2] = new Sphere(vec3(1, 0, -1), 0.5, new Metal(vec3(0.8, 0.6, 0.2)));
-    list[3] = new Sphere(vec3(-1, 0, -1), 0.5, new Dialectric(1.5));
-    list[4] = new Sphere(vec3(-1, 0, -1), -0.45, new Dialectric(1.5));
+    list[3] = new Sphere(vec3(-1, 0, -1), 0.5, new Dielectric(1.5));
+    list[4] = new Sphere(vec3(-1, 0, -1), -0.45, new Dielectric(1.5));
 
-    Hitable *world = new HitableList(list, 5);
+    Hitable *world = new HitableList(list, 5);*/
+
+    Hitable *world = randomScene();
 
 	int index = 0;
 
@@ -115,9 +161,8 @@ int main()
             vec3 col(0.0, 0.0, 0.0);
             for (int s = 0; s < ns; s++)
             {
-                float ran = rand() / float(RAND_MAX);
-                float u = float(i + ran) / float(nx);
-                float v = float(j + ran) / float(ny);
+                float u = float(i + ran()) / float(nx);
+                float v = float(j + ran()) / float(ny);
 
                 ray r = cam.GetRay(u, v);
 

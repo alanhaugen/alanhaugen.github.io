@@ -72,10 +72,10 @@ public:
     float fuzz;
 };
 
-class Dialectric : public Material
+class Dielectric : public Material
 {
 public:
-    Dialectric(float ri) : refIdx(ri) {}
+    Dielectric(float ri) : refIdx(ri) {}
     virtual bool Scatter(const ray &rayIn, const hitRecord &rec, vec3 &attenuation, ray &scattered) const
     {
         vec3 outwardNormal;

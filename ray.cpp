@@ -116,7 +116,6 @@ int main()
 
                 ray r = cam.GetRay(u, v);
 
-                vec3 p = r.pointAtParameter(2.0);
                 col += color(r, world, 0);
             }
             col /= float(ns);

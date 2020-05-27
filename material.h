@@ -105,10 +105,9 @@ public:
         {
             scattered = ray(rec.p, reflected);
             reflectProb = 1.0;
-
-            return false;
         }
-        if ((rand() / float(RAND_MAX)) < reflectProb)
+        float ran = rand() / float(RAND_MAX);
+        if (ran < reflectProb)
         {
             scattered = ray(rec.p, reflected);
         }

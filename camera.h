@@ -6,7 +6,7 @@
 class Camera
 {
 public:
-    Camera();
+    Camera(vec3 lookFrom, vec3 lookAt, vec3 vup, float vfov, float aspect);
     ray GetRay(float u, float v);
 
     vec3 origin;

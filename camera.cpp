@@ -1,11 +1,20 @@
 #include "camera.h"
 
-Camera::Camera()
+Camera::Camera(vec3 lookFrom, vec3 lookAt, vec3 vup, float vfov, float aspect)
 {
-    lowerLeftCorner = vec3(-2.0, -1.0, -1.0);
-    horizontal = vec3(4.0, 0.0, 0.0);
-    vertical = vec3(0.0, 2.0, 0.0);
-    origin = vec3(0.0, 0.0, 0.0);
+    vec3 u, v, w;
+    float theta = vfov * M_PI / 180;
+    float halfHeight = tan(theta/2);
+    float halfWidth = aspect * halfHeight;
+
+    origin = lookFrom;
+
+    w = unitVector(lookFrom - lookAt);
+    u = unitVector(cross(vup, w));
+    v = cross(w, u);
+    lowerLeftCorner = origin - halfWidth * u - halfHeight * v - w;
+    horizontal = 2 * halfWidth * u;
+    vertical = 2 * halfHeight * v;
 }
 
 ray Camera::GetRay(float u, float v)

@@ -85,7 +85,12 @@ int main()
 
 	uint8_t data[3 * 200 * 100];
 
-    Camera cam(vec3(-2, 2, 1), vec3(0, 0, -1), vec3(0, 1, 0), 20, float(nx)/float(ny));
+    vec3 lookFrom(3, 3, 2);
+    vec3 lookAt(0, 0, -1);
+    float distToFocus = (lookFrom - lookAt).length();
+    float aperture = 2.0;
+
+    Camera cam(lookFrom, lookAt, vec3(0, 1, 0), 20, float(nx)/float(ny), aperture, distToFocus);
 
 	vec3 lowerLeftCorner(-2.0, -1.0, -1.0);
 	vec3 horizontal(4.0, 0.0, 0.0);

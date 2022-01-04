@@ -1,0 +1,1 @@
+plot 'plot' index 0 with linespoints linestyle 1 title "F1", '' index 1 with linespoints linestyle 2 title "F3", '' index 2 with linespoints linestyle 2 title "F4", '' index 3 with linespoints linestyle 2 title "F5", '' index 4 with linespoints linestyle 2 title "F6"

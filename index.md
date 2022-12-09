@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hans Alan Whitburn Haugen's
+title: Hans Alan Whitburn Haugen
 tagline: personal website
 ---
 {% include JB/setup %}

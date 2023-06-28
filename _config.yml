@@ -8,14 +8,14 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Hans Alan Whitburn Haugen
+title: Hans Alan Whitburn Haugen
 tagline: personal website
-author : Alan Whitburn Haugen
-  name : Alan Haugen
-  email : alanhaugen@gmail.com
-  github : alanhaugen
-  twitter : 
-  feedburner : 
+author: Alan Whitburn Haugen
+name: Alan Haugen
+email: alanhaugen@gmail.com
+github: alanhaugen
+twitter: 
+feedburner: 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

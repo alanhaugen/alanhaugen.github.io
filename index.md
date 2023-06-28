@@ -13,7 +13,7 @@ I maintain the [Solid Game Engine](https://alanhaugen.github.io/games/2023/06/28
 
 Outside of biology and computer science, I enjoy Games, Music, Drawing, Stories, Mathematics, and playing with my Greenland Dog, Sarek.
 
-I studied at The Norwegian Institute of Science and Technology - NTNU, I speak English and Norwegian.
+I studied at the Norwegian University of Science and Technology - NTNU, I speak English and Norwegian.
 
 ## Publications
 

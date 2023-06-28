@@ -25,7 +25,7 @@ I studied at the Norwegian University of Science and Technology - NTNU, I speak 
 
 [kaggle.com/alanhaugen](https://kaggle.com/alanhaugen)
 
-[gihub.com/alanhaugen](https://gihub.com/alanhaugen)
+[github.com/alanhaugen](https://github.com/alanhaugen)
 
 [linkedin.com/in/alanhaugen](https://linkedin.com/in/alanhaugen)
 

@@ -5,10 +5,9 @@ tagline: personal website
 ---
 {% include JB/setup %}
 
-# Welcome to my website!
-I am a biotechnologist. I have done work on cultured meat and computer vision.
-
 ![My face](https://avatars.githubusercontent.com/u/1408981?v=4)
+
+I am a biotechnologist. I have done work on cultured meat and computer vision.
 
 I maintain the [Solid Game Engine](https://alanhaugen.github.io/games/2023/06/28/solid), I have a background in the video games industry.
 
@@ -24,10 +23,10 @@ I studied at The Norwegian Institute of Science and Technology - NTNU, I speak E
 
 ## Find me.
 
-<kaggle.com/alanhaugen>
+[kaggle.com/alanhaugen](https://kaggle.com/alanhaugen)
 
-<gihub.com/alanhaugen>
+[gihub.com/alanhaugen](https://gihub.com/alanhaugen)
 
-<linkedin.com/in/alanhaugen>
+[linkedin.com/in/alanhaugen](https://linkedin.com/in/alanhaugen)
 
-<twitter.com/alanwhaugen>
+[twitter.com/alanwhaugen](https://twitter.com/alanwhaugen)

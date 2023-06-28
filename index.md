@@ -5,15 +5,15 @@ tagline: personal website
 ---
 {% include JB/setup %}
 
-![My face](https://avatars.githubusercontent.com/u/1408981?v=4)
+#![My face](https://avatars.githubusercontent.com/u/1408981?v=4)
 
-### I am a biotechnologist. I have done work on cultured meat and computer vision.
+I am a biotechnologist. I have done work on cultured meat and computer vision.
 
-### I maintain the [Solid Game Engine](https://alanhaugen.github.io/games/2023/06/28/solid), I have a background in the video games industry.
+I maintain the [Solid Game Engine](https://alanhaugen.github.io/games/2023/06/28/solid), I have a background in the video games industry.
 
-### Outside of biology and computer science, I enjoy Games, Music, Drawing, Stories, Mathematics, and playing with my Greenland Dog, Sarek.
+Outside of biology and computer science, I enjoy Games, Music, Drawing, Stories, Mathematics, and playing with my Greenland Dog, Sarek.
 
-### I studied at the Norwegian University of Science and Technology - NTNU, I speak English and Norwegian.
+I studied at the Norwegian University of Science and Technology - NTNU, I speak English and Norwegian.
 
 ## Publications
 

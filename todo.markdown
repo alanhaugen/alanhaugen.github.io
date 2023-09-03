@@ -4,14 +4,15 @@
 
 ###### Update in the morning
 
-[ ] gamedev.tv
-[ ] udemy.com
+* [ ] Go to Mathematics lecture #campus #now
 
 # Action
 
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [ ] Look at "Getting things done" book #computer
+* [ ] gamedev.tv #computer #plan
+* [ ] udemy.com #computer #plan
 
 # Due dates
 

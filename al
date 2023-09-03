@@ -1,7 +1,45 @@
 #!/bash/sh
 
-echo "<html>" > todo.html
-echo '<link rel="stylesheet" href="air.css">' >> todo.html
+echo "<html lang=en>" > todo.html
+echo '
+<head>
+    <!-- FONT
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+    <!-- CSS
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/skeleton.css">
+
+    <!-- Favicon
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="icon" type="image/png" href="https://avatars.githubusercontent.com/u/1408981?v=4">
+		<meta charset="utf-8">
+		<title>AlOrganizer</title>
+		<!-- jsCalendar v1.4.4 Javascript and CSS -->
+		<script src="https://cdn.jsdelivr.net/npm/simple-jscalendar@1.4.4/source/jsCalendar.min.js" integrity="sha384-0LaRLH/U5g8eCAwewLGQRyC/O+g0kXh8P+5pWpzijxwYczD3nKETIqUyhuA8B/UB" crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simple-jscalendar@1.4.4/source/jsCalendar.min.css" integrity="sha384-44GnAqZy9yUojzFPjdcUpP822DGm1ebORKY8pe6TkHuqJ038FANyfBYBpRvw8O9w" crossorigin="anonymous">
+	</head>
+' >> todo.html
+
+echo '
+	<body>
+    <div class="container">
+      <div class="row">
+        <div class="seven columns" style="margin-top: 25%">
+' >> todo.html
+
 pandoc todo.markdown >> todo.html
-echo "</html>" >> todo.html
+
+echo '
+        </div>
+        <div class="five columns portrait" style="margin-top: 15%">
+            <!-- Calendar Element -->
+            <div class="auto-jsCalendar"></div>
+        </div>
+     </div>
+  </div>
+' >> todo.html
+echo "</body></html>" >> todo.html
 #awk "" todo.html

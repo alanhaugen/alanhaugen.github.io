@@ -35,11 +35,70 @@ pandoc todo.markdown >> todo.html
 echo '
         </div>
         <div class="five columns portrait" style="margin-top: 15%">
+' >> todo.html
+
+echo '
+<div id="calendar"></div>
+<!-- Create the calendar -->
+<script type="text/javascript">
+    // Get the element
+    var element = document.getElementById("calendar");
+    // Create the calendar
+    var myCalendar = jsCalendar.new(element);
+    myCalendar.previous();
+</script>
+' >> todo.html
+
+# THIS MONTH !
+echo ' 
             <!-- Calendar Element -->
             <div class="auto-jsCalendar"></div>
+' >> todo.html
+
+echo '
+<div id="my-calendar"></div>
+<!-- Create the calendar -->
+<script type="text/javascript">
+    // Get the element
+    var element = document.getElementById("my-calendar");
+    // Create the calendar
+    var myCalendar = jsCalendar.new(element);
+    myCalendar.next();
+</script>
+' >> todo.html
+
+echo '
+<div id="mycalendar"></div>
+<!-- Create the calendar -->
+<script type="text/javascript">
+    // Get the element
+    var element = document.getElementById("mycalendar");
+    // Create the calendar
+    var myCalendar = jsCalendar.new(element);
+    myCalendar.next();
+    myCalendar.next();
+</script>
+' >> todo.html
+
+echo '
+<div id="mcalendar"></div>
+<!-- Create the calendar -->
+<script type="text/javascript">
+    // Get the element
+    var element = document.getElementById("mcalendar");
+    // Create the calendar
+    var myCalendar = jsCalendar.new(element);
+    myCalendar.next();
+    myCalendar.next();
+    myCalendar.next();
+</script>
+
+' >> todo.html
+echo '
         </div>
      </div>
   </div>
 ' >> todo.html
+
 echo "</body></html>" >> todo.html
 #awk "" todo.html

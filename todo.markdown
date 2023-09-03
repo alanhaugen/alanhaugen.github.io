@@ -9,7 +9,7 @@
 
 # Due dates
 
-* [x] Compulsory 1 -> 1-september-2023  #programming-I
+* [x] Compulsory 1 -> 1-september-2023  #programming-I {#foo}
 * [ ] Oblig 1      -> 18-september-2023 #mathematics-I
 * [ ] Compulsory 1 -> 22-september-2023 #intro-3d
 * [ ] Compulsory 2 -> 29-september-2023 #programming-I

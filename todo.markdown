@@ -1,13 +1,9 @@
-###### Organize each day (triage). Then weekly (big picture)
-
 # Inbox
-
 ###### Update in the morning
 
 * [ ] Go to Mathematics lecture #campus #now
 
 # Action
-
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [ ] Look at "Getting things done" book #computer
@@ -28,4 +24,6 @@
 * [ ] Folder due   -> 1-december-2023   #intro-3d
 * [ ] Written exam -> 6-december-2023   #programming-I
 * [ ] Written exam -> 11-december-2023  #mathematics-I
+
+###### Organize each day (triage). Then weekly (big picture)
 

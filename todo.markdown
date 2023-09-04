@@ -1,14 +1,16 @@
 # Inbox
 ###### Update in the morning
 
-* [ ] Go to Mathematics lecture #campus #now
-
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Look at "Getting things done" book #computer
+* [x] Go to Mathematics lecture #campus #now
+* [x] Look at "Getting things done" book #computer
 * [ ] gamedev.tv #computer #plan
 * [ ] udemy.com #computer #plan
+* [ ] Do derivation assignment
+* [ ] Do oblig 1
+
 
 # Due dates
 

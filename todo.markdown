@@ -10,9 +10,9 @@
 * [x] Go to Mathematics lecture #campus #now
 * [x] Look at "Getting things done" book #computer
 * [x] Look into 7. sans book #library
+* [x] Do derivation assignment
 * [ ] gamedev.tv #computer #plan
 * [ ] udemy.com #computer #plan
-* [ ] Do derivation assignment
 * [ ] Do oblig 1
 
 

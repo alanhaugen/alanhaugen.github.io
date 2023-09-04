@@ -18,7 +18,7 @@
 * [x] gamedev.tv #computer #plan
 * [x] udemy.com #computer #plan
 * [x] Make matpakke #home
-* [ ] Put glasses in sack #home
+* [x] Put glasses in sack #home
 * [ ] Do oblig 1
 
 

@@ -51,7 +51,7 @@ echo '
     });
     myCalendar.previous();
     myCalendar.onDateRender(function(date, element, info) {
-        if (!info.isCurrent && date.) {
+        if (!info.isCurrent) {
 			element.style.fontWeight = "bold";
 			element.style.color = (info.isCurrentMonth) ? "#c32525" : "#ffb4b4";
 		}

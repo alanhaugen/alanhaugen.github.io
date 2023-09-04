@@ -29,13 +29,9 @@
 <h1 id="inbox">Inbox</h1>
 <h6 id="update-in-the-morning">Update in the morning</h6>
 <ul>
-<li><input type="checkbox" disabled="" />
-Make matpakke #home</li>
-<li><input type="checkbox" disabled="" />
-Put glasses in sack #home</li>
 <li>[ ] Do a lecture in Blender Character Creator v2.0 for Video Games Design Course</li>
 <li><input type="checkbox" disabled="" />
-Do a lecture in Blender Character Creator v2.0 for Video Games Design Course</li>
+Do a lecture in Complete Blender Creator 3: Learn 3D Modelling for Beginners</li>
 <li>[ ] Do a lecture in Piano4All</li>
 <li><input type="checkbox" disabled="" />
 Make a game related GitHub commit</li>
@@ -55,6 +51,10 @@ Do derivation assignment</li>
 gamedev.tv #computer #plan</li>
 <li><input type="checkbox" disabled="" checked="" />
 udemy.com #computer #plan</li>
+<li><input type="checkbox" disabled="" />
+Make matpakke #home</li>
+<li><input type="checkbox" disabled="" />
+Put glasses in sack #home</li>
 <li><input type="checkbox" disabled="" />
 Do oblig 1</li>
 </ul>
@@ -104,7 +104,7 @@ Written exam -&gt; 11-december-2023 #mathematics-I</li>
     });
     myCalendar.previous();
     myCalendar.onDateRender(function(date, element, info) {
-        if (!info.isCurrent && date.) {
+        if (!info.isCurrent) {
 			element.style.fontWeight = "bold";
 			element.style.color = (info.isCurrentMonth) ? "#c32525" : "#ffb4b4";
 		}

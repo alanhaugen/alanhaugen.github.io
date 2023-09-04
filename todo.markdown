@@ -1,7 +1,6 @@
 # Inbox
 ###### Update in the morning
 
-* [ ] Look into 7. sans book #library
 * [ ] Make matpakke #home
 
 # Action
@@ -9,6 +8,7 @@
 
 * [x] Go to Mathematics lecture #campus #now
 * [x] Look at "Getting things done" book #computer
+* [x] Look into 7. sans book #library
 * [ ] gamedev.tv #computer #plan
 * [ ] udemy.com #computer #plan
 * [ ] Do derivation assignment

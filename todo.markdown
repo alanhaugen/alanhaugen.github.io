@@ -2,6 +2,7 @@
 ###### Update in the morning
 
 * [ ] Make matpakke #home
+* [ ] Put glasses in sack #home
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
@@ -17,7 +18,7 @@
 
 # Due dates
 
-* [x] Compulsory 1 -> 1-september-2023  #programming-I {#foo}
+* [x] Compulsory 1 -> 1-september-2023  #programming-I 
 * [ ] Oblig 1      -> 18-september-2023 #mathematics-I
 * [ ] Compulsory 1 -> 22-september-2023 #intro-3d
 * [ ] Compulsory 2 -> 29-september-2023 #programming-I

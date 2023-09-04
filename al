@@ -27,7 +27,7 @@ echo '
 	<body>
     <div class="container">
       <div class="row">
-        <div class="seven columns" style="margin-top: 25%">
+        <div class="seven columns" style="margin-top: 15%">
 ' >> todo.html
 
 pandoc todo.markdown >> todo.html

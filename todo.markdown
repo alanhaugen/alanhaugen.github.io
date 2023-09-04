@@ -1,8 +1,6 @@
 # Inbox
 ###### Update in the morning
 
-* [ ] Make matpakke #home
-* [ ] Put glasses in sack #home
 * [ ] Do a lecture in Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Do a lecture in Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Do a lecture in Piano4All
@@ -17,6 +15,8 @@
 * [x] Do derivation assignment
 * [x] gamedev.tv #computer #plan
 * [x] udemy.com #computer #plan
+* [ ] Make matpakke #home
+* [ ] Put glasses in sack #home
 * [ ] Do oblig 1
 
 

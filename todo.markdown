@@ -1,9 +1,9 @@
 # Inbox
 ###### Update in the morning
 
-* [ ] Do a lecture in Blender Character Creator v2.0 for Video Games Design Course
-* [ ] Do a lecture in Complete Blender Creator 3: Learn 3D Modelling for Beginners
-* [ ] Do a lecture in Piano4All
+* [ ] Blender Character Creator v2.0 for Video Games Design Course
+* [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
+* [ ] Piano4All
 * [ ] Make a game related GitHub commit
 
 # Action

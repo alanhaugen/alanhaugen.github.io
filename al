@@ -1,4 +1,4 @@
-#!/bash/sh
+#!/bin/sh
 
 echo "<html lang=en>" > todo.html
 echo '
@@ -38,7 +38,7 @@ echo '
 ' >> todo.html
 
 echo '
-<div id="calendar"></div>
+<div id="calendar" data-firstDayOfTheWeek="2"></div>
 <!-- Create the calendar -->
 <script type="text/javascript">
     // Get the element
@@ -52,11 +52,11 @@ echo '
 # THIS MONTH !
 echo ' 
             <!-- Calendar Element -->
-            <div class="auto-jsCalendar"></div>
+            <div class="auto-jsCalendar" data-firstDayOfTheWeek="2"></div>
 ' >> todo.html
 
 echo '
-<div id="my-calendar"></div>
+<div id="my-calendar" data-firstDayOfTheWeek="2"></div>
 <!-- Create the calendar -->
 <script type="text/javascript">
     // Get the element
@@ -68,7 +68,7 @@ echo '
 ' >> todo.html
 
 echo '
-<div id="mycalendar"></div>
+<div id="mycalendar" data-firstDayOfTheWeek="2"></div>
 <!-- Create the calendar -->
 <script type="text/javascript">
     // Get the element
@@ -81,7 +81,7 @@ echo '
 ' >> todo.html
 
 echo '
-<div id="mcalendar"></div>
+<div id="mcalendar" data-firstDayOfTheWeek="2"></div>
 <!-- Create the calendar -->
 <script type="text/javascript">
     // Get the element

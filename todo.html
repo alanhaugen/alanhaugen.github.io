@@ -28,19 +28,21 @@
 
 <h1 id="inbox">Inbox</h1>
 <h6 id="update-in-the-morning">Update in the morning</h6>
-<ul class="task-list">
-<li><input type="checkbox" disabled="" />
-Go to Mathematics lecture #campus #now</li>
-</ul>
 <h1 id="action">Action</h1>
 <h6 id="assign-time.-revisit.-flag-what-needs-to-be-done-today.-the-battle-is-to-remember-what-to-do">Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!</h6>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
+Go to Mathematics lecture #campus #now</li>
+<li><input type="checkbox" disabled="" checked="" />
 Look at “Getting things done” book #computer</li>
 <li><input type="checkbox" disabled="" />
 gamedev.tv #computer #plan</li>
 <li><input type="checkbox" disabled="" />
 udemy.com #computer #plan</li>
+<li><input type="checkbox" disabled="" />
+Do derivation assignment</li>
+<li><input type="checkbox" disabled="" />
+Do oblig 1</li>
 </ul>
 <h1 id="due-dates">Due dates</h1>
 <ul class="task-list">
@@ -75,7 +77,7 @@ Written exam -&gt; 11-december-2023 #mathematics-I</li>
         <div class="five columns portrait" style="margin-top: 15%">
 
 
-<div id="calendar"></div>
+<div id="calendar" data-firstDayOfTheWeek="2"></div>
 <!-- Create the calendar -->
 <script type="text/javascript">
     // Get the element
@@ -87,10 +89,10 @@ Written exam -&gt; 11-december-2023 #mathematics-I</li>
 
  
             <!-- Calendar Element -->
-            <div class="auto-jsCalendar"></div>
+            <div class="auto-jsCalendar" data-firstDayOfTheWeek="2"></div>
 
 
-<div id="my-calendar"></div>
+<div id="my-calendar" data-firstDayOfTheWeek="2"></div>
 <!-- Create the calendar -->
 <script type="text/javascript">
     // Get the element
@@ -101,7 +103,7 @@ Written exam -&gt; 11-december-2023 #mathematics-I</li>
 </script>
 
 
-<div id="mycalendar"></div>
+<div id="mycalendar" data-firstDayOfTheWeek="2"></div>
 <!-- Create the calendar -->
 <script type="text/javascript">
     // Get the element
@@ -113,7 +115,7 @@ Written exam -&gt; 11-december-2023 #mathematics-I</li>
 </script>
 
 
-<div id="mcalendar"></div>
+<div id="mcalendar" data-firstDayOfTheWeek="2"></div>
 <!-- Create the calendar -->
 <script type="text/javascript">
     // Get the element

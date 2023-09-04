@@ -28,11 +28,17 @@
 
 <h1 id="inbox">Inbox</h1>
 <h6 id="update-in-the-morning">Update in the morning</h6>
-<ul class="task-list">
+<ul>
 <li><input type="checkbox" disabled="" />
 Make matpakke #home</li>
 <li><input type="checkbox" disabled="" />
 Put glasses in sack #home</li>
+<li>[ ] Do a lecture in Blender Character Creator v2.0 for Video Games Design Course</li>
+<li><input type="checkbox" disabled="" />
+Do a lecture in Blender Character Creator v2.0 for Video Games Design Course</li>
+<li>[ ] Do a lecture in Piano4All</li>
+<li><input type="checkbox" disabled="" />
+Make a game related GitHub commit</li>
 </ul>
 <h1 id="action">Action</h1>
 <h6 id="assign-time.-revisit.-flag-what-needs-to-be-done-today.-the-battle-is-to-remember-what-to-do">Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!</h6>
@@ -45,9 +51,9 @@ Look at “Getting things done” book #computer</li>
 Look into 7. sans book #library</li>
 <li><input type="checkbox" disabled="" checked="" />
 Do derivation assignment</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 gamedev.tv #computer #plan</li>
-<li><input type="checkbox" disabled="" />
+<li><input type="checkbox" disabled="" checked="" />
 udemy.com #computer #plan</li>
 <li><input type="checkbox" disabled="" />
 Do oblig 1</li>
@@ -98,7 +104,7 @@ Written exam -&gt; 11-december-2023 #mathematics-I</li>
     });
     myCalendar.previous();
     myCalendar.onDateRender(function(date, element, info) {
-        if (!info.isCurrent) {
+        if (!info.isCurrent && date.) {
 			element.style.fontWeight = "bold";
 			element.style.color = (info.isCurrentMonth) ? "#c32525" : "#ffb4b4";
 		}

@@ -3,6 +3,10 @@
 
 * [ ] Make matpakke #home
 * [ ] Put glasses in sack #home
+* [ ] Do a lecture in Blender Character Creator v2.0 for Video Games Design Course
+* [ ] Do a lecture in Blender Character Creator v2.0 for Video Games Design Course
+* [ ] Do a lecture in Piano4All
+* [ ] Make a game related GitHub commit
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
@@ -11,8 +15,8 @@
 * [x] Look at "Getting things done" book #computer
 * [x] Look into 7. sans book #library
 * [x] Do derivation assignment
-* [ ] gamedev.tv #computer #plan
-* [ ] udemy.com #computer #plan
+* [x] gamedev.tv #computer #plan
+* [x] udemy.com #computer #plan
 * [ ] Do oblig 1
 
 

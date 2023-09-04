@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "<html lang=en>" > todo.html
+echo "<!DOCTYPE html lang=en>" > todo.html
 echo '
 <head>
     <!-- FONT

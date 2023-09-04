@@ -5,6 +5,8 @@
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
 * [ ] Piano4All
 * [ ] Make a game related GitHub commit
+* [ ] Read a book 20 minutes
+* [ ] Go for a long walk early
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
@@ -15,7 +17,7 @@
 * [x] Do derivation assignment
 * [x] gamedev.tv #computer #plan
 * [x] udemy.com #computer #plan
-* [ ] Make matpakke #home
+* [x] Make matpakke #home
 * [ ] Put glasses in sack #home
 * [ ] Do oblig 1
 

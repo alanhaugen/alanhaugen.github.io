@@ -1,6 +1,9 @@
 # Inbox
 ###### Update in the morning
 
+* [ ] Look into 7. sans book #library
+* [ ] Make matpakke #home
+
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 

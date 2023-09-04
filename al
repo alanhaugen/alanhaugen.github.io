@@ -38,62 +38,54 @@ echo '
 ' >> todo.html
 
 echo '
-<div id="calendar" data-firstDayOfTheWeek="2"></div>
+<div id="calendar"></div>
 <!-- Create the calendar -->
 <script type="text/javascript">
     // Get the element
     var element = document.getElementById("calendar");
     // Create the calendar
-    var myCalendar = jsCalendar.new(element);
+    var myCalendar = jsCalendar.new({
+        target : element,
+        navigator : false,
+        firstDayOfTheWeek : "2"
+    });
     myCalendar.previous();
-</script>
-' >> todo.html
-
-# THIS MONTH !
-echo ' 
-            <!-- Calendar Element -->
-            <div class="auto-jsCalendar" data-firstDayOfTheWeek="2"></div>
-' >> todo.html
-
-echo '
-<div id="my-calendar" data-firstDayOfTheWeek="2"></div>
-<!-- Create the calendar -->
-<script type="text/javascript">
-    // Get the element
-    var element = document.getElementById("my-calendar");
-    // Create the calendar
-    var myCalendar = jsCalendar.new(element);
+    myCalendar.onDateRender(function(date, element, info) {
+        if (!info.isCurrent && date.) {
+			element.style.fontWeight = "bold";
+			element.style.color = (info.isCurrentMonth) ? "#c32525" : "#ffb4b4";
+		}
+        });
+    myCalendar.refresh();
+    var myCalendar = jsCalendar.new({
+        target : element,
+        navigator : false,
+        firstDayOfTheWeek : "2"
+    });
+    var myCalendar = jsCalendar.new({
+        target : element,
+        navigator : false,
+        firstDayOfTheWeek : "2"
+    });
     myCalendar.next();
-</script>
-' >> todo.html
-
-echo '
-<div id="mycalendar" data-firstDayOfTheWeek="2"></div>
-<!-- Create the calendar -->
-<script type="text/javascript">
-    // Get the element
-    var element = document.getElementById("mycalendar");
-    // Create the calendar
-    var myCalendar = jsCalendar.new(element);
+    var myCalendar = jsCalendar.new({
+        target : element,
+        navigator : false,
+        firstDayOfTheWeek : "2"
+    });
     myCalendar.next();
     myCalendar.next();
-</script>
-' >> todo.html
-
-echo '
-<div id="mcalendar" data-firstDayOfTheWeek="2"></div>
-<!-- Create the calendar -->
-<script type="text/javascript">
-    // Get the element
-    var element = document.getElementById("mcalendar");
-    // Create the calendar
-    var myCalendar = jsCalendar.new(element);
+    var myCalendar = jsCalendar.new({
+        target : element,
+        navigator : false,
+        firstDayOfTheWeek : "2"
+    });
     myCalendar.next();
     myCalendar.next();
     myCalendar.next();
 </script>
-
 ' >> todo.html
+
 echo '
         </div>
      </div>

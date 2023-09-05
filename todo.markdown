@@ -5,7 +5,7 @@
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [x] Go to programming lecture
-* [ ] Go for a long walk early
+* [x] Go for a long walk early
 * [ ] Do oblig 1
 * [ ] Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners

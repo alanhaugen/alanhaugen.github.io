@@ -133,50 +133,64 @@ echo "
 
             function makeCalc(month)
             {
-            var element = document.getElementById('calendar');
-            month = month - 1;
+                var element = document.getElementById('calendar');
+                month = month - 1;
 
-            var d = new Date();
-            var diff = month - d.getMonth();
+                var d = new Date();
+                var diff = month - d.getMonth();
 
-            var cal = jsCalendar.new({
-                target : element,
-                navigator : false,
-                firstDayOfTheWeek : "2"
-            });
-			cal.set('now');
+                var cal = jsCalendar.new({
+                    target : element,
+                    navigator : false,
+                    firstDayOfTheWeek : "2"
+                });
+                cal.set('now');
 
-            if (diff < 0)
-            {
-                while (diff != 0)
+                if (diff < 0)
                 {
-                    cal.previous();
-                    diff = diff + 1;
+                    while (diff != 0)
+                    {
+                        cal.previous();
+                        diff = diff + 1;
+                    }
                 }
-            }
-            else if (diff > 0)
-            {
-                while (diff != 0)
+                else if (diff > 0)
                 {
-                    cal.next();
-                    diff = diff - 1;
+                    while (diff != 0)
+                    {
+                        cal.next();
+                        diff = diff - 1;
+                    }
                 }
-            }
 
-			//cal.select('now');
-			cal.select('01/09/2023');
-			cal.colorfulSelect('01/09/2023', 'jsCalendar-colorful-green');
-			cal.colorfulSelect('18/09/2023', 'jsCalendar-colorful-blue');
-			cal.colorfulSelect('22/09/2023', 'jsCalendar-colorful-orange');
-			cal.colorfulSelect('29/09/2023', 'jsCalendar-colorful-green');
-			cal.colorfulSelect('20/10/2023', 'jsCalendar-colorful-orange');
-			cal.colorfulSelect('23/10/2023', 'jsCalendar-colorful-blue');
-			cal.colorfulSelect('27/10/2023', 'jsCalendar-colorful-green');
-			cal.colorfulSelect('03/11/2023', 'jsCalendar-colorful-orange');
-			cal.colorfulSelect('17/11/2023', 'jsCalendar-colorful-blue');
-			cal.colorfulSelect('01/12/2023', 'jsCalendar-colorful-orange');
-			cal.colorfulSelect('06/12/2023', 'jsCalendar-colorful-green');
-			cal.colorfulSelect('11/12/2023', 'jsCalendar-colorful-blue');
+                month = month + 1;
+
+                //cal.select('now');
+                //cal.select('01/09/2023');
+                if (month == 9)
+                {
+                cal.colorfulSelect('01/09/2023', 'jsCalendar-colorful-green');
+                cal.colorfulSelect('18/09/2023', 'jsCalendar-colorful-blue');
+                cal.colorfulSelect('22/09/2023', 'jsCalendar-colorful-orange');
+                cal.colorfulSelect('29/09/2023', 'jsCalendar-colorful-green');
+                }
+                if (month == 10)
+                {
+                cal.colorfulSelect('20/10/2023', 'jsCalendar-colorful-orange');
+                cal.colorfulSelect('23/10/2023', 'jsCalendar-colorful-blue');
+                cal.colorfulSelect('27/10/2023', 'jsCalendar-colorful-green');
+                }
+                if (month == 11)
+                {
+                cal.colorfulSelect('03/11/2023', 'jsCalendar-colorful-orange');
+                cal.colorfulSelect('17/11/2023', 'jsCalendar-colorful-blue');
+                }
+                if (month == 12)
+                {
+                cal.colorfulSelect('01/12/2023', 'jsCalendar-colorful-orange');
+                cal.colorfulSelect('06/12/2023', 'jsCalendar-colorful-green');
+                cal.colorfulSelect('11/12/2023', 'jsCalendar-colorful-blue');
+                }
             }
 
             makeCalc(8);  // August

@@ -1,6 +1,9 @@
 # Inbox
 ###### Update in the morning
 
+# Action
+###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
+
 * [ ] Go to programming lecture
 * [ ] Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
@@ -8,18 +11,6 @@
 * [ ] Make a game related GitHub commit
 * [ ] Read a book 20 minutes
 * [ ] Go for a long walk early
-
-# Action
-###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
-
-* [x] Go to Mathematics lecture #campus #now
-* [x] Look at "Getting things done" book #computer
-* [x] Look into 7. sans book #library
-* [x] Do derivation assignment
-* [x] gamedev.tv #computer #plan
-* [x] udemy.com #computer #plan
-* [x] Make matpakke #home
-* [x] Put glasses in sack #home
 * [ ] Do oblig 1
 
 

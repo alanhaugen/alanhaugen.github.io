@@ -6,7 +6,7 @@
 
 * [x] Go to programming lecture
 * [x] Go for a long walk early
-* [ ] Do oblig 1
+* [x] Do oblig 1
 * [ ] Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
 * [ ] Piano4All

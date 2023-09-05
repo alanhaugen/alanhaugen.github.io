@@ -5,13 +5,13 @@
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [x] Go to programming lecture
+* [ ] Go for a long walk early
+* [ ] Do oblig 1
 * [ ] Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
 * [ ] Piano4All
 * [ ] Make a game related GitHub commit
 * [ ] Read a book 20 minutes
-* [ ] Go for a long walk early
-* [ ] Do oblig 1
 
 
 # Due dates

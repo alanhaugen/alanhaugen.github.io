@@ -4,7 +4,7 @@
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Go to programming lecture
+* [x] Go to programming lecture
 * [ ] Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
 * [ ] Piano4All

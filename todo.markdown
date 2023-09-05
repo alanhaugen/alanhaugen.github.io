@@ -17,7 +17,7 @@
 # Due dates
 
 * [x] Compulsory 1 -> 1-september-2023  #programming-I 
-* [ ] Oblig 1      -> 18-september-2023 #mathematics-I
+* [x] Oblig 1      -> 18-september-2023 #mathematics-I
 * [ ] Compulsory 1 -> 22-september-2023 #intro-3d
 * [ ] Compulsory 2 -> 29-september-2023 #programming-I
 * [ ] Compulsory 2 -> 20-october-2023   #intro-3d

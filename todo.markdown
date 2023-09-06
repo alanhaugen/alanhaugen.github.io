@@ -5,16 +5,16 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Blender for Beginners: Easy Froggy! https://www.youtube.com/watch?v=rEBwBrRzyhw
-* [ ] Blender Basics - Subdivision Surface Modifier Tutorial https://www.youtube.com/watch?v=NAwf0Tuuwjw
+* [ ] Blender for Beginners: Easy Froggy! [https://www.youtube.com/watch?v=rEBwBrRzyhw](https://www.youtube.com/watch?v=rEBwBrRzyhw)
+* [ ] Blender Basics - Subdivision Surface Modifier Tutorial [https://www.youtube.com/watch?v=NAwf0Tuuwjw](https://www.youtube.com/watch?v=NAwf0Tuuwjw)
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [x] Go to mathematics lecture
 * [x] Go for a long walk early
-* [ ] Blender Character Creator v2.0 for Video Games Design Course
-* [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
+* [x] Blender Character Creator v2.0 for Video Games Design Course
+* [x] Complete Blender Creator 3: Learn 3D Modelling for Beginners
 * [ ] Make a game related GitHub commit
 * [ ] Read a book 20 minutes
 

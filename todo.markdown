@@ -1,25 +1,15 @@
 # Inbox
 ###### Update in the morning
 
-* [ ] Go to mathematics lecture
+# Action
+###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
+
+* [x] Go to mathematics lecture
 * [ ] Go for a long walk early
 * [ ] Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
 * [ ] Make a game related GitHub commit
 * [ ] Read a book 20 minutes
-
-# Action
-###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
-
-* [x] Go to programming lecture
-* [x] Go for a long walk early
-* [x] Do oblig 1
-* [x] Read a book 20 minutes
-* [x] Blender Character Creator v2.0 for Video Games Design Course
-* [x] Complete Blender Creator 3: Learn 3D Modelling for Beginners
-* [x] Piano4All
-* [x] Make a game related GitHub commit
-
 
 # Due dates
 

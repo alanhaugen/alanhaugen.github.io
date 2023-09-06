@@ -1,3 +1,7 @@
+---
+colorlinks: true
+---
+
 # Inbox
 ###### Update in the morning
 

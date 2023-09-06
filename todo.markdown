@@ -7,6 +7,12 @@ colorlinks: true
 
 * [ ] Blender for Beginners: Easy Froggy! [https://www.youtube.com/watch?v=rEBwBrRzyhw](https://www.youtube.com/watch?v=rEBwBrRzyhw)
 * [ ] Blender Basics - Subdivision Surface Modifier Tutorial [https://www.youtube.com/watch?v=NAwf0Tuuwjw](https://www.youtube.com/watch?v=NAwf0Tuuwjw)
+* [ ] Piano4All
+* [ ] Blender Character Creator v2.0 for Video Games Design Course
+* [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
+* [ ] Fix delete cube bug
+* [ ] Do Modern Graphics Programming files
+* [ ] Read a book 20 minutes
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
@@ -15,8 +21,8 @@ colorlinks: true
 * [x] Go for a long walk early
 * [x] Blender Character Creator v2.0 for Video Games Design Course
 * [x] Complete Blender Creator 3: Learn 3D Modelling for Beginners
-* [ ] Make a game related GitHub commit
-* [ ] Read a book 20 minutes
+* [x] Make a game related GitHub commit
+* [x] Read a book 20 minutes
 
 # Due dates
 

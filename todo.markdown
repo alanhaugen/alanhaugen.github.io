@@ -1,6 +1,9 @@
 # Inbox
 ###### Update in the morning
 
+* [ ] Blender for Beginners: Easy Froggy! https://www.youtube.com/watch?v=rEBwBrRzyhw
+* [ ] Blender Basics - Subdivision Surface Modifier Tutorial https://www.youtube.com/watch?v=NAwf0Tuuwjw
+
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 

@@ -8,10 +8,15 @@ colorlinks: true
 * [ ] Compulsory 1 -> 22-september-2023 #intro-3d
 * [ ] Derivation Week 37 mathematics-I
 * [ ] Exam Practice Mathematics
+* [ ] Make wash water
+* [ ] Wash bathroom floor
+* [ ] Wash bathroom walls
+* [ ] Wash bathroom sink
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Wash shoes
 * [ ] Blender for Beginners: Easy Froggy! [https://www.youtube.com/watch?v=rEBwBrRzyhw](https://www.youtube.com/watch?v=rEBwBrRzyhw)
 * [ ] Blender Basics - Subdivision Surface Modifier Tutorial [https://www.youtube.com/watch?v=NAwf0Tuuwjw](https://www.youtube.com/watch?v=NAwf0Tuuwjw)
 * [ ] Go to 3d lecture

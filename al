@@ -29,7 +29,8 @@ echo '
 			.jsCalendar tbody td.jsCalendar-colorful-green {border-color: #7FB800;}
 
 .week {
-color: #1EAEDB;
+color: #888;
+border-color: #888;
 }
 
 		</style>

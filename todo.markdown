@@ -6,6 +6,8 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Compulsory 1 -> 22-september-2023 #intro-3d
+* [ ] Derivation Week 37 mathematics-I
+* [ ] Exam Practice Mathematics
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!

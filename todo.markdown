@@ -5,6 +5,7 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [] Watch 5 Modeling Tools You Need To Make ANYTHING in Blender [https://www.youtube.com/watch?v=kejQ8nX5YZA](https://www.youtube.com/watch?v=kejQ8nX5YZA)
 * [ ] Compulsory 1 -> 22-september-2023 #intro-3d
 * [ ] Derivation Week 37 mathematics-I
 * [ ] Exam Practice Mathematics
@@ -19,7 +20,7 @@ colorlinks: true
 * [x] Wash shoes
 * [x] Blender for Beginners: Easy Froggy! [https://www.youtube.com/watch?v=rEBwBrRzyhw](https://www.youtube.com/watch?v=rEBwBrRzyhw)
 * [x] Blender Basics - Subdivision Surface Modifier Tutorial [https://www.youtube.com/watch?v=NAwf0Tuuwjw](https://www.youtube.com/watch?v=NAwf0Tuuwjw)
-* [ ] Go to 3d lecture
+* [x] Go to 3d lecture
 * [ ] Go for a long walk early
 * [ ] Piano4All
 * [ ] Blender Character Creator v2.0 for Video Games Design Course

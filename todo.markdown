@@ -16,9 +16,9 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Wash shoes
-* [ ] Blender for Beginners: Easy Froggy! [https://www.youtube.com/watch?v=rEBwBrRzyhw](https://www.youtube.com/watch?v=rEBwBrRzyhw)
-* [ ] Blender Basics - Subdivision Surface Modifier Tutorial [https://www.youtube.com/watch?v=NAwf0Tuuwjw](https://www.youtube.com/watch?v=NAwf0Tuuwjw)
+* [x] Wash shoes
+* [x] Blender for Beginners: Easy Froggy! [https://www.youtube.com/watch?v=rEBwBrRzyhw](https://www.youtube.com/watch?v=rEBwBrRzyhw)
+* [x] Blender Basics - Subdivision Surface Modifier Tutorial [https://www.youtube.com/watch?v=NAwf0Tuuwjw](https://www.youtube.com/watch?v=NAwf0Tuuwjw)
 * [ ] Go to 3d lecture
 * [ ] Go for a long walk early
 * [ ] Piano4All

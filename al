@@ -41,14 +41,14 @@ echo '
 	<body>
     <div class="container">
       <div class="row">
-        <div class="seven columns" style="margin-top: 15%">
+        <div class="six columns" style="margin-top: 15%">
 ' >> todo.html
 
 pandoc todo.markdown >> todo.html
 
 echo '
         </div>
-        <div class="five columns portrait" style="margin-top: 15%">
+        <div class="six columns portrait" style="margin-top: 15%">
 ' >> todo.html
 
 echo '

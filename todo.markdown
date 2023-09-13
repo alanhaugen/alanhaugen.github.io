@@ -12,10 +12,8 @@ colorlinks: true
 * [ ] Wash bathroom sink #home
 * [ ] Go for a long walk early #health
 * [ ] Compulsory 1 -> 22-september-2023 #intro-3d
-* [ ] Derivation Week 37 mathematics-I #mathematic
+* [ ] Derivation Week 37 mathematics-I #mathematics
 * [ ] Fix delete cube bug #programming
-* [ ] Write solve polynomial code #programming
-* [ ] Do Modern Graphics Programming files #programming
 * [ ] Read a book 20 minutes #recreation
 * [ ] Meditate for 20 minutes #health
 * [ ] Exam Practice Mathematics #mathematics
@@ -29,6 +27,8 @@ colorlinks: true
 * [x] Go to 3d lecture
 * [x] Go for a long walk early
 * [x] Watch 5 Modeling Tools You Need To Make ANYTHING in Blender [https://www.youtube.com/watch?v=kejQ8nX5YZA](https://www.youtube.com/watch?v=kejQ8nX5YZA)
+* [x] Write solve polynomial code #programming
+* [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18) #programming
 
 # Long term plan
 ###### Update Weekly

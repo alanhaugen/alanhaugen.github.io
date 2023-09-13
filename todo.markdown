@@ -5,7 +5,6 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Clean kitchen #home
 * [ ] Make wash water #home
 * [ ] Wash bathroom floor #home
 * [ ] Wash bathroom walls #home
@@ -28,6 +27,7 @@ colorlinks: true
 * [x] Go for a long walk early
 * [x] Watch 5 Modeling Tools You Need To Make ANYTHING in Blender [https://www.youtube.com/watch?v=kejQ8nX5YZA](https://www.youtube.com/watch?v=kejQ8nX5YZA)
 * [x] Write solve polynomial code #programming
+* [x] Clean kitchen #home
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18) #programming
 
 # Long term plan

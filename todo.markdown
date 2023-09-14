@@ -13,7 +13,7 @@ colorlinks: true
 * [x] Wash bathroom walls #home
 * [x] Wash bathroom sink #home
 * [x] Go for a long walk early #health
-* [ ] Watch How to USE These 6 Basic Blender MATERIALS: Eevee and Cycles Tutorial [https://www.youtube.com/watch?v=CN9ggYpl9SU](https://www.youtube.com/watch?v=CN9ggYpl9SU)
+* [x] Watch How to USE These 6 Basic Blender MATERIALS: Eevee and Cycles Tutorial [https://www.youtube.com/watch?v=CN9ggYpl9SU](https://www.youtube.com/watch?v=CN9ggYpl9SU)
 * [ ] Watch Intro to Blender UV Mapping [https://www.youtube.com/watch?v=GTd8NBg8EZU](https://www.youtube.com/watch?v=GTd8NBg8EZU)
 * [ ] Watch All 80+ Blender material nodes explained in under 30 minutes [https://www.youtube.com/watch?v=cQ0qtcSymDI](https://www.youtube.com/watch?v=cQ0qtcSymDI)
 * [ ] Watch Texture Painting - Quick Start Guide - Blender [https://www.youtube.com/watch?v=WjS\_zNQNVlw](https://www.youtube.com/watch?v=WjS_zNQNVlw)

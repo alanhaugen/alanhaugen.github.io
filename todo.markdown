@@ -17,6 +17,7 @@ colorlinks: true
 * [ ] Meditate for 20 minutes #health
 * [ ] Exam Practice Mathematics #mathematics
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18) #programming
+
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 

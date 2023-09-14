@@ -16,7 +16,7 @@ colorlinks: true
 * [ ] Watch How to USE These 6 Basic Blender MATERIALS: Eevee and Cycles Tutorial [https://www.youtube.com/watch?v=CN9ggYpl9SU](https://www.youtube.com/watch?v=CN9ggYpl9SU)
 * [ ] Watch Intro to Blender UV Mapping [https://www.youtube.com/watch?v=GTd8NBg8EZU](https://www.youtube.com/watch?v=GTd8NBg8EZU)
 * [ ] Watch All 80+ Blender material nodes explained in under 30 minutes [https://www.youtube.com/watch?v=cQ0qtcSymDI](https://www.youtube.com/watch?v=cQ0qtcSymDI)
-* [ ] Watch Texture Painting - Quick Start Guide - Blender [https://www.youtube.com/watch?v=WjS_zNQNVlw](https://www.youtube.com/watch?v=WjS_zNQNVlw)
+* [ ] Watch Texture Painting - Quick Start Guide - Blender [https://www.youtube.com/watch?v=WjS\_zNQNVlw](https://www.youtube.com/watch?v=WjS_zNQNVlw)
 * [ ] Watch The Complete Guide to UV Unwrapping for the 3D Artist - Where & Why Marking Seams [https://www.youtube.com/watch?v=jnzhNdWoXMg](https://www.youtube.com/watch?v=jnzhNdWoXMg)
 * [ ] Compulsory 1 -> 22-september-2023 #intro-3d
 * [ ] Derivation Week 37 mathematics-I #mathematics

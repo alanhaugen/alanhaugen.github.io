@@ -5,29 +5,25 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Make wash water #home
-* [ ] Wash bathroom floor #home
-* [ ] Wash bathroom walls #home
-* [ ] Wash bathroom sink #home
-* [ ] Go for a long walk early #health
+# Action
+###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
+
+* [x] Make wash water #home
+* [x] Wash bathroom floor #home
+* [x] Wash bathroom walls #home
+* [x] Wash bathroom sink #home
+* [x] Go for a long walk early #health
+* [ ] Watch How to USE These 6 Basic Blender MATERIALS: Eevee and Cycles Tutorial [https://www.youtube.com/watch?v=CN9ggYpl9SU](https://www.youtube.com/watch?v=CN9ggYpl9SU)
+* [ ] Watch Intro to Blender UV Mapping [https://www.youtube.com/watch?v=GTd8NBg8EZU](https://www.youtube.com/watch?v=GTd8NBg8EZU)
+* [ ] Watch All 80+ Blender material nodes explained in under 30 minutes [https://www.youtube.com/watch?v=cQ0qtcSymDI](https://www.youtube.com/watch?v=cQ0qtcSymDI)
+* [ ] Watch Texture Painting - Quick Start Guide - Blender [https://www.youtube.com/watch?v=WjS_zNQNVlw](https://www.youtube.com/watch?v=WjS_zNQNVlw)
+* [ ] Watch The Complete Guide to UV Unwrapping for the 3D Artist - Where & Why Marking Seams [https://www.youtube.com/watch?v=jnzhNdWoXMg](https://www.youtube.com/watch?v=jnzhNdWoXMg)
 * [ ] Compulsory 1 -> 22-september-2023 #intro-3d
 * [ ] Derivation Week 37 mathematics-I #mathematics
 * [ ] Fix delete cube bug #programming
 * [ ] Read a book 20 minutes #recreation
 * [ ] Meditate for 20 minutes #health
 * [ ] Exam Practice Mathematics #mathematics
-
-# Action
-###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
-
-* [x] Wash shoes
-* [x] Blender for Beginners: Easy Froggy! [https://www.youtube.com/watch?v=rEBwBrRzyhw](https://www.youtube.com/watch?v=rEBwBrRzyhw)
-* [x] Blender Basics - Subdivision Surface Modifier Tutorial [https://www.youtube.com/watch?v=NAwf0Tuuwjw](https://www.youtube.com/watch?v=NAwf0Tuuwjw)
-* [x] Go to 3d lecture
-* [x] Go for a long walk early
-* [x] Watch 5 Modeling Tools You Need To Make ANYTHING in Blender [https://www.youtube.com/watch?v=kejQ8nX5YZA](https://www.youtube.com/watch?v=kejQ8nX5YZA)
-* [x] Write solve polynomial code #programming
-* [x] Clean kitchen #home
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18) #programming
 
 # Long term plan

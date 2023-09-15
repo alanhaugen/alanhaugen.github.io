@@ -5,9 +5,6 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Start washing up machine
-* [ ] Buy toilet paper
-
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 

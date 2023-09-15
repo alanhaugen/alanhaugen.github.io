@@ -11,10 +11,10 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Watch Intro to Blender UV Mapping [https://www.youtube.com/watch?v=GTd8NBg8EZU](https://www.youtube.com/watch?v=GTd8NBg8EZU)
-* [ ] Watch All 80+ Blender material nodes explained in under 30 minutes [https://www.youtube.com/watch?v=cQ0qtcSymDI](https://www.youtube.com/watch?v=cQ0qtcSymDI)
-* [ ] Watch Texture Painting - Quick Start Guide - Blender [https://www.youtube.com/watch?v=WjS\_zNQNVlw](https://www.youtube.com/watch?v=WjS_zNQNVlw)
-* [ ] Watch The Complete Guide to UV Unwrapping for the 3D Artist - Where & Why Marking Seams [https://www.youtube.com/watch?v=jnzhNdWoXMg](https://www.youtube.com/watch?v=jnzhNdWoXMg)
+* [x] Watch Intro to Blender UV Mapping [https://www.youtube.com/watch?v=GTd8NBg8EZU](https://www.youtube.com/watch?v=GTd8NBg8EZU)
+* [x] Watch All 80+ Blender material nodes explained in under 30 minutes [https://www.youtube.com/watch?v=cQ0qtcSymDI](https://www.youtube.com/watch?v=cQ0qtcSymDI)
+* [x] Watch Texture Painting - Quick Start Guide - Blender [https://www.youtube.com/watch?v=WjS\_zNQNVlw](https://www.youtube.com/watch?v=WjS_zNQNVlw)
+* [x] Watch The Complete Guide to UV Unwrapping for the 3D Artist - Where & Why Marking Seams [https://www.youtube.com/watch?v=jnzhNdWoXMg](https://www.youtube.com/watch?v=jnzhNdWoXMg)
 * [ ] Compulsory 1 -> 22-september-2023 #intro-3d
 * [ ] Derivation Week 37 mathematics-I #mathematics
 * [ ] Fix delete cube bug #programming

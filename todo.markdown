@@ -5,17 +5,19 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Make mushroom guy as practice #intro-3d
+* [ ] Fix delete cube bug #programming
+* [ ] Exam Practice Mathematics #mathematics
+
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [x] Compulsory 1 -> 22-september-2023 #intro-3d
-* [ ] Go for a long walk early #health
+* [x] Go for a long walk early #health
 * [ ] Read a book 20 minutes #recreation
 * [ ] Meditate for 20 minutes #health
 * [ ] Derivation Week 37 mathematics-I #mathematics
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18) #programming
-* [ ] Fix delete cube bug #programming
-* [ ] Exam Practice Mathematics #mathematics
 
 # Long term plan
 ###### Update Weekly
@@ -29,8 +31,8 @@ colorlinks: true
 
 * [x] Compulsory 1 -> 1-september-2023  #programming-I 
 * [x] Oblig 1      -> 18-september-2023 #mathematics-I
-* [ ] Compulsory 1 -> 22-september-2023 #intro-3d
-* [ ] Compulsory 2 -> 29-september-2023 #programming-I
+* [x] Compulsory 1 -> 22-september-2023 #intro-3d
+* [x] Compulsory 2 -> 29-september-2023 #programming-I
 * [ ] Compulsory 2 -> 20-october-2023   #intro-3d
 * [ ] Oblig 2      -> 23-october-2023   #mathematics-I
 * [ ] Compulsory 3 -> 27-october-2023   #programming-I

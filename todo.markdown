@@ -8,7 +8,7 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Compulsory 1 -> 22-september-2023 #intro-3d
+* [x] Compulsory 1 -> 22-september-2023 #intro-3d
 * [ ] Go for a long walk early #health
 * [ ] Read a book 20 minutes #recreation
 * [ ] Meditate for 20 minutes #health

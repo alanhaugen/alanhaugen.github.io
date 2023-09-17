@@ -9,19 +9,20 @@ colorlinks: true
 * [ ] Implement polynomial multiplication #programming
 * [ ] Implement polynomial devision #programming
 * [ ] Implement PEMDAS, use a tree data structure #programming
+* [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and append comment option in solid #programming
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Go for a long walk early #health
+* [x] Go for a long walk early #health
 * [x] Read a book 20 minutes #recreation
-* [ ] Meditate for 20 minutes #health
-* [ ] Derivation Week 37 mathematics-I #mathematics
-* [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18) #programming
+* [x] Meditate for 20 minutes #health
+* [x] Derivation Week 37 mathematics-I #mathematics
 
 # Long term plan
 ###### Update Weekly
 
+* [ ] Modern Graphics Programming files #programming
 * [ ] Make fish as practice #intro-3d -> 19-september-2023
 * [ ] Make carrot man as practice #intro-3d -> 20-september-2023
 * [ ] Fix delete cube bug #programming

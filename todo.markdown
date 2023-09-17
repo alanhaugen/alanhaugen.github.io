@@ -5,16 +5,16 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Make mushroom guy as practice #intro-3d
-* [ ] Fix delete cube bug #programming
-* [ ] Exam Practice Mathematics #mathematics
+* [ ] Make mushroom guy as practice #intro-3d -> 18-september-2023
+* [ ] Implement polynomial multiplication #programming
+* [ ] Implement polynomial devision #programming
+* [ ] Implement PEMDAS, use a tree data structure #programming
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [x] Compulsory 1 -> 22-september-2023 #intro-3d
-* [x] Go for a long walk early #health
-* [ ] Read a book 20 minutes #recreation
+* [ ] Go for a long walk early #health
+* [x] Read a book 20 minutes #recreation
 * [ ] Meditate for 20 minutes #health
 * [ ] Derivation Week 37 mathematics-I #mathematics
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18) #programming
@@ -22,9 +22,13 @@ colorlinks: true
 # Long term plan
 ###### Update Weekly
 
+* [ ] Make fish as practice #intro-3d -> 19-september-2023
+* [ ] Make carrot man as practice #intro-3d -> 20-september-2023
+* [ ] Fix delete cube bug #programming
 * [ ] Complete Piano4All
 * [ ] Complete Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
+* [ ] Exam Practice Mathematics #mathematics
 * [ ] Complete Semester 1 Game School
 
 # Due dates

@@ -16,7 +16,7 @@ colorlinks: true
 * [ ] Implement polynomial devision #programming
 * [ ] Implement PEMDAS, use a tree data structure #programming
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
-* [ ] Go for a long walk early #health
+* [x] Go for a long walk early #health
 * [x] Read a book 20 minutes #recreation
 
 # Long term plan

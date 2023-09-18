@@ -5,6 +5,9 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+# Action
+###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
+
 * [ ] Make mushroom guy as practice #intro-3d -> 18-september-2023
 * [ ] Implement polynomial multiplication #programming
 * [ ] Implement polynomial devision #programming
@@ -12,14 +15,6 @@ colorlinks: true
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
 * [ ] Go for a long walk early #health
 * [ ] Read a book 20 minutes #recreation
-
-# Action
-###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
-
-* [x] Go for a long walk early #health
-* [x] Read a book 20 minutes #recreation
-* [x] Meditate for 20 minutes #health
-* [x] Derivation Week 37 mathematics-I #mathematics
 
 # Long term plan
 ###### Update Weekly

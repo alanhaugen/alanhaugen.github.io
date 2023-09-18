@@ -5,6 +5,8 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Make fish as practice #intro-3d -> 19-september-2023
+
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
@@ -20,7 +22,6 @@ colorlinks: true
 ###### Update Weekly
 
 * [ ] Modern Graphics Programming files #programming
-* [ ] Make fish as practice #intro-3d -> 19-september-2023
 * [ ] Make carrot man as practice #intro-3d -> 20-september-2023
 * [ ] Fix delete cube bug #programming
 * [ ] Complete Piano4All

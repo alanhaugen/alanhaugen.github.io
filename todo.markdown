@@ -22,6 +22,7 @@ colorlinks: true
 # Long term plan
 ###### Update Weekly
 
+* [ ] Go to Valmuen brettspillkveld onsdag, B006 fra kl 17:00 til 20:30
 * [ ] Modern Graphics Programming files #programming
 * [ ] Make carrot man as practice #intro-3d -> 20-september-2023
 * [ ] Fix delete cube bug #programming

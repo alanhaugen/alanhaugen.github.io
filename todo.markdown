@@ -8,7 +8,7 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Make mushroom guy as practice #intro-3d -> 18-september-2023
+* [x] Make mushroom guy as practice #intro-3d -> 18-september-2023
 * [ ] Implement polynomial multiplication #programming
 * [ ] Implement polynomial devision #programming
 * [ ] Implement PEMDAS, use a tree data structure #programming

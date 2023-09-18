@@ -5,6 +5,7 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Go to drawing Tuesdays with Valmuen Art Addicts, at 18:00, in room B006
 * [ ] Make fish as practice #intro-3d -> 19-september-2023
 
 # Action

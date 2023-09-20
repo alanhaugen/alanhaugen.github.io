@@ -5,13 +5,16 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-[ ] Put glasses into racksack
+* [ ] Put glasses into racksack
+* [ ] Make carrot man as practice #intro-3d -> 20-september-2023
+* [ ] Fix delete cube bug #programming
+* [ ] Do weekly integration #mathematics
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [x] Go to drawing Tuesdays with Valmuen Art Addicts, at 18:00, in room B006
-* [ ] Make fish as practice #intro-3d -> 19-september-2023
+* [x] Make fish as practice #intro-3d -> 19-september-2023
 * [x] Make mushroom guy as practice #intro-3d -> 18-september-2023
 * [x] Implement polynomial multiplication #programming
 * [ ] Implement polynomial devision #programming
@@ -25,8 +28,6 @@ colorlinks: true
 ###### Update Weekly
 
 * [ ] Modern Graphics Programming files #programming
-* [ ] Make carrot man as practice #intro-3d -> 20-september-2023
-* [ ] Fix delete cube bug #programming
 * [ ] Complete Piano4All
 * [ ] Complete Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners

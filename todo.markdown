@@ -5,7 +5,6 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Put glasses into racksack
 * [ ] Make carrot man as practice #intro-3d -> 20-september-2023
 * [ ] Fix delete cube bug #programming
 * [ ] Do weekly integration #mathematics
@@ -14,6 +13,7 @@ colorlinks: true
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [x] Go to drawing Tuesdays with Valmuen Art Addicts, at 18:00, in room B006
+* [x] Put glasses into racksack
 * [x] Make fish as practice #intro-3d -> 19-september-2023
 * [x] Make mushroom guy as practice #intro-3d -> 18-september-2023
 * [x] Implement polynomial multiplication #programming
@@ -22,7 +22,7 @@ colorlinks: true
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
 * [x] Go for a long walk early #health
 * [x] Read a book 20 minutes #recreation
-* [ ] Go to Valmuen brettspillkveld onsdag, B006 fra kl 17:00 til 20:30
+* [x] Go to Valmuen brettspillkveld onsdag, B006 fra kl 17:00 til 20:30
 
 # Long term plan
 ###### Update Weekly

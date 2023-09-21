@@ -27,6 +27,17 @@ colorlinks: true
 # Wait
 ###### Update in the morning
 
+* [ ] Get the sound bar
+* [ ] Get the forkurs book
+* [ ] Lehninger and other books
+* [ ] Physics and games books
+* [ ] Switch
+* [ ] Saturn
+* [ ] Another computer screen
+* [ ] Mouse mat
+* [ ] Mouse
+* [ ] Computer
+
 # Long term plan
 ###### Update Weekly
 

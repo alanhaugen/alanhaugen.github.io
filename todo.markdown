@@ -49,6 +49,7 @@ colorlinks: true
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
 * [ ] Exam Practice Mathematics #mathematics
 * [ ] Complete Semester 1 Game School
+* [ ] Help Philip excel at R1
 
 # Due dates
 

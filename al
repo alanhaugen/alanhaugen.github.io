@@ -177,6 +177,7 @@ echo "
                 }
                 if (month == 10)
                 {
+                cal.colorfulSelect('3/10/2023', 'jsCalendar-colorful-red');
                 cal.colorfulSelect('20/10/2023', 'jsCalendar-colorful-orange');
                 cal.colorfulSelect('23/10/2023', 'jsCalendar-colorful-blue');
                 cal.colorfulSelect('27/10/2023', 'jsCalendar-colorful-green');

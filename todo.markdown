@@ -27,7 +27,7 @@ colorlinks: true
 * [x] Go to Valmuen brettspillkveld onsdag, B006 fra kl 17:00 til 20:30
 
 # Wait
-###### Deffered actions. Waiting for the right time or on other people. Update in the morning
+###### Deffered actions. Waiting for the right time or on other people
 
 * [ ] Get the sound bar
 * [ ] Get the forkurs book

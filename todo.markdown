@@ -24,6 +24,9 @@ colorlinks: true
 * [x] Read a book 20 minutes #recreation
 * [x] Go to Valmuen brettspillkveld onsdag, B006 fra kl 17:00 til 20:30
 
+# Wait
+###### Update in the morning
+
 # Long term plan
 ###### Update Weekly
 

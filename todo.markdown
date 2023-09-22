@@ -7,6 +7,7 @@ colorlinks: true
 
 * [ ] Go for a long walk early #health
 * [ ] Read a book 20 minutes #recreation
+* [ ] Consdier (https://mrelusive.com/books/books.html?utm_source=hackernewsletter&utm_medium=email&utm_term=books)[(https://mrelusive.com/books/books.html?utm_source=hackernewsletter&utm_medium=email&utm_term=books)
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!

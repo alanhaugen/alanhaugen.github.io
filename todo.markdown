@@ -5,26 +5,19 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Make carrot man as practice #intro-3d -> 20-september-2023
-* [ ] Fix delete cube bug #programming
-* [ ] Do weekly integration #mathematics
-* [ ] Watch Blender: Rig A Character From Scratch | CLEAR BEGINNERS GUIDE
- [https://www.youtube.com/watch?v=eCtSviaHZ6U](https://www.youtube.com/watch?v=eCtSviaHZ6U)
+* [ ] Go for a long walk early #health
+* [ ] Read a book 20 minutes #recreation
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [x] Go to drawing Tuesdays with Valmuen Art Addicts, at 18:00, in room B006
-* [x] Put glasses into racksack
-* [x] Make fish as practice #intro-3d -> 19-september-2023
-* [x] Make mushroom guy as practice #intro-3d -> 18-september-2023
-* [x] Implement polynomial multiplication #programming
+* [x] Watch Blender: Rig A Character From Scratch | CLEAR BEGINNERS GUIDE [https://www.youtube.com/watch?v=eCtSviaHZ6U](https://www.youtube.com/watch?v=eCtSviaHZ6U)
+* [ ] Make carrot man as practice #intro-3d -> 20-september-2023
+* [ ] Fix delete cube bug #programming
+* [ ] Do weekly integration #mathematics
 * [ ] Implement polynomial devision #programming
 * [ ] Implement PEMDAS, use a tree data structure #programming
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
-* [x] Go for a long walk early #health
-* [x] Read a book 20 minutes #recreation
-* [x] Go to Valmuen brettspillkveld onsdag, B006 fra kl 17:00 til 20:30
 
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people

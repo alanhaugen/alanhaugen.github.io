@@ -12,7 +12,7 @@ colorlinks: true
 
 * [ ] Go for a long walk early #health
 * [ ] Read a book 20 minutes #recreation
-* [x] Consdier [https://mrelusive.com/books/books.html?utm_source=hackernewsletter&utm_medium=email&utm_term=books](https://mrelusive.com/books/books.html?utm_source=hackernewsletter&utm_medium=email&utm_term=books)
+* [x] Consider [https://mrelusive.com/books/books.html?utm_source=hackernewsletter&utm_medium=email&utm_term=books](https://mrelusive.com/books/books.html?utm_source=hackernewsletter&utm_medium=email&utm_term=books)
 * [x] Watch Blender: Rig A Character From Scratch | CLEAR BEGINNERS GUIDE [https://www.youtube.com/watch?v=eCtSviaHZ6U](https://www.youtube.com/watch?v=eCtSviaHZ6U)
 * [ ] Make carrot man as practice #intro-3d -> 20-september-2023
 * [ ] Fix delete cube bug #programming

@@ -5,13 +5,12 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Go for a long walk early #health
-* [ ] Read a book 20 minutes #recreation
-* [ ] Consdier (https://mrelusive.com/books/books.html?utm_source=hackernewsletter&utm_medium=email&utm_term=books)[(https://mrelusive.com/books/books.html?utm_source=hackernewsletter&utm_medium=email&utm_term=books)
-
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Go for a long walk early #health
+* [ ] Read a book 20 minutes #recreation
+* [x] Consdier [https://mrelusive.com/books/books.html?utm_source=hackernewsletter&utm_medium=email&utm_term=books](https://mrelusive.com/books/books.html?utm_source=hackernewsletter&utm_medium=email&utm_term=books)
 * [x] Watch Blender: Rig A Character From Scratch | CLEAR BEGINNERS GUIDE [https://www.youtube.com/watch?v=eCtSviaHZ6U](https://www.youtube.com/watch?v=eCtSviaHZ6U)
 * [ ] Make carrot man as practice #intro-3d -> 20-september-2023
 * [ ] Fix delete cube bug #programming
@@ -23,16 +22,16 @@ colorlinks: true
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people
 
-* [ ] Get the sound bar
-* [ ] Get the forkurs book
-* [ ] Lehninger and other books
-* [ ] Physics and games books
-* [ ] Switch
-* [ ] Saturn
-* [ ] Another computer screen
-* [ ] Mouse mat
-* [ ] Mouse
-* [ ] Computer
+* [x] Get the sound bar
+* [x] Get the forkurs book
+* [x] Lehninger and other books
+* [x] Physics and games books
+* [x] Switch
+* [x] Saturn
+* [x] Another computer screen
+* [x] Mouse mat
+* [x] Mouse
+* [x] Computer
 
 # Long term plan
 ###### Update Weekly

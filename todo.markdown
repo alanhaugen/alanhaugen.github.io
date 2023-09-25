@@ -43,7 +43,7 @@ colorlinks: true
 * [ ] Complete Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
 * [ ] Exam Practice Mathematics #mathematics
-* [ ] Complete Semester 1 Game School
+* [ ] Complete Semester 1 Game School [https://studiekatalog.edutorium.no/inn/nb/emne/SPIS2001/2026-var](https://studiekatalog.edutorium.no/inn/nb/emne/SPIS2001/2026-var)
 * [ ] Do drawabox.com course
 * [ ] Help Philip excel at R1
 

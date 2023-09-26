@@ -24,17 +24,6 @@ colorlinks: true
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people
 
-* [x] Get the sound bar
-* [x] Get the forkurs book
-* [x] Lehninger and other books
-* [x] Physics and games books
-* [x] Switch
-* [x] Saturn
-* [x] Another computer screen
-* [x] Mouse mat
-* [x] Mouse
-* [x] Computer
-
 # Long term plan
 ###### Update Weekly
 

@@ -177,7 +177,7 @@ echo "
                 }
                 if (month == 10)
                 {
-                cal.colorfulSelect('3/10/2023', 'jsCalendar-colorful-red');
+                cal.colorfulSelect('5/10/2023', 'jsCalendar-colorful-red');
                 cal.colorfulSelect('20/10/2023', 'jsCalendar-colorful-orange');
                 cal.colorfulSelect('23/10/2023', 'jsCalendar-colorful-blue');
                 cal.colorfulSelect('27/10/2023', 'jsCalendar-colorful-green');
@@ -241,29 +241,29 @@ addWeekNumber(2, 1, 35);
 addWeekNumber(2, 2, 36);
 addWeekNumber(2, 3, 37);
 addWeekNumber(2, 4, 38);
-addWeekNumber(2, 5, 39);
-addWeekNumber(2, 6, 40);
+addWeekNumber(2, 5, 39); // Kjøkken, entre, stue
+addWeekNumber(2, 6, 40); // Søppel
 
 addWeekNumber(3, 1, 39);
 addWeekNumber(3, 2, 40);
-addWeekNumber(3, 3, 41);
-addWeekNumber(3, 4, 42);
-addWeekNumber(3, 5, 43);
-addWeekNumber(3, 6, 44);
+addWeekNumber(3, 3, 41); // Bad
+addWeekNumber(3, 4, 42); // Kjøkken stue entre
+addWeekNumber(3, 5, 43); // Søppel
+addWeekNumber(3, 6, 44); // Bad
 
 addWeekNumber(4, 1, 44);
-addWeekNumber(4, 2, 45);
-addWeekNumber(4, 3, 46);
-addWeekNumber(4, 4, 47);
-addWeekNumber(4, 5, 48);
-addWeekNumber(4, 6, 49);
+addWeekNumber(4, 2, 45); // Kjøkken stue entre
+addWeekNumber(4, 3, 46); // Søppel
+addWeekNumber(4, 4, 47); // Bad
+addWeekNumber(4, 5, 48); // Kjøkken stue entre
+addWeekNumber(4, 6, 49); // Søppel
 
 addWeekNumber(5, 1, 48);
 addWeekNumber(5, 2, 49);
-addWeekNumber(5, 3, 50);
-addWeekNumber(5, 4, 51);
-addWeekNumber(5, 5, 52);
-addWeekNumber(5, 6, 53);
+addWeekNumber(5, 3, 50); // Bad
+addWeekNumber(5, 4, 51); // Kjøkken stue entre
+addWeekNumber(5, 5, 52); // Søppel
+addWeekNumber(5, 6, 53); // Bad
 
 " >> todo.html
 

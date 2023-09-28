@@ -5,21 +5,23 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Look into cat in stairway
+* [ ] Cut nails
+* [ ] Buy sandals
+* [ ] Do weekly integration week 39 #mathematics
+* [ ] Do weekly integration week 40 #mathematics
+* [ ] Make carrot man as practice #intro-3d
+* [ ] Go for a long walk early #health
+* [ ] Read a book 20 minutes #recreation
+* [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
+* [ ] Fix delete cube bug #programming
+* [ ] Implement PEMDAS, use a tree data structure #programming
+* [ ] Implement polynomial devision #programming
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [x] Go for a long walk early #health
-* [x] Read a book 20 minutes #recreation
-* [x] Consider [https://mrelusive.com/books/books.html?utm_source=hackernewsletter&utm_medium=email&utm_term=books](https://mrelusive.com/books/books.html?utm_source=hackernewsletter&utm_medium=email&utm_term=books)
-* [x] Watch Blender: Rig A Character From Scratch | CLEAR BEGINNERS GUIDE [https://www.youtube.com/watch?v=eCtSviaHZ6U](https://www.youtube.com/watch?v=eCtSviaHZ6U)
-* [ ] Make carrot man as practice #intro-3d -> 20-september-2023
-* [ ] Fix delete cube bug #programming
-* [ ] Do weekly integration #mathematics
-* [ ] Implement polynomial devision #programming
-* [ ] Implement PEMDAS, use a tree data structure #programming
-* [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
+* [ ] Do maths 40 minutes #mathematics
+* [ ] Do weekly integration week 38 #mathematics
 
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people

@@ -5,7 +5,7 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Cut nails
+* [x] Cut nails
 * [ ] Buy sandals
 * [ ] Do weekly integration week 39 #mathematics
 * [ ] Do weekly integration week 40 #mathematics

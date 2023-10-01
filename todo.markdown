@@ -7,8 +7,6 @@ colorlinks: true
 
 * [x] Cut nails
 * [ ] Buy sandals
-* [ ] Do weekly integration week 39 #mathematics
-* [ ] Do weekly integration week 40 #mathematics
 * [ ] Make carrot man as practice #intro-3d
 * [ ] Go for a long walk early #health
 * [ ] Read a book 20 minutes #recreation
@@ -20,8 +18,10 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Do maths 40 minutes #mathematics
 * [ ] Do weekly integration week 38 #mathematics
+* [ ] Do weekly integration week 39 #mathematics
+* [ ] Do weekly integration week 40 #mathematics
+* [x] Do maths 40 minutes #mathematics
 
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people

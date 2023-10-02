@@ -22,13 +22,14 @@ colorlinks: true
 * [ ] Implement PEMDAS, use a tree data structure #programming
 * [ ] Implement polynomial devision #programming
 
-
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people
 
 # Long term plan
 ###### Update Weekly
 
+* [ ] Buy sandals
+* [ ] Make carrot man as practice #intro-3d
 * [ ] Modern Graphics Programming files #programming
 * [ ] Complete Piano4All
 * [ ] Complete Blender Character Creator v2.0 for Video Games Design Course

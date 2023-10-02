@@ -6,10 +6,15 @@ colorlinks: true
 ###### Update in the morning
 
 * [x] Cut nails
-* [ ] Buy sandals
+* [ ] Texture birdnew #3d
+* [ ] Print documents for Philip
+
+# Action
+###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
+
+* [x] Do weekly integration week 38 #mathematics
 * [ ] Do weekly integration week 39 #mathematics
 * [ ] Do weekly integration week 40 #mathematics
-* [ ] Make carrot man as practice #intro-3d
 * [ ] Go for a long walk early #health
 * [ ] Read a book 20 minutes #recreation
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
@@ -17,11 +22,6 @@ colorlinks: true
 * [ ] Implement PEMDAS, use a tree data structure #programming
 * [ ] Implement polynomial devision #programming
 
-# Action
-###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
-
-* [ ] Do maths 40 minutes #mathematics
-* [ ] Do weekly integration week 38 #mathematics
 
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people

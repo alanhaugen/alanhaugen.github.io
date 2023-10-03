@@ -28,6 +28,7 @@ colorlinks: true
 
 * [ ] Buy sandals
 * [ ] Make carrot man as practice #intro-3d
+* [ ] Go to Philip's lesson at 10'o'clock at Hamar library -> 5.oktober.2023
 
 # Long term plan
 ###### Update Weekly

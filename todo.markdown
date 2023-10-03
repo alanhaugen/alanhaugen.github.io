@@ -5,13 +5,13 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [x] Cut nails
-* [ ] Texture birdnew #3d
-* [ ] Print documents for Philip
+* [ ] Do compulsory 2 #mathematics
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Texture birdnew #3d
+* [x] Print documents for Philip
 * [x] Do weekly integration week 38 #mathematics
 * [ ] Do weekly integration week 39 #mathematics
 * [ ] Do weekly integration week 40 #mathematics

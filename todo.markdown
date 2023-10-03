@@ -10,6 +10,7 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Go to art addicts
 * [x] Texture birdnew #3d
 * [x] Print documents for Philip
 * [x] Do weekly integration week 38 #mathematics
@@ -25,11 +26,12 @@ colorlinks: true
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people
 
+* [ ] Buy sandals
+* [ ] Make carrot man as practice #intro-3d
+
 # Long term plan
 ###### Update Weekly
 
-* [ ] Buy sandals
-* [ ] Make carrot man as practice #intro-3d
 * [ ] Modern Graphics Programming files #programming
 * [ ] Complete Piano4All
 * [ ] Complete Blender Character Creator v2.0 for Video Games Design Course

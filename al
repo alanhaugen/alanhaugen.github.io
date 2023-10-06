@@ -209,9 +209,9 @@ echo "
 function addWeekColumn(calendar)
 {
     const firstElement = document.querySelector(\"#calendar \> table:nth-child\(\" + calendar + \"\) \> thead \> tr.jsCalendar-week-days \> th:nth-child\(1\)\")
-    const para = document.createElement(\"th\");
+    const para = document.createElement(\"td\"); // td instead of th since it lines up better
     //para.className = \"jsCalendar-previous\";
-    const node = document.createTextNode(\"W\");
+    const node = document.createTextNode(\"Week\");
     para.appendChild(node);
     const e = document.querySelector(\"#calendar \> table:nth-child\(\" + calendar + \"\) \> thead \> tr.jsCalendar-week-days\")
     e.insertBefore(para, firstElement);
@@ -228,11 +228,11 @@ function addWeekNumber(calendar, row, week)
     e.insertBefore(para, firstElement);
 }
 
-addWeekColumn(1);
-addWeekColumn(2);
-addWeekColumn(3);
-addWeekColumn(4);
-addWeekColumn(5);
+//addWeekColumn(1);
+//addWeekColumn(2);
+//addWeekColumn(3);
+//addWeekColumn(4);
+//addWeekColumn(5);
 
 addWeekNumber(1, 1, 31);
 addWeekNumber(1, 2, 32);

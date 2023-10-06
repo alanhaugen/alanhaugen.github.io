@@ -32,7 +32,7 @@ echo '
 			.jsCalendar tbody td.jsCalendar-colorful-red {border-color: #F6511D;}
 			.jsCalendar tbody td.jsCalendar-colorful-green {border-color: #7FB800;}
 
-			.jsCalendar tbody th.week{margin: 36px 36px;}
+			.weeknumber{width: 36px; height: 36px;}
 		</style>
 
 	</head>

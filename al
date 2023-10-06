@@ -4,8 +4,8 @@ echo "<!DOCTYPE html lang=en>" > todo.html
 echo '
 <head>
 
-<script src="//unpkg.com/graphre/dist/graphre.js"></script>
-<script src="//unpkg.com/nomnoml/dist/nomnoml.js"></script>
+    <script src="//unpkg.com/graphre/dist/graphre.js"></script>
+    <script src="//unpkg.com/nomnoml/dist/nomnoml.js"></script>
 
     <!-- FONT
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -220,7 +220,7 @@ function addWeekColumn(calendar)
 function addWeekNumber(calendar, row, week)
 {
     const firstElement = document.querySelector(\"\#calendar \> table:nth-child\(\" + calendar + \"\) \> tbody \> tr:nth-child\(\" + row + \"\) \> td:nth-child\(1\)\")
-    const para = document.createElement(\"td\");
+    const para = document.createElement(\"th\");
     para.className = \"jsCalendar-previous\";
     node = document.createTextNode(week);
     para.appendChild(node);

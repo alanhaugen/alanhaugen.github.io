@@ -7,6 +7,7 @@ colorlinks: true
 
 * [ ] Do compulsory 2 #mathematics
 * [ ] Look at R1 exams
+* [ ] Go to discord meeting Wednesday at 10:20
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!

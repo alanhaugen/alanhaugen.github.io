@@ -32,6 +32,7 @@ echo '
 			.jsCalendar tbody td.jsCalendar-colorful-red {border-color: #F6511D;}
 			.jsCalendar tbody td.jsCalendar-colorful-green {border-color: #7FB800;}
 
+			.jsCalendar tbody th.week{margin: 36px 36px;}
 		</style>
 
 	</head>
@@ -209,7 +210,7 @@ echo "
 function addWeekColumn(calendar)
 {
     const firstElement = document.querySelector(\"#calendar \> table:nth-child\(\" + calendar + \"\) \> thead \> tr.jsCalendar-week-days \> th:nth-child\(1\)\")
-    const para = document.createElement(\"td\"); // td instead of th since it lines up better
+    const para = document.createElement(\"th\");
     //para.className = \"jsCalendar-previous\";
     const node = document.createTextNode(\"Week\");
     para.appendChild(node);
@@ -221,7 +222,7 @@ function addWeekNumber(calendar, row, week)
 {
     const firstElement = document.querySelector(\"\#calendar \> table:nth-child\(\" + calendar + \"\) \> tbody \> tr:nth-child\(\" + row + \"\) \> td:nth-child\(1\)\")
     const para = document.createElement(\"th\");
-    para.className = \"jsCalendar-previous\";
+    para.className = \"weeknumber\";
     node = document.createTextNode(week);
     para.appendChild(node);
     const e = document.querySelector(\"#calendar \> table:nth-child\(\" + calendar + \"\) \> tbody \> tr:nth-child\(\" + row + \"\)\")

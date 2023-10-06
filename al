@@ -209,7 +209,7 @@ echo "
 function addWeekColumn(calendar)
 {
     const firstElement = document.querySelector(\"#calendar \> table:nth-child\(\" + calendar + \"\) \> thead \> tr.jsCalendar-week-days \> th:nth-child\(1\)\")
-    const para = document.createElement(\"th\");
+    const para = document.createElement(\"td\");
     //para.className = \"jsCalendar-previous\";
     const node = document.createTextNode(\"Week\");
     para.appendChild(node);

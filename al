@@ -3,6 +3,10 @@
 echo "<!DOCTYPE html lang=en>" > todo.html
 echo '
 <head>
+
+<script src="//unpkg.com/graphre/dist/graphre.js"></script>
+<script src="//unpkg.com/nomnoml/dist/nomnoml.js"></script>
+
     <!-- FONT
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
@@ -275,6 +279,15 @@ echo '
         </div>
      </div>
   </div>
+' >> todo.html
+
+echo '
+<canvas id="target-canvas"></canvas>
+<script>
+  var canvas = document.getElementById("target-canvas")
+  var source = "[nomnoml] is -> [awesome]"
+  nomnoml.draw(canvas, source)
+</script>
 ' >> todo.html
 
 echo "</body></html>" >> todo.html

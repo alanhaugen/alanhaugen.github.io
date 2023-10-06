@@ -300,9 +300,9 @@ day (triage). Then weekly (big picture)</h6>
 function addWeekColumn(calendar)
 {
     const firstElement = document.querySelector("#calendar \> table:nth-child\(" + calendar + "\) \> thead \> tr.jsCalendar-week-days \> th:nth-child\(1\)")
-    const para = document.createElement("td");
+    const para = document.createElement("th");
     //para.className = "jsCalendar-previous";
-    const node = document.createTextNode("Week");
+    const node = document.createTextNode("W");
     para.appendChild(node);
     const e = document.querySelector("#calendar \> table:nth-child\(" + calendar + "\) \> thead \> tr.jsCalendar-week-days")
     e.insertBefore(para, firstElement);

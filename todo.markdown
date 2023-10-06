@@ -5,7 +5,7 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Do compulsory 2 #mathematics
+* [ ] Do compulsory 3 #programming
 * [ ] Look at R1 exams
 * [ ] Go to discord meeting Wednesday at 10:20
 
@@ -16,9 +16,11 @@ colorlinks: true
 * [x] Texture birdnew #3d
 * [x] Print documents for Philip
 * [x] Do weekly integration week 38 #mathematics
+* [x] Go to Philip's lesson at 10'o'clock at Hamar library -> 5.oktober.2023
+* [ ] Do compulsory 2 #mathematics
 * [ ] Do weekly integration week 39 #mathematics
 * [ ] Do weekly integration week 40 #mathematics
-* [ ] Go for a long walk early #health
+* [x] Go for a long walk early #health
 * [ ] Read a book 20 minutes #recreation
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
 * [ ] Fix delete cube bug #programming
@@ -28,9 +30,8 @@ colorlinks: true
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people
 
-* [ ] Buy sandals
+* [x] Buy sandals
 * [ ] Make carrot man as practice #intro-3d
-* [ ] Go to Philip's lesson at 10'o'clock at Hamar library -> 5.oktober.2023 2N2108
 
 # Long term plan
 ###### Update Weekly
@@ -50,7 +51,7 @@ colorlinks: true
 * [x] Oblig 1      -> 18-september-2023 #mathematics-I
 * [x] Compulsory 1 -> 22-september-2023 #intro-3d
 * [x] Compulsory 2 -> 29-september-2023 #programming-I
-* [ ] Compulsory 2 -> 20-october-2023   #intro-3d
+* [x] Compulsory 2 -> 20-october-2023   #intro-3d
 * [ ] Oblig 2      -> 23-october-2023   #mathematics-I
 * [ ] Compulsory 3 -> 27-october-2023   #programming-I
 * [ ] Compulsory 3 -> 3-november-2023   #intro-3d

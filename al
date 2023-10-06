@@ -276,18 +276,18 @@ echo '
 ' >> todo.html
 
 echo '
-        </div>
-     </div>
-  </div>
-' >> todo.html
-
-echo '
 <canvas id="target-canvas"></canvas>
 <script>
   var canvas = document.getElementById("target-canvas")
   var source = "[nomnoml] is -> [awesome]"
   nomnoml.draw(canvas, source)
 </script>
+' >> todo.html
+
+echo '
+        </div>
+     </div>
+  </div>
 ' >> todo.html
 
 echo "</body></html>" >> todo.html

@@ -40,6 +40,7 @@ colorlinks: true
 * [ ] Exam Practice Mathematics #mathematics
 * [ ] Complete Semester 1 Game School [https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host](https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host)
 * [ ] Do drawabox.com course
+* [ ] Learn to make music [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
 * [ ] Help Philip excel at R1
 
 # Due dates

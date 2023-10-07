@@ -5,23 +5,17 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Do compulsory 3 #programming
 * [ ] Look at R1 exams
-* [ ] Go to discord meeting Wednesday at 10:20
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [x] Go to art addicts
-* [x] Texture birdnew #3d
-* [x] Print documents for Philip
-* [x] Do weekly integration week 38 #mathematics
-* [x] Go to Philip's lesson at 10'o'clock at Hamar library -> 5.oktober.2023
+* [ ] Go for a long walk early #health
 * [ ] Do compulsory 2 #mathematics
+* [ ] Read a book 20 minutes #recreation
 * [ ] Do weekly integration week 39 #mathematics
 * [ ] Do weekly integration week 40 #mathematics
-* [x] Go for a long walk early #health
-* [ ] Read a book 20 minutes #recreation
+* [ ] Do compulsory 3 #programming
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
 * [ ] Fix delete cube bug #programming
 * [ ] Implement PEMDAS, use a tree data structure #programming
@@ -30,7 +24,7 @@ colorlinks: true
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people
 
-* [x] Buy sandals
+* [ ] Go to discord meeting Wednesday at 10:20
 * [ ] Make carrot man as practice #intro-3d
 
 # Long term plan

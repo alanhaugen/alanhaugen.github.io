@@ -9,6 +9,9 @@ colorlinks: true
 * [ ] Make UML with either doxygen or Nomnoml [https://news.ycombinator.com/item?id=37734875&utm_term=comment](https://news.ycombinator.com/item?id=37734875&utm_term=comment)
 * [ ] Purchase mazes for programmers [https://www.amazon.com/Mazes-Programmers-Twisty-Little-Passages/dp/1680500554?ie=UTF8&*Version*=1&*entries*=0](https://www.amazon.com/Mazes-Programmers-Twisty-Little-Passages/dp/1680500554?ie=UTF8&*Version*=1&*entries*=0)
 * [ ] Buy supplies for drawabox.com course
+* [ ] Learn to play green sleeves on ukulele
+* [ ] Learn to play simple tunes on the ocarina
+* [ ] Find a project for the camera
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!

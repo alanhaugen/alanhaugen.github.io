@@ -3,6 +3,10 @@
 echo "<!DOCTYPE html lang=en>" > todo.html
 echo '
 <head>
+
+    <script src="//unpkg.com/graphre/dist/graphre.js"></script>
+    <script src="//unpkg.com/nomnoml/dist/nomnoml.js"></script>
+
     <!-- FONT
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
@@ -28,6 +32,11 @@ echo '
 			.jsCalendar tbody td.jsCalendar-colorful-red {border-color: #F6511D;}
 			.jsCalendar tbody td.jsCalendar-colorful-green {border-color: #7FB800;}
 
+                        .weeknumber
+                        {
+                            text-align: center;
+                            width: 36px; height: 36px;
+                        }
 		</style>
 
 	</head>
@@ -177,7 +186,7 @@ echo "
                 }
                 if (month == 10)
                 {
-                cal.colorfulSelect('5/10/2023', 'jsCalendar-colorful-red');
+                cal.colorfulSelect('11/10/2023', 'jsCalendar-colorful-red');
                 cal.colorfulSelect('20/10/2023', 'jsCalendar-colorful-orange');
                 cal.colorfulSelect('23/10/2023', 'jsCalendar-colorful-blue');
                 cal.colorfulSelect('27/10/2023', 'jsCalendar-colorful-green');
@@ -205,7 +214,7 @@ echo "
 function addWeekColumn(calendar)
 {
     const firstElement = document.querySelector(\"#calendar \> table:nth-child\(\" + calendar + \"\) \> thead \> tr.jsCalendar-week-days \> th:nth-child\(1\)\")
-    const para = document.createElement(\"td\");
+    const para = document.createElement(\"th\");
     //para.className = \"jsCalendar-previous\";
     const node = document.createTextNode(\"Week\");
     para.appendChild(node);
@@ -216,8 +225,8 @@ function addWeekColumn(calendar)
 function addWeekNumber(calendar, row, week)
 {
     const firstElement = document.querySelector(\"\#calendar \> table:nth-child\(\" + calendar + \"\) \> tbody \> tr:nth-child\(\" + row + \"\) \> td:nth-child\(1\)\")
-    const para = document.createElement(\"td\");
-    para.className = \"jsCalendar-previous\";
+    const para = document.createElement(\"th\");
+    para.className = \"weeknumber\";
     node = document.createTextNode(week);
     para.appendChild(node);
     const e = document.querySelector(\"#calendar \> table:nth-child\(\" + calendar + \"\) \> tbody \> tr:nth-child\(\" + row + \"\)\")
@@ -268,6 +277,15 @@ addWeekNumber(5, 6, 53); // Bad
 " >> todo.html
 
 echo '
+</script>
+' >> todo.html
+
+echo '
+<canvas id="target-canvas"></canvas>
+<script>
+  var canvas = document.getElementById("target-canvas")
+  var source = "[nomnoml] is -> [awesome]"
+  nomnoml.draw(canvas, source)
 </script>
 ' >> todo.html
 

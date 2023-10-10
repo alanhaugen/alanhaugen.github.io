@@ -1,6 +1,10 @@
 <!DOCTYPE html lang=en>
 
 <head>
+
+    <script src="//unpkg.com/graphre/dist/graphre.js"></script>
+    <script src="//unpkg.com/nomnoml/dist/nomnoml.js"></script>
+
     <!-- FONT
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
@@ -26,6 +30,11 @@
 			.jsCalendar tbody td.jsCalendar-colorful-red {border-color: #F6511D;}
 			.jsCalendar tbody td.jsCalendar-colorful-green {border-color: #7FB800;}
 
+                        .weeknumber
+                        {
+                            text-align: center;
+                            width: 36px; height: 36px;
+                        }
 		</style>
 
 	</head>
@@ -39,36 +48,24 @@
 <h1 id="inbox">Inbox</h1>
 <h6 id="update-in-the-morning">Update in the morning</h6>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" />
-Do compulsory 3 #programming</li>
-<li><input type="checkbox" disabled="" />
-Look at R1 exams</li>
-<li><input type="checkbox" disabled="" />
-Go to discord meeting Wednesday at 10:20</li>
+<li><input type="checkbox" disabled="" checked="" />
+Buy supplies for drawabox.com course</li>
 </ul>
 <h1 id="action">Action</h1>
 <h6 id="assign-time.-revisit.-flag-what-needs-to-be-done-today.-the-battle-is-to-remember-what-to-do">Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!</h6>
 <ul class="task-list">
 <li><input type="checkbox" disabled="" checked="" />
-Go to art addicts</li>
-<li><input type="checkbox" disabled="" checked="" />
-Texture birdnew #3d</li>
-<li><input type="checkbox" disabled="" checked="" />
-Print documents for Philip</li>
-<li><input type="checkbox" disabled="" checked="" />
-Do weekly integration week 38 #mathematics</li>
-<li><input type="checkbox" disabled="" checked="" />
-Go to Philip’s lesson at 10’o’clock at Hamar library -&gt; 5.oktober.2023</li>
+Go for a long walk early #health</li>
 <li><input type="checkbox" disabled="" />
 Do compulsory 2 #mathematics</li>
 <li><input type="checkbox" disabled="" />
-Do weekly integration week 39 #mathematics</li>
-<li><input type="checkbox" disabled="" />
-Do weekly integration week 40 #mathematics</li>
-<li><input type="checkbox" disabled="" checked="" />
-Go for a long walk early #health</li>
-<li><input type="checkbox" disabled="" />
 Read a book 20 minutes #recreation</li>
+<li><input type="checkbox" disabled="" checked="" />
+Do weekly integration week 39 #mathematics</li>
+<li><input type="checkbox" disabled="" checked="" />
+Do weekly integration week 40 #mathematics</li>
+<li><input type="checkbox" disabled="" />
+Do compulsory 3 #programming</li>
 <li><input type="checkbox" disabled="" />
 Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming</li>
 <li><input type="checkbox" disabled="" />
@@ -77,12 +74,24 @@ Fix delete cube bug #programming</li>
 Implement PEMDAS, use a tree data structure #programming</li>
 <li><input type="checkbox" disabled="" />
 Implement polynomial devision #programming</li>
+<li><input type="checkbox" disabled="" />
+Go to discord meeting Wednesday at 10:20</li>
+<li><input type="checkbox" disabled="" />
+Learn to play green sleeves on ukulele</li>
+<li><input type="checkbox" disabled="" />
+Learn to play simple tunes on the ocarina</li>
+<li><input type="checkbox" disabled="" />
+Find a project for the camera</li>
+<li><input type="checkbox" disabled="" />
+Look at R1 exams</li>
+<li><input type="checkbox" disabled="" />
+Make UML with either doxygen or Nomnoml <a href="https://news.ycombinator.com/item?id=37734875&amp;utm_term=comment">https://news.ycombinator.com/item?id=37734875&amp;utm_term=comment</a></li>
+<li><input type="checkbox" disabled="" />
+Purchase mazes for programmers <a href="https://www.amazon.com/Mazes-Programmers-Twisty-Little-Passages/dp/1680500554?ie=UTF8&amp;*Version*=1&amp;*entries*=0">https://www.amazon.com/Mazes-Programmers-Twisty-Little-Passages/dp/1680500554?ie=UTF8&amp;<em>Version</em>=1&amp;<em>entries</em>=0</a></li>
 </ul>
 <h1 id="wait">Wait</h1>
 <h6 id="deffered-actions.-waiting-for-the-right-time-or-on-other-people">Deffered actions. Waiting for the right time or on other people</h6>
 <ul class="task-list">
-<li><input type="checkbox" disabled="" checked="" />
-Buy sandals</li>
 <li><input type="checkbox" disabled="" />
 Make carrot man as practice #intro-3d</li>
 </ul>
@@ -104,8 +113,12 @@ Complete Semester 1 Game School <a href="https://studiekatalog.edutorium.no/inn/
 <li><input type="checkbox" disabled="" />
 Do drawabox.com course</li>
 <li><input type="checkbox" disabled="" />
+Learn to make music <a href="https://learningmusic.ableton.com">https://learningmusic.ableton.com</a></li>
+<li><input type="checkbox" disabled="" />
 Help Philip excel at R1</li>
 </ul>
+<h1 id="project-reference-material">Project reference material</h1>
+<h6 id="todo-maybe-make-a-website-for-each-project">TODO: Maybe make a website for each project?</h6>
 <h1 id="due-dates">Due dates</h1>
 <ul class="task-list">
 <li><input type="checkbox" disabled="" checked="" />
@@ -134,6 +147,14 @@ Written exam -&gt; 6-december-2023 #programming-I</li>
 Written exam -&gt; 11-december-2023 #mathematics-I</li>
 </ul>
 <h6 id="organize-each-day-triage.-then-weekly-big-picture">Organize each day (triage). Then weekly (big picture)</h6>
+<h1 id="reference-material">Reference material</h1>
+<h6 id="goodies-you-come-across-in-life">Goodies you come across in life</h6>
+<ul>
+<li>Are Modern Macs Really NeXTSTEP in Disguise? <a href="https://www.youtube.com/watch?v=HyitnJQRvu0&amp;t=625s">https://www.youtube.com/watch?v=HyitnJQRvu0&amp;t=625s</a></li>
+<li>Julia: A Fresh Approach to Computing <a href="https://computationalthinking.mit.edu/Fall23/">https://computationalthinking.mit.edu/Fall23/</a></li>
+</ul>
+<h1 id="one-day">One day</h1>
+<h6 id="all-my-dreams">All my dreams</h6>
 
         </div>
         <div class="six columns portrait" style="margin-top: 15%">
@@ -266,7 +287,7 @@ Written exam -&gt; 11-december-2023 #mathematics-I</li>
                 }
                 if (month == 10)
                 {
-                cal.colorfulSelect('5/10/2023', 'jsCalendar-colorful-red');
+                cal.colorfulSelect('11/10/2023', 'jsCalendar-colorful-red');
                 cal.colorfulSelect('20/10/2023', 'jsCalendar-colorful-orange');
                 cal.colorfulSelect('23/10/2023', 'jsCalendar-colorful-blue');
                 cal.colorfulSelect('27/10/2023', 'jsCalendar-colorful-green');
@@ -294,7 +315,7 @@ Written exam -&gt; 11-december-2023 #mathematics-I</li>
 function addWeekColumn(calendar)
 {
     const firstElement = document.querySelector("#calendar \> table:nth-child\(" + calendar + "\) \> thead \> tr.jsCalendar-week-days \> th:nth-child\(1\)")
-    const para = document.createElement("td");
+    const para = document.createElement("th");
     //para.className = "jsCalendar-previous";
     const node = document.createTextNode("Week");
     para.appendChild(node);
@@ -305,8 +326,8 @@ function addWeekColumn(calendar)
 function addWeekNumber(calendar, row, week)
 {
     const firstElement = document.querySelector("\#calendar \> table:nth-child\(" + calendar + "\) \> tbody \> tr:nth-child\(" + row + "\) \> td:nth-child\(1\)")
-    const para = document.createElement("td");
-    para.className = "jsCalendar-previous";
+    const para = document.createElement("th");
+    para.className = "weeknumber";
     node = document.createTextNode(week);
     para.appendChild(node);
     const e = document.querySelector("#calendar \> table:nth-child\(" + calendar + "\) \> tbody \> tr:nth-child\(" + row + "\)")
@@ -356,6 +377,14 @@ addWeekNumber(5, 6, 53); // Bad
 
 
 
+</script>
+
+
+<canvas id="target-canvas"></canvas>
+<script>
+  var canvas = document.getElementById("target-canvas")
+  var source = "[nomnoml] is -> [awesome]"
+  nomnoml.draw(canvas, source)
 </script>
 
 

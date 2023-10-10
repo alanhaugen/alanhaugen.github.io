@@ -5,32 +5,32 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Do compulsory 3 #programming
-* [ ] Look at R1 exams
-* [ ] Go to discord meeting Wednesday at 10:20
+* [x] Buy supplies for drawabox.com course
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [x] Go to art addicts
-* [x] Texture birdnew #3d
-* [x] Print documents for Philip
-* [x] Do weekly integration week 38 #mathematics
-* [x] Go to Philip's lesson at 10'o'clock at Hamar library -> 5.oktober.2023
-* [ ] Do compulsory 2 #mathematics
-* [ ] Do weekly integration week 39 #mathematics
-* [ ] Do weekly integration week 40 #mathematics
 * [x] Go for a long walk early #health
+* [ ] Do compulsory 2 #mathematics
 * [ ] Read a book 20 minutes #recreation
+* [x] Do weekly integration week 39 #mathematics
+* [x] Do weekly integration week 40 #mathematics
+* [ ] Do compulsory 3 #programming
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
 * [ ] Fix delete cube bug #programming
 * [ ] Implement PEMDAS, use a tree data structure #programming
 * [ ] Implement polynomial devision #programming
+* [ ] Go to discord meeting Wednesday at 10:20
+* [ ] Learn to play green sleeves on ukulele
+* [ ] Learn to play simple tunes on the ocarina
+* [ ] Find a project for the camera
+* [ ] Look at R1 exams
+* [ ] Make UML with either doxygen or Nomnoml [https://news.ycombinator.com/item?id=37734875&utm_term=comment](https://news.ycombinator.com/item?id=37734875&utm_term=comment)
+* [ ] Purchase mazes for programmers [https://www.amazon.com/Mazes-Programmers-Twisty-Little-Passages/dp/1680500554?ie=UTF8&*Version*=1&*entries*=0](https://www.amazon.com/Mazes-Programmers-Twisty-Little-Passages/dp/1680500554?ie=UTF8&*Version*=1&*entries*=0)
 
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people
 
-* [x] Buy sandals
 * [ ] Make carrot man as practice #intro-3d
 
 # Long term plan
@@ -43,7 +43,11 @@ colorlinks: true
 * [ ] Exam Practice Mathematics #mathematics
 * [ ] Complete Semester 1 Game School [https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host](https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host)
 * [ ] Do drawabox.com course
+* [ ] Learn to make music [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
 * [ ] Help Philip excel at R1
+
+# Project reference material
+###### TODO: Maybe make a website for each project?
 
 # Due dates
 
@@ -61,4 +65,14 @@ colorlinks: true
 * [ ] Written exam -> 11-december-2023  #mathematics-I
 
 ###### Organize each day (triage). Then weekly (big picture)
+
+# Reference material
+###### Goodies you come across in life
+
+* Are Modern Macs Really NeXTSTEP in Disguise? [https://www.youtube.com/watch?v=HyitnJQRvu0&t=625s](https://www.youtube.com/watch?v=HyitnJQRvu0&t=625s)
+* Julia: A Fresh Approach to Computing [https://computationalthinking.mit.edu/Fall23/](https://computationalthinking.mit.edu/Fall23/)
+
+
+# One day
+###### All my dreams
 

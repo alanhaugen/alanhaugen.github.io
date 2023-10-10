@@ -46,6 +46,9 @@ colorlinks: true
 * [ ] Learn to make music [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
 * [ ] Help Philip excel at R1
 
+# Project reference material
+###### TODO: Maybe make a website for each project?
+
 # Due dates
 
 * [x] Compulsory 1 -> 1-september-2023  #programming-I 
@@ -62,4 +65,14 @@ colorlinks: true
 * [ ] Written exam -> 11-december-2023  #mathematics-I
 
 ###### Organize each day (triage). Then weekly (big picture)
+
+# Reference material
+###### Goodies you come across in life
+
+* Are Modern Macs Really NeXTSTEP in Disguise? [https://www.youtube.com/watch?v=HyitnJQRvu0&t=625s](https://www.youtube.com/watch?v=HyitnJQRvu0&t=625s)
+* Julia: A Fresh Approach to Computing [https://computationalthinking.mit.edu/Fall23/](https://computationalthinking.mit.edu/Fall23/)
+
+
+# One day
+###### All my dreams
 

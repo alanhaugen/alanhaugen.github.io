@@ -4,15 +4,21 @@ colorlinks: true
 
 # Inbox
 ###### Update in the morning
+###### #calls #atComputer #errands #office #atHome #agendas #read
 
-* [x] Buy supplies for drawabox.com course
+* [ ] Give Philip a mathematics lesson
+* [ ] Go to board games night
+* [ ] Shave beard
+* [ ] Wash clothes
+* [ ] Take dry clothes up
+* [ ] Read a book 20 minutes #recreation
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [x] Go for a long walk early #health
 * [ ] Do compulsory 2 #mathematics
-* [ ] Read a book 20 minutes #recreation
+* [x] Read a book 20 minutes #recreation
 * [x] Do weekly integration week 39 #mathematics
 * [x] Do weekly integration week 40 #mathematics
 * [ ] Do compulsory 3 #programming
@@ -67,12 +73,13 @@ colorlinks: true
 ###### Organize each day (triage). Then weekly (big picture)
 
 # Reference material
-###### Goodies you come across in life
+###### All goodies you come across
 
 * Are Modern Macs Really NeXTSTEP in Disguise? [https://www.youtube.com/watch?v=HyitnJQRvu0&t=625s](https://www.youtube.com/watch?v=HyitnJQRvu0&t=625s)
 * Julia: A Fresh Approach to Computing [https://computationalthinking.mit.edu/Fall23/](https://computationalthinking.mit.edu/Fall23/)
+* Implementing Skeletal Animation (https://veeenu.github.io/blog/implementing-skeletal-animation/)[https://veeenu.github.io/blog/implementing-skeletal-animation/]
 
 
 # One day
-###### All my dreams
+###### All sweet dreams
 

@@ -77,7 +77,7 @@ colorlinks: true
 
 * Are Modern Macs Really NeXTSTEP in Disguise? [https://www.youtube.com/watch?v=HyitnJQRvu0&t=625s](https://www.youtube.com/watch?v=HyitnJQRvu0&t=625s)
 * Julia: A Fresh Approach to Computing [https://computationalthinking.mit.edu/Fall23/](https://computationalthinking.mit.edu/Fall23/)
-* Implementing Skeletal Animation (https://veeenu.github.io/blog/implementing-skeletal-animation/)[https://veeenu.github.io/blog/implementing-skeletal-animation/]
+* Implementing Skeletal Animation [https://veeenu.github.io/blog/implementing-skeletal-animation/](https://veeenu.github.io/blog/implementing-skeletal-animation/)
 * How to Start Learning Computer Graphics Programming [https://erkaman.github.io/posts/beginner_computer_graphics.html](https://erkaman.github.io/posts/beginner_computer_graphics.html)
 
 

@@ -20,7 +20,7 @@ colorlinks: true
 * [x] Read a book 20 minutes #recreation
 * [x] Give Philip a mathematics lesson
 * [ ] Go to board games night
-* [ ] Do weekly integration week 41 #mathematics
+* [x] Do weekly integration week 41 #mathematics
 * [ ] Do compulsory 2 #mathematics
 * [x] Read a book 20 minutes #recreation
 * [ ] Do compulsory 3 #programming

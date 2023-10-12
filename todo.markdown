@@ -7,6 +7,7 @@ colorlinks: true
 
 * [ ] Give Philip another mathematics lesson
 * [ ] Open door for carpenters at 08:30
+* [ ] Go for a long walk early #health
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -19,11 +20,9 @@ colorlinks: true
 * [x] Read a book 20 minutes #recreation
 * [x] Give Philip a mathematics lesson
 * [ ] Go to board games night
-* [x] Go for a long walk early #health
 * [ ] Do compulsory 2 #mathematics
 * [x] Read a book 20 minutes #recreation
-* [x] Do weekly integration week 39 #mathematics
-* [x] Do weekly integration week 40 #mathematics
+* [x] Do weekly integration week 41 #mathematics
 * [ ] Do compulsory 3 #programming
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
 * [ ] Fix delete cube bug #programming

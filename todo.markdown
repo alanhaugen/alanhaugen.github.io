@@ -5,9 +5,6 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Give Philip another mathematics lesson
-* [ ] Open door for carpenters at 08:30
-* [ ] Go for a long walk early #health
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -15,11 +12,14 @@ colorlinks: true
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [ ] Shave beard
+* [ ] Go for a long walk early #health
+* [x] Give Philip another mathematics lesson
+* [x] Open door for carpenters at 08:30
 * [x] Wash clothes
 * [x] Take dry clothes up
 * [x] Read a book 20 minutes #recreation
 * [x] Give Philip a mathematics lesson
-* [ ] Go to board games night
+* [x] Go to board games night
 * [x] Do weekly integration week 41 #mathematics
 * [ ] Do compulsory 2 #mathematics
 * [x] Read a book 20 minutes #recreation

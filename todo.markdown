@@ -12,7 +12,7 @@ colorlinks: true
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [ ] Shave beard
-* [ ] Go for a long walk early #health
+* [x] Go for a long walk early #health
 * [x] Give Philip another mathematics lesson
 * [x] Open door for carpenters at 08:30
 * [x] Wash clothes
@@ -21,7 +21,7 @@ colorlinks: true
 * [x] Give Philip a mathematics lesson
 * [x] Go to board games night
 * [x] Do weekly integration week 41 #mathematics
-* [ ] Do compulsory 2 #mathematics
+* [-] Do compulsory 2 #mathematics
 * [x] Read a book 20 minutes #recreation
 * [ ] Do compulsory 3 #programming
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming

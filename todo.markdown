@@ -5,7 +5,11 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Clean bathroom
+* [ ] Make washing water
+* [ ] Clean bathroom floors
+* [ ] Clean toilet
+* [ ] Clean sink
+* [ ] Clean shower walls
 * [ ] Take dry clothes up
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read

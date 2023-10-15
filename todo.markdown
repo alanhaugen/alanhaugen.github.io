@@ -5,6 +5,8 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Clean bathroom
+* [ ] Take dry clothes up
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -12,17 +14,10 @@ colorlinks: true
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [ ] Shave beard
-* [x] Go for a long walk early #health
-* [x] Give Philip another mathematics lesson
-* [x] Open door for carpenters at 08:30
-* [x] Wash clothes
-* [x] Take dry clothes up
-* [x] Read a book 20 minutes #recreation
-* [x] Give Philip a mathematics lesson
-* [x] Go to board games night
-* [x] Do weekly integration week 41 #mathematics
+* [ ] Go for a long walk early #health
+* [ ] Read a book 20 minutes #recreation
 * [-] Do compulsory 2 #mathematics
-* [x] Read a book 20 minutes #recreation
+* [ ] Read a book 20 minutes #recreation
 * [ ] Do compulsory 3 #programming
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
 * [ ] Fix delete cube bug #programming
@@ -34,7 +29,7 @@ colorlinks: true
 * [ ] Find a project for the camera
 * [ ] Look at R1 exams
 * [ ] Make UML with either doxygen or Nomnoml [https://news.ycombinator.com/item?id=37734875&utm_term=comment](https://news.ycombinator.com/item?id=37734875&utm_term=comment)
-* [ ] Purchase mazes for programmers [https://www.amazon.com/Mazes-Programmers-Twisty-Little-Passages/dp/1680500554?ie=UTF8&*Version*=1&*entries*=0](https://www.amazon.com/Mazes-Programmers-Twisty-Little-Passages/dp/1680500554?ie=UTF8&*Version*=1&*entries*=0)
+* [x] Purchase mazes for programmers [https://www.amazon.com/Mazes-Programmers-Twisty-Little-Passages/dp/1680500554?ie=UTF8&*Version*=1&*entries*=0](https://www.amazon.com/Mazes-Programmers-Twisty-Little-Passages/dp/1680500554?ie=UTF8&*Version*=1&*entries*=0)
 
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people

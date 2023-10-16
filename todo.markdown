@@ -5,18 +5,17 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+###### #calls #atComputer #errands #office #atHome #agendas #read
+
+# Action
+###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
+
 * [ ] Make washing water
 * [ ] Clean bathroom floors
 * [ ] Clean toilet
 * [ ] Clean sink
 * [ ] Clean shower walls
 * [ ] Take dry clothes up
-
-###### #calls #atComputer #errands #office #atHome #agendas #read
-
-# Action
-###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
-
 * [ ] Shave beard
 * [ ] Go for a long walk early #health
 * [ ] Read a book 20 minutes #recreation
@@ -27,7 +26,6 @@ colorlinks: true
 * [ ] Fix delete cube bug #programming
 * [ ] Implement PEMDAS, use a tree data structure #programming
 * [ ] Implement polynomial devision #programming
-* [ ] Go to discord meeting Wednesday at 10:20
 * [ ] Learn to play green sleeves on ukulele
 * [ ] Learn to play simple tunes on the ocarina
 * [ ] Find a project for the camera

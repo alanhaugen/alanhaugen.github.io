@@ -5,9 +5,9 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [] Make mazes
-* [] Recreate fsn
-* [] Buy new trousers
+* [ ] Make mazes
+* [ ] Recreate fsn
+* [ ] Buy new trousers
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -36,7 +36,7 @@ colorlinks: true
 * [ ] Learn to play simple tunes on the ocarina
 * [ ] Find a project for the camera
 * [ ] Look at R1 exams
-* [ ] Make UML with either doxygen or Nomnoml [https://news.ycombinator.com/item?id=37734875&utm_term=comment](https://news.ycombinator.com/item?id=37734875&utm_term=comment)
+* [x] Make UML with either doxygen or Nomnoml [https://news.ycombinator.com/item?id=37734875&utm_term=comment](https://news.ycombinator.com/item?id=37734875&utm_term=comment)
 * [x] Purchase mazes for programmers [https://www.amazon.com/Mazes-Programmers-Twisty-Little-Passages/dp/1680500554?ie=UTF8&*Version*=1&*entries*=0](https://www.amazon.com/Mazes-Programmers-Twisty-Little-Passages/dp/1680500554?ie=UTF8&*Version*=1&*entries*=0)
 
 # Wait

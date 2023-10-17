@@ -5,6 +5,10 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [] Make mazes
+* [] Recreate fsn
+* [] Buy new trousers
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
@@ -12,16 +16,18 @@ colorlinks: true
 
 * [ ] Make washing water
 * [ ] Clean bathroom floors
-* [ ] Clean toilet
-* [ ] Clean sink
+* [ ] Go to art addicts
+* [x] Clean toilet
+* [x] Clean sink
 * [ ] Clean shower walls
 * [ ] Take dry clothes up
 * [ ] Shave beard
 * [ ] Go for a long walk early #health
 * [ ] Read a book 20 minutes #recreation
-* [-] Do compulsory 2 #mathematics
+* [x] Do compulsory 2 #mathematics
+* [ ] Make carrot man as practice #intro-3d
 * [ ] Read a book 20 minutes #recreation
-* [ ] Do compulsory 3 #programming
+* [x] Do compulsory 3 #programming
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
 * [ ] Fix delete cube bug #programming
 * [ ] Implement PEMDAS, use a tree data structure #programming
@@ -35,8 +41,6 @@ colorlinks: true
 
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people
-
-* [ ] Make carrot man as practice #intro-3d
 
 # Long term plan
 ###### Update Weekly

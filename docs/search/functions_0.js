@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['addfile_37',['AddFile',['../class_folder.html#a26a65bc34204f98fbfdd05d58b6b12f7',1,'Folder']]],
-  ['addfolder_38',['AddFolder',['../class_folder.html#a318539c9efa8402c1bc11fbf2ebc2863',1,'Folder']]]
+  ['addfile_38',['AddFile',['../class_folder.html#a26a65bc34204f98fbfdd05d58b6b12f7',1,'Folder']]],
+  ['addfolder_39',['AddFolder',['../class_folder.html#a318539c9efa8402c1bc11fbf2ebc2863',1,'Folder']]]
 ];

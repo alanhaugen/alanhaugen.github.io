@@ -94,6 +94,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a318539c9efa8402c1bc11fbf2ebc2863"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a26a65bc34204f98fbfdd05d58b6b12f7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_folder.html#a26a65bc34204f98fbfdd05d58b6b12f7">AddFile</a> (string filename)</td></tr>
 <tr class="separator:a26a65bc34204f98fbfdd05d58b6b12f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a293d0e7babf0581865addc13a14e9b87"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_folder.html#a293d0e7babf0581865addc13a14e9b87">MoveFileOrFolder</a> (string filename, string newname)</td></tr>
+<tr class="separator:a293d0e7babf0581865addc13a14e9b87"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae759a37f3a0be91eb424ca6445fff27d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_folder.html#ae759a37f3a0be91eb424ca6445fff27d">PrintList</a> ()</td></tr>
 <tr class="separator:ae759a37f3a0be91eb424ca6445fff27d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a913ba48e6aea464002a4e5ccfd1932b4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_folder.html#a913ba48e6aea464002a4e5ccfd1932b4">PrintRecursive</a> (<a class="el" href="class_folder.html">Folder</a> *ptr)</td></tr>
@@ -136,6 +138,8 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p><a class="el" href="class_folder.html">Folder</a> default constructor</p>
+<p>This is called when a new file is created </p>
 
 </div>
 </div>
@@ -153,6 +157,8 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p><a class="el" href="class_folder.html">Folder</a> destructor</p>
+<p>This is called when a file deleted with delete </p>
 
 </div>
 </div>
@@ -171,6 +177,8 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p><a class="el" href="class_folder.html">Folder</a> constructor</p>
+<p>This is called when a new file is created with a name </p>
 
 </div>
 </div>
@@ -190,6 +198,8 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Add file method for folder</p>
+<p>This is used to add files to a folder </p>
 
 </div>
 </div>
@@ -208,6 +218,8 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Add folder method for folder</p>
+<p>This is used to add folders to a folder </p>
 
 </div>
 </div>
@@ -226,6 +238,8 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Get <a class="el" href="class_folder.html">Folder</a> methid</p>
+<p>This method is used get a pointer to a folder The folder has to exist in the current folder. </p>
 
 </div>
 </div>
@@ -243,6 +257,38 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Get Size In MB</p>
+<p>This method is used to find filesize of all the files in a folder </p>
+
+</div>
+</div>
+<a id="a293d0e7babf0581865addc13a14e9b87"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a293d0e7babf0581865addc13a14e9b87">&#9670;&nbsp;</a></span>MoveFileOrFolder()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Folder::MoveFileOrFolder </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>filename</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>newname</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Move file or folder method for folder</p>
+<p>This is used to move filels and folders in a folder </p>
 
 </div>
 </div>
@@ -260,6 +306,8 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Print Largest <a class="el" href="class_file.html">File</a> <a class="el" href="class_info.html">Info</a></p>
+<p>Prints largest file in folder </p>
 
 </div>
 </div>
@@ -277,6 +325,8 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Print List</p>
+<p>This will cout (print) all pf the folders and files in a folder. Folders will have a minus (- ) preceding it's output </p>
 
 </div>
 </div>
@@ -295,6 +345,8 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Print Recursive helper method</p>
+<p>This is a helper method for PrintWorkingDirectory The function is recursive and is used to work where the folder is in the file hierarchy </p>
 
 </div>
 </div>
@@ -312,6 +364,8 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<p>Print Working Directory method</p>
+<p>Prints where the folder is in the file hierarchy </p>
 
 </div>
 </div>

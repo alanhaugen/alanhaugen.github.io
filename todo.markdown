@@ -5,15 +5,14 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Make mazes
-* [ ] Recreate fsn
-* [ ] Buy new trousers
-
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Make mazes
+* [ ] Recreate fsn
+* [ ] Buy new trousers
 * [ ] Make washing water
 * [ ] Clean bathroom floors
 * [ ] Go to art addicts
@@ -21,6 +20,7 @@ colorlinks: true
 * [x] Clean sink
 * [ ] Clean shower walls
 * [ ] Take dry clothes up
+* [ ] Clean clothes
 * [ ] Shave beard
 * [ ] Go for a long walk early #health
 * [ ] Read a book 20 minutes #recreation

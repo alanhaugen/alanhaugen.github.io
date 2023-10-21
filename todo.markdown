@@ -25,7 +25,7 @@ colorlinks: true
 * [x] Clean clothes
 * [ ] Shave beard
 * [x] Go for a long walk early #health
-* [ ] Read a book 20 minutes #recreation
+* [x] Read a book 20 minutes #recreation
 * [x] Do compulsory 2 #mathematics
 * [ ] Make carrot man as practice #intro-3d
 * [ ] Read a book 20 minutes #recreation

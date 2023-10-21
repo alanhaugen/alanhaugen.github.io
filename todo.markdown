@@ -6,6 +6,10 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Go to Ulrik's lesson
+* [ ] Reference all books in private library
+* [ ] Reference all bookmarks and delete them
+* [ ] Make Project Support Materials
+* [ ] List all active courses I want to complete
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

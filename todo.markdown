@@ -5,6 +5,8 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Go to Ulrik's lesson
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
@@ -13,16 +15,16 @@ colorlinks: true
 * [ ] Make mazes
 * [ ] Recreate fsn
 * [ ] Buy new trousers
-* [ ] Make washing water
-* [ ] Clean bathroom floors
-* [ ] Go to art addicts
+* [x] Make washing water
+* [x] Clean bathroom floors
+* [x] Go to art addicts
 * [x] Clean toilet
 * [x] Clean sink
-* [ ] Clean shower walls
-* [ ] Take dry clothes up
-* [ ] Clean clothes
+* [x] Clean shower walls
+* [x] Take dry clothes up
+* [x] Clean clothes
 * [ ] Shave beard
-* [ ] Go for a long walk early #health
+* [x] Go for a long walk early #health
 * [ ] Read a book 20 minutes #recreation
 * [x] Do compulsory 2 #mathematics
 * [ ] Make carrot man as practice #intro-3d
@@ -54,6 +56,7 @@ colorlinks: true
 * [ ] Do drawabox.com course
 * [ ] Learn to make music [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
 * [ ] Help Philip excel at R1
+* [ ] Help Ulrik excel at 10. grade Mathematics
 
 # Project reference material
 ###### TODO: Maybe make a website for each project?

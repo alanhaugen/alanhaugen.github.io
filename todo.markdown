@@ -5,35 +5,30 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Go to Ulrik's lesson
-* [ ] Reference all books in private library
-* [ ] Reference all bookmarks and delete them
-* [ ] Make Project Support Materials
-* [ ] List all active courses I want to complete
+* [ ] Vacuum room
+* [ ] Recreate my old games with new technology
+* [ ] Recreate the games found on NextStep
+* [ ] Recreate the games found as examples for raylib
+* [ ] Reconsider UML (made in nomnoml)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Go to Ulrik's lesson
+* [ ] Reference all books in private library
+* [ ] Reference all bookmarks and delete them
+* [ ] Make Project Support Materials
+* [ ] List all active courses I want to complete
 * [ ] Make mazes
 * [ ] Recreate fsn
 * [ ] Buy new trousers
-* [x] Make washing water
-* [x] Clean bathroom floors
-* [x] Go to art addicts
-* [x] Clean toilet
-* [x] Clean sink
-* [x] Clean shower walls
-* [x] Take dry clothes up
-* [x] Clean clothes
 * [ ] Shave beard
-* [x] Go for a long walk early #health
-* [x] Read a book 20 minutes #recreation
-* [x] Do compulsory 2 #mathematics
+* [ ] Go for a long walk early #health
+* [ ] Read a book 20 minutes #recreation
 * [ ] Make carrot man as practice #intro-3d
-* [x] Read a book 20 minutes #recreation
-* [x] Do compulsory 3 #programming
+* [ ] Read a book 20 minutes #recreation
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
 * [ ] Fix delete cube bug #programming
 * [ ] Implement PEMDAS, use a tree data structure #programming
@@ -42,8 +37,6 @@ colorlinks: true
 * [ ] Learn to play simple tunes on the ocarina
 * [ ] Find a project for the camera
 * [ ] Look at R1 exams
-* [x] Make UML with either doxygen or Nomnoml [https://news.ycombinator.com/item?id=37734875&utm_term=comment](https://news.ycombinator.com/item?id=37734875&utm_term=comment)
-* [x] Purchase mazes for programmers [https://www.amazon.com/Mazes-Programmers-Twisty-Little-Passages/dp/1680500554?ie=UTF8&*Version*=1&*entries*=0](https://www.amazon.com/Mazes-Programmers-Twisty-Little-Passages/dp/1680500554?ie=UTF8&*Version*=1&*entries*=0)
 
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people

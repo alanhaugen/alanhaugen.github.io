@@ -11,13 +11,14 @@ colorlinks: true
 * [ ] Recreate the games found as examples for raylib
 * [ ] Reconsider UML (made in nomnoml)
 * [ ] Implement numerical methods for Mathematics I for the computer
+* [ ] Do compulsory 3 in 3D #intro-3d
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Go to Ulrik's lesson
+* [x] Go to Ulrik's lesson
 * [ ] Reference all books in private library
 * [ ] Reference all bookmarks and delete them
 * [ ] Make Project Support Materials

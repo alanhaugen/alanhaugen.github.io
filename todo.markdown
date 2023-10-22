@@ -10,6 +10,7 @@ colorlinks: true
 * [ ] Recreate the games found on NextStep
 * [ ] Recreate the games found as examples for raylib
 * [ ] Reconsider UML (made in nomnoml)
+* [ ] Implement numerical methods for Mathematics I for the computer
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

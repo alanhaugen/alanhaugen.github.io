@@ -5,6 +5,10 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Take out washing
+* [ ] Bring up clean clothes
+* [ ] Read for minimum 20 minutes
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action

@@ -5,20 +5,18 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+###### #calls #atComputer #errands #office #atHome #agendas #read
+
+# Action
+###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
+
 * [ ] Vacuum room
 * [ ] Recreate my old games with new technology
 * [ ] Recreate the games found on NextStep
 * [ ] Recreate the games found as examples for raylib
 * [ ] Reconsider UML (made in nomnoml)
 * [ ] Implement numerical methods for Mathematics I for the computer
-* [ ] Do compulsory 3 in 3D #intro-3d
-
-###### #calls #atComputer #errands #office #atHome #agendas #read
-
-# Action
-###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
-
-* [x] Go to Ulrik's lesson
+* [x] Do compulsory 3 in 3D #intro-3d
 * [ ] Reference all books in private library
 * [ ] Reference all bookmarks and delete them
 * [ ] Make Project Support Materials
@@ -67,9 +65,9 @@ colorlinks: true
 * [x] Compulsory 1 -> 22-september-2023 #intro-3d
 * [x] Compulsory 2 -> 29-september-2023 #programming-I
 * [x] Compulsory 2 -> 20-october-2023   #intro-3d
-* [ ] Oblig 2      -> 23-october-2023   #mathematics-I
-* [ ] Compulsory 3 -> 27-october-2023   #programming-I
-* [ ] Compulsory 3 -> 3-november-2023   #intro-3d
+* [x] Oblig 2      -> 23-october-2023   #mathematics-I
+* [x] Compulsory 3 -> 27-october-2023   #programming-I
+* [x] Compulsory 3 -> 3-november-2023   #intro-3d
 * [ ] Oblig 3      -> 17-november-2023  #mathematics-I
 * [ ] Folder due   -> 1-december-2023   #intro-3d
 * [ ] Written exam -> 6-december-2023   #programming-I

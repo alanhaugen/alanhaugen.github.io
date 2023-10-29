@@ -48,6 +48,8 @@ colorlinks: true
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people
 
+* [ ] Review Getting Things Done in three months -> january-2023
+
 # Long term plan
 ###### Update Weekly
 

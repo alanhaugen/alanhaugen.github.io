@@ -7,6 +7,7 @@ colorlinks: true
 
 * [ ] Consider 50,000 feet (life), 40,000 feet (three/five year plan), 30,000 feet (one/two year plan), 20,2000 feet (My hats), 10,000 feet (Current projects) and Runway (actions)
 * [ ] Make an about me page with my life vision and values
+* [ ] Take all chrome tags and make actions/references out of them
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -60,7 +61,7 @@ colorlinks: true
 * [ ] Learn to make music [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
 * [ ] Help Philip excel at R1
 * [ ] Help Ulrik excel at 10. grade Mathematics
-* [ ] Do game jam in January with Rudi
+* [ ] Do global game jam in January with Rudi
 
 # Project reference material
 ###### TODO: Maybe make a website for each project?

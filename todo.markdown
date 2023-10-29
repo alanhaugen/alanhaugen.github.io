@@ -8,6 +8,8 @@ colorlinks: true
 * [ ] Consider 50,000 feet (life), 40,000 feet (three/five year plan), 30,000 feet (one/two year plan), 20,2000 feet (My hats), 10,000 feet (Current projects) and Runway (actions)
 * [ ] Make an about me page with my life vision and values
 * [ ] Take all chrome tags and make actions/references out of them
+* [ ] Do weekly mathematics 42
+* [ ] Do weekly mathematics 43
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -17,6 +19,8 @@ colorlinks: true
 * [x] Take out washing
 * [x] Bring up clean clothes
 * [x] Read for minimum 20 minutes
+* [ ] Go for a long walk early #health
+* [ ] Read a book 20 minutes #recreation
 * [ ] Make Project Support Materials
 * [ ] Vacuum room
 * [ ] Recreate my old games with new technology
@@ -30,10 +34,8 @@ colorlinks: true
 * [ ] List all active courses I want to complete
 * [ ] Make mazes
 * [ ] Recreate fsn
-* [ ] Buy new trousers
-* [ ] Shave beard
-* [ ] Go for a long walk early #health
-* [ ] Read a book 20 minutes #recreation
+* [x] Buy new trousers
+* [x] Shave beard
 * [ ] Make carrot man as practice #intro-3d
 * [ ] Read a book 20 minutes #recreation
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming

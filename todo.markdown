@@ -5,15 +5,17 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Take out washing
-* [ ] Bring up clean clothes
-* [ ] Read for minimum 20 minutes
+* [ ] Consider 50,000 feet (life), 40,000 feet (three/five year plan), 30,000 feet (one/two year plan), 20,2000 feet (My hats), 10,000 feet (Current projects) and Runway (actions)
+* [ ] Make an about me page with my life vision and values
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Take out washing
+* [x] Bring up clean clothes
+* [x] Read for minimum 20 minutes
 * [ ] Vacuum room
 * [ ] Recreate my old games with new technology
 * [ ] Recreate the games found on NextStep
@@ -88,6 +90,11 @@ colorlinks: true
 * How to Start Learning Computer Graphics Programming [https://erkaman.github.io/posts/beginner_computer_graphics.html](https://erkaman.github.io/posts/beginner_computer_graphics.html)
 
 
-# One day
-###### All dreams to make real
+# Dreams
+###### Goals I might get around to some day
+
+* Create and OS for creative people
+* Create the best games in the world
+* Save the world by becoming Willy Wonka
+* Get an amazing girlfriend and loving relationships
 

@@ -16,6 +16,7 @@ colorlinks: true
 * [x] Take out washing
 * [x] Bring up clean clothes
 * [x] Read for minimum 20 minutes
+* [ ] Make Project Support Materials
 * [ ] Vacuum room
 * [ ] Recreate my old games with new technology
 * [ ] Recreate the games found on NextStep
@@ -25,7 +26,6 @@ colorlinks: true
 * [x] Do compulsory 3 in 3D #intro-3d
 * [ ] Reference all books in private library
 * [ ] Reference all bookmarks and delete them
-* [ ] Make Project Support Materials
 * [ ] List all active courses I want to complete
 * [ ] Make mazes
 * [ ] Recreate fsn
@@ -60,6 +60,7 @@ colorlinks: true
 * [ ] Learn to make music [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
 * [ ] Help Philip excel at R1
 * [ ] Help Ulrik excel at 10. grade Mathematics
+* [ ] Do game jam in January with Rudi
 
 # Project reference material
 ###### TODO: Maybe make a website for each project?

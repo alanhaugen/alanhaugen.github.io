@@ -22,9 +22,9 @@ colorlinks: true
 * [x] Bring up clean clothes
 * [x] Read for minimum 20 minutes
 * [ ] Go for a long walk early #health
-* [ ] Read a book 20 minutes #recreation
+* [x] Read a book 20 minutes #recreation
 * [ ] Make Project Support Materials
-* [ ] Vacuum room
+* [x] Vacuum room
 * [ ] Recreate my old games with new technology
 * [ ] Recreate the games found on NextStep
 * [ ] Recreate the games found as examples for raylib
@@ -66,7 +66,14 @@ colorlinks: true
 * [ ] Do drawabox.com course
 * [ ] Learn to make music [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
 * [ ] Help Philip excel at R1
-* [ ] Help Ulrik excel at 10. grade Mathematics [x] [ ] [ ] [ ] [ ]
+* [ ] Help Ulrik excel at 10. grade Mathematics
+
+* [x]
+* [ ]
+* [ ]
+* [ ]
+* [ ]
+
 * [ ] Do global game jam in January with Rudi
 
 # Project reference material
@@ -105,4 +112,5 @@ colorlinks: true
 * Create the best games in the world
 * Save the world by becoming Willy Wonka
 * Get an amazing girlfriend and loving relationships
+* Create Principia
 

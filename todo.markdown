@@ -6,6 +6,7 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Go to art addicts
+* [ ] Read mdpi email
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -74,6 +75,7 @@ colorlinks: true
 * [ ]
 * [ ]
 
+* [ ] Write paper for mdpi
 * [ ] Do global game jam in January with Rudi
 
 # Project reference material

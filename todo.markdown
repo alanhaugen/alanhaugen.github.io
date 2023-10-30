@@ -7,6 +7,7 @@ colorlinks: true
 
 * [ ] Go to art addicts
 * [ ] Read mdpi email
+* [ ] Do oblig 3 #mathematics
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

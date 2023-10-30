@@ -10,6 +10,7 @@ colorlinks: true
 * [ ] Take all chrome tags and make actions/references out of them
 * [ ] Do weekly mathematics 42
 * [ ] Do weekly mathematics 43
+* [ ] Do weekly mathematics 44
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -64,7 +65,7 @@ colorlinks: true
 * [ ] Do drawabox.com course
 * [ ] Learn to make music [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
 * [ ] Help Philip excel at R1
-* [ ] Help Ulrik excel at 10. grade Mathematics
+* [ ] Help Ulrik excel at 10. grade Mathematics [x] [ ] [ ] [ ] [ ]
 * [ ] Do global game jam in January with Rudi
 
 # Project reference material

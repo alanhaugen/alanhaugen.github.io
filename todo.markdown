@@ -5,18 +5,19 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Consider 50,000 feet (life), 40,000 feet (three/five year plan), 30,000 feet (one/two year plan), 20,2000 feet (My hats), 10,000 feet (Current projects) and Runway (actions)
-* [ ] Make an about me page with my life vision and values
-* [ ] Take all chrome tags and make actions/references out of them
-* [ ] Do weekly mathematics 42
-* [ ] Do weekly mathematics 43
-* [ ] Do weekly mathematics 44
+* [ ] Go to art addicts
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Consider 50,000 feet (life), 40,000 feet (three/five year plan), 30,000 feet (one/two year plan), 20,2000 feet (My hats), 10,000 feet (Current projects) and Runway (actions)
+* [ ] Make an about me page with my life vision and values
+* [ ] Take all chrome tags and make actions/references out of them
+* [ ] Do weekly mathematics 42
+* [ ] Do weekly mathematics 43
+* [ ] Do weekly mathematics 44
 * [x] Take out washing
 * [x] Bring up clean clothes
 * [x] Read for minimum 20 minutes

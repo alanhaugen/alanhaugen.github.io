@@ -7,13 +7,13 @@ colorlinks: true
 
 * [ ] Go to art addicts
 * [ ] Read mdpi email
-* [ ] Do oblig 3 #mathematics
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Do oblig 3 #mathematics
 * [ ] Consider 50,000 feet (life), 40,000 feet (three/five year plan), 30,000 feet (one/two year plan), 20,2000 feet (My hats), 10,000 feet (Current projects) and Runway (actions)
 * [ ] Make an about me page with my life vision and values
 * [ ] Take all chrome tags and make actions/references out of them
@@ -92,7 +92,7 @@ colorlinks: true
 * [x] Oblig 2      -> 23-october-2023   #mathematics-I
 * [x] Compulsory 3 -> 27-october-2023   #programming-I
 * [x] Compulsory 3 -> 3-november-2023   #intro-3d
-* [ ] Oblig 3      -> 17-november-2023  #mathematics-I
+* [x] Oblig 3      -> 17-november-2023  #mathematics-I
 * [ ] Folder due   -> 1-december-2023   #intro-3d
 * [ ] Written exam -> 6-december-2023   #programming-I
 * [ ] Written exam -> 11-december-2023  #mathematics-I
@@ -115,5 +115,7 @@ colorlinks: true
 * Create the best games in the world
 * Save the world by becoming Willy Wonka
 * Get an amazing girlfriend and loving relationships
+* Make The Castle
+* Make Lingua Quest
 * Create Principia
 

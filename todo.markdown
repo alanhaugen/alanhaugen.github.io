@@ -5,14 +5,16 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Go to art addicts
-* [ ] Read mdpi email
+* [ ] Read flex bison book
+* [ ] Finish drawabox lesson 1
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Read mdpi email
+* [x] Go to art addicts
 * [x] Do oblig 3 #mathematics
 * [ ] Consider 50,000 feet (life), 40,000 feet (three/five year plan), 30,000 feet (one/two year plan), 20,2000 feet (My hats), 10,000 feet (Current projects) and Runway (actions)
 * [ ] Make an about me page with my life vision and values

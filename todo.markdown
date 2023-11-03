@@ -75,7 +75,7 @@ colorlinks: true
 * [ ] Help Ulrik excel at 10. grade Mathematics
 
 * [x]
-* [ ]
+* [x]
 * [ ]
 * [ ]
 * [ ]

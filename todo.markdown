@@ -6,6 +6,7 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Take part in another kaggle competition
+* [ ] Put glasses in sack
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

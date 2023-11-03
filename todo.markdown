@@ -6,6 +6,7 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Read flex bison book
+* [ ] Consider Algortihms link [https://matklad.github.io/2023/08/13/role-of-algorithms.html](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
 * [ ] Finish drawabox lesson 1
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
@@ -108,6 +109,7 @@ colorlinks: true
 * Julia: A Fresh Approach to Computing [https://computationalthinking.mit.edu/Fall23/](https://computationalthinking.mit.edu/Fall23/)
 * Implementing Skeletal Animation [https://veeenu.github.io/blog/implementing-skeletal-animation/](https://veeenu.github.io/blog/implementing-skeletal-animation/)
 * How to Start Learning Computer Graphics Programming [https://erkaman.github.io/posts/beginner_computer_graphics.html](https://erkaman.github.io/posts/beginner_computer_graphics.html)
+* A Journey Into Shaders [https://www.mayerowitz.io/blog/a-journey-into-shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 
 
 # Dreams

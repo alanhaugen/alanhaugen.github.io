@@ -5,14 +5,16 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Read flex bison book
-* [ ] Finish drawabox lesson 1
+* [ ] Take part in another kaggle competition
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Read flex bison book
+* [ ] Finish drawabox lesson 1
+* [ ] Play something on keyboard
 * [ ] Read mdpi email
 * [x] Go to art addicts
 * [x] Do oblig 3 #mathematics
@@ -108,6 +110,8 @@ colorlinks: true
 * Julia: A Fresh Approach to Computing [https://computationalthinking.mit.edu/Fall23/](https://computationalthinking.mit.edu/Fall23/)
 * Implementing Skeletal Animation [https://veeenu.github.io/blog/implementing-skeletal-animation/](https://veeenu.github.io/blog/implementing-skeletal-animation/)
 * How to Start Learning Computer Graphics Programming [https://erkaman.github.io/posts/beginner_computer_graphics.html](https://erkaman.github.io/posts/beginner_computer_graphics.html)
+* Memory Allocation [https://samwho.dev/memory-allocation/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav#malloc-and-free](https://samwho.dev/memory-allocation/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav#malloc-and-free)
+* Finish your projects [https://github.com/readme/guides/finish-your-projects?utm_source=hackernewsletter&utm_medium=email&utm_term=fav](https://github.com/readme/guides/finish-your-projects?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 
 
 # Dreams
@@ -120,4 +124,7 @@ colorlinks: true
 * Make The Castle
 * Make Lingua Quest
 * Create Principia
+* Write a dx11 renderer
+* Write a vulkan renderer
+* Write a metal renderer
 

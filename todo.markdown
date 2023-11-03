@@ -8,12 +8,17 @@ colorlinks: true
 * [ ] Read flex bison book
 * [ ] Consider Algortihms link [https://matklad.github.io/2023/08/13/role-of-algorithms.html](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
 * [ ] Finish drawabox lesson 1
+* [ ] Take part in another kaggle competition
+* [ ] Put glasses in sack
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Read flex bison book
+* [ ] Finish drawabox lesson 1
+* [ ] Play something on keyboard
 * [ ] Read mdpi email
 * [x] Go to art addicts
 * [x] Do oblig 3 #mathematics
@@ -74,7 +79,7 @@ colorlinks: true
 * [ ] Help Ulrik excel at 10. grade Mathematics
 
 * [x]
-* [ ]
+* [x]
 * [ ]
 * [ ]
 * [ ]
@@ -109,7 +114,12 @@ colorlinks: true
 * Julia: A Fresh Approach to Computing [https://computationalthinking.mit.edu/Fall23/](https://computationalthinking.mit.edu/Fall23/)
 * Implementing Skeletal Animation [https://veeenu.github.io/blog/implementing-skeletal-animation/](https://veeenu.github.io/blog/implementing-skeletal-animation/)
 * How to Start Learning Computer Graphics Programming [https://erkaman.github.io/posts/beginner_computer_graphics.html](https://erkaman.github.io/posts/beginner_computer_graphics.html)
+<<<<<<< HEAD
 * A Journey Into Shaders [https://www.mayerowitz.io/blog/a-journey-into-shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
+=======
+* Memory Allocation [https://samwho.dev/memory-allocation/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav#malloc-and-free](https://samwho.dev/memory-allocation/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav#malloc-and-free)
+* Finish your projects [https://github.com/readme/guides/finish-your-projects?utm_source=hackernewsletter&utm_medium=email&utm_term=fav](https://github.com/readme/guides/finish-your-projects?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+>>>>>>> fe1811a790c12305693d55955bd2aa598291aa11
 
 
 # Dreams
@@ -122,4 +132,7 @@ colorlinks: true
 * Make The Castle
 * Make Lingua Quest
 * Create Principia
+* Write a dx11 renderer
+* Write a vulkan renderer
+* Write a metal renderer
 

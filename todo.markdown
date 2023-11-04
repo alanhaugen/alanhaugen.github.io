@@ -6,6 +6,8 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Play Alan Wake II
+* [ ] Learn more about Fritz Haber
+* [ ] Consider Linear Algebra Done Right [https://linear.axler.net](https://linear.axler.net)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

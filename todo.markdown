@@ -127,8 +127,11 @@ colorlinks: true
 * Create the best games in the world
 * Save the world by becoming Willy Wonka
 * Get an amazing girlfriend and loving relationships
+* Start the ultimate lifeform project
 * Make The Castle
 * Make Lingua Quest
+* Make Speed Cars
+* Make Spring Man
 * Create Principia
 * Write a dx11 renderer
 * Write a vulkan renderer

@@ -14,7 +14,7 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Go to visit Alex
+* [x] Go to visit Alex
 * [ ] Read flex bison book
 * [ ] Consider Algortihms link [https://matklad.github.io/2023/08/13/role-of-algorithms.html](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
 * [ ] Finish drawabox lesson 1

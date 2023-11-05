@@ -5,16 +5,14 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Play Alan Wake II
-* [ ] Learn more about Fritz Haber
-* [ ] Consider Linear Algebra Done Right [https://linear.axler.net](https://linear.axler.net)
-
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [x] Go to visit Alex
+* [ ] Play Alan Wake II
+* [ ] Learn more about Fritz Haber
+* [ ] Consider Linear Algebra Done Right [https://linear.axler.net](https://linear.axler.net)
 * [ ] Read flex bison book
 * [ ] Consider Algortihms link [https://matklad.github.io/2023/08/13/role-of-algorithms.html](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
 * [ ] Finish drawabox lesson 1
@@ -24,34 +22,24 @@ colorlinks: true
 * [ ] Finish drawabox lesson 1
 * [ ] Play something on keyboard
 * [ ] Read mdpi email
-* [x] Go to art addicts
-* [x] Do oblig 3 #mathematics
 * [ ] Consider 50,000 feet (life), 40,000 feet (three/five year plan), 30,000 feet (one/two year plan), 20,2000 feet (My hats), 10,000 feet (Current projects) and Runway (actions)
 * [ ] Make an about me page with my life vision and values
 * [ ] Take all chrome tags and make actions/references out of them
 * [ ] Do weekly mathematics 42
 * [ ] Do weekly mathematics 43
 * [ ] Do weekly mathematics 44
-* [x] Take out washing
-* [x] Bring up clean clothes
-* [x] Read for minimum 20 minutes
 * [ ] Go for a long walk early #health
-* [x] Read a book 20 minutes #recreation
 * [ ] Make Project Support Materials
-* [x] Vacuum room
 * [ ] Recreate my old games with new technology
 * [ ] Recreate the games found on NextStep
 * [ ] Recreate the games found as examples for raylib
 * [ ] Reconsider UML (made in nomnoml)
 * [ ] Implement numerical methods for Mathematics I for the computer
-* [x] Do compulsory 3 in 3D #intro-3d
 * [ ] Reference all books in private library
 * [ ] Reference all bookmarks and delete them
 * [ ] List all active courses I want to complete
 * [ ] Make mazes
 * [ ] Recreate fsn
-* [x] Buy new trousers
-* [x] Shave beard
 * [ ] Make carrot man as practice #intro-3d
 * [ ] Read a book 20 minutes #recreation
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming

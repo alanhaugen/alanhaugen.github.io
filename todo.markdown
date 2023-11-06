@@ -5,29 +5,36 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Do weekly mathematics 44
+* [ ] Go to art addicts
+* [ ] Hand in first drawabox assignment
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Put glasses in sack
+* [ ] Do weekly mathematics 42
+* [ ] Do weekly mathematics 43
+* [ ] Do weekly mathematics 44
+* [ ] Make carrot man as practice #intro-3d
+* [ ] Read a book 20 minutes #recreation
+* [ ] Consider Linear Algebra Done Right [https://linear.axler.net](https://linear.axler.net)
+* [ ] Consider 50,000 feet (life), 40,000 feet (three/five year plan), 30,000 feet (one/two year plan), 20,2000 feet (My hats), 10,000 feet (Current projects) and Runway (actions)
+* [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
 * [ ] Play Alan Wake II
 * [ ] Learn more about Fritz Haber
-* [ ] Consider Linear Algebra Done Right [https://linear.axler.net](https://linear.axler.net)
 * [ ] Read flex bison book
 * [ ] Consider Algortihms link [https://matklad.github.io/2023/08/13/role-of-algorithms.html](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
 * [ ] Finish drawabox lesson 1
 * [ ] Take part in another kaggle competition
-* [ ] Put glasses in sack
 * [ ] Read flex bison book
 * [ ] Finish drawabox lesson 1
 * [ ] Play something on keyboard
 * [ ] Read mdpi email
-* [ ] Consider 50,000 feet (life), 40,000 feet (three/five year plan), 30,000 feet (one/two year plan), 20,2000 feet (My hats), 10,000 feet (Current projects) and Runway (actions)
 * [ ] Make an about me page with my life vision and values
 * [ ] Take all chrome tags and make actions/references out of them
-* [ ] Do weekly mathematics 42
-* [ ] Do weekly mathematics 43
-* [ ] Do weekly mathematics 44
 * [ ] Go for a long walk early #health
 * [ ] Make Project Support Materials
 * [ ] Recreate my old games with new technology
@@ -40,9 +47,6 @@ colorlinks: true
 * [ ] List all active courses I want to complete
 * [ ] Make mazes
 * [ ] Recreate fsn
-* [ ] Make carrot man as practice #intro-3d
-* [ ] Read a book 20 minutes #recreation
-* [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
 * [ ] Fix delete cube bug #programming
 * [ ] Implement PEMDAS, use a tree data structure #programming
 * [ ] Implement polynomial devision #programming

@@ -54,7 +54,7 @@ colorlinks: true
 * [ ] Reconsider UML (made in nomnoml)
 * [ ] Implement numerical methods for Mathematics I for the computer
 * [ ] Reference all books in private library
-* [ ] Reference all bookmarks and delete them
+* [x] Reference all bookmarks and delete them
 * [ ] List all active courses I want to complete
 * [ ] Make mazes
 * [ ] Recreate fsn
@@ -123,7 +123,10 @@ colorlinks: true
 * A Journey Into Shaders [https://www.mayerowitz.io/blog/a-journey-into-shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 * Memory Allocation [https://samwho.dev/memory-allocation/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav#malloc-and-free](https://samwho.dev/memory-allocation/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav#malloc-and-free)
 * Finish your projects [https://github.com/readme/guides/finish-your-projects?utm_source=hackernewsletter&utm_medium=email&utm_term=fav](https://github.com/readme/guides/finish-your-projects?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
-
+* Memory Allocation [https://samwho.dev/memory-allocation](https://samwho.dev/memory-allocation)
+* Finish your projects [https://github.com/readme/guides/finish-your-projects](https://github.com/readme/guides/finish-your-projects)
+* Learning Modern 3D Graphics Programming [https://paroj.github.io/gltut/](https://paroj.github.io/gltut/)
+* Choosing Ruby On Rails For Your Next Web Development Project [https://www.ideamotive.co/ruby-on-rails/guide](https://www.ideamotive.co/ruby-on-rails/guide)
 
 # Dreams
 ###### Goals I might get around to some day

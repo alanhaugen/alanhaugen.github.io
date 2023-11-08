@@ -186,7 +186,6 @@ echo "
                 }
                 if (month == 10)
                 {
-                cal.colorfulSelect('22/10/2023', 'jsCalendar-colorful-red');
                 cal.colorfulSelect('20/10/2023', 'jsCalendar-colorful-orange');
                 cal.colorfulSelect('23/10/2023', 'jsCalendar-colorful-blue');
                 cal.colorfulSelect('27/10/2023', 'jsCalendar-colorful-green');
@@ -198,6 +197,7 @@ echo "
                 }
                 if (month == 12)
                 {
+                cal.colorfulSelect('19/12/2023', 'jsCalendar-colorful-red');
                 cal.colorfulSelect('01/12/2023', 'jsCalendar-colorful-orange');
                 cal.colorfulSelect('06/12/2023', 'jsCalendar-colorful-green');
                 cal.colorfulSelect('11/12/2023', 'jsCalendar-colorful-blue');

@@ -5,19 +5,32 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Look into making assets for folder #intro-3d
+* [ ] Texture shroom #intro-3d
+* [ ] Animate shroom #intro-3d
+* [ ] Texture fish #intro-3d
+* [ ] Animate fish #intro-3d
+* [ ] Make an intro for 3d folder #intro-3d
+* [ ] Make sound effects for intro #intro-3d
+* [ ] Consider Abbas mathematics notes #mathematics
+* [ ] Do Mock exam 1 #programming
+* [ ] Do Mock exam 2 #programming
+* [ ] Do closed book exam 2022 #programming
+* [ ] Buy superglue
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [x] Go to art addicts
-* [ ] Do weekly mathematics 42
-* [ ] Do weekly mathematics 43
-* [ ] Do weekly mathematics 44
-* [ ] Do weekly mathematics 45
-* [ ] Hand in first drawabox assignment
-* [ ] Make carrot man as practice #intro-3d
+* [ ] Do weekly mathematics 42 #mathematics
+* [ ] Do weekly mathematics 43 #mathematics
+* [ ] Do weekly mathematics 44 #mathematics
+* [ ] Do weekly mathematics 45 #mathematics
 * [ ] Read a book 20 minutes #recreation
+* [ ] Make carrot man as practice #intro-3d
+* [ ] Hand in first drawabox assignment
 * [ ] Consider Linear Algebra Done Right [https://linear.axler.net](https://linear.axler.net)
 * [ ] Consider 50,000 feet (life), 40,000 feet (three/five year plan), 30,000 feet (one/two year plan), 20,2000 feet (My hats), 10,000 feet (Current projects) and Runway (actions)
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming

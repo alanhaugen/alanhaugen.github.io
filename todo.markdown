@@ -5,19 +5,17 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Do weekly mathematics 44
-* [ ] Go to art addicts
-* [ ] Hand in first drawabox assignment
-
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [x] Put glasses in sack
+* [x] Go to art addicts
 * [ ] Do weekly mathematics 42
 * [ ] Do weekly mathematics 43
 * [ ] Do weekly mathematics 44
+* [ ] Do weekly mathematics 45
+* [ ] Hand in first drawabox assignment
 * [ ] Make carrot man as practice #intro-3d
 * [ ] Read a book 20 minutes #recreation
 * [ ] Consider Linear Algebra Done Right [https://linear.axler.net](https://linear.axler.net)

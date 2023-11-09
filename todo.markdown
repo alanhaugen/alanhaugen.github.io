@@ -5,6 +5,11 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+###### #calls #atComputer #errands #office #atHome #agendas #read
+
+# Action
+###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
+
 * [ ] Look into making assets for folder #intro-3d
 * [ ] Texture shroom #intro-3d
 * [ ] Animate shroom #intro-3d
@@ -17,12 +22,6 @@ colorlinks: true
 * [ ] Do Mock exam 2 #programming
 * [ ] Do closed book exam 2022 #programming
 * [ ] Buy superglue
-
-###### #calls #atComputer #errands #office #atHome #agendas #read
-
-# Action
-###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
-
 * [x] Go to art addicts
 * [ ] Do weekly mathematics 42 #mathematics
 * [ ] Do weekly mathematics 43 #mathematics

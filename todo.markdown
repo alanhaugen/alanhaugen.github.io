@@ -5,13 +5,12 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Read Ekte programmering
-
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Read Ekte programmering
 * [ ] Look into making assets for folder #intro-3d
 * [ ] Texture shroom #intro-3d
 * [ ] Animate shroom #intro-3d
@@ -141,6 +140,7 @@ colorlinks: true
 * Make Lingua Quest
 * Make Speed Cars
 * Make Spring Man
+* Make a tilt5 game
 * Create Principia
 * Write a dx11 renderer
 * Write a vulkan renderer

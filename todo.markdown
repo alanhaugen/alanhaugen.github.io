@@ -105,7 +105,7 @@ colorlinks: true
 * [x] Compulsory 3 -> 27-october-2023   #programming-I
 * [x] Compulsory 3 -> 3-november-2023   #intro-3d
 * [x] Oblig 3      -> 17-november-2023  #mathematics-I
-* [ ] Folder due   -> 1-december-2023   #intro-3d
+* [ ] Folder due   -> 1-december-2023   #intro-3d [projects/blender/intro3d](projects/blender/intro3d)
 * [ ] Written exam -> 6-december-2023   #programming-I
 * [ ] Written exam -> 11-december-2023  #mathematics-I
 

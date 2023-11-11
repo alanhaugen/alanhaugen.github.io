@@ -5,13 +5,14 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Take washing out of washing machine
+* [ ] Buy detergent for clothes
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Take washing out of washing machine
 * [x] Do weekly mathematics 42 #mathematics
 * [x] Do weekly mathematics 43 #mathematics
 * [ ] Do weekly mathematics 44 #mathematics

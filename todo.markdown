@@ -5,6 +5,8 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Take washing out of washing machine
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action

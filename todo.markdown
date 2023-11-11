@@ -13,7 +13,7 @@ colorlinks: true
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [x] Do weekly mathematics 42 #mathematics
-* [ ] Do weekly mathematics 43 #mathematics
+* [x] Do weekly mathematics 43 #mathematics
 * [ ] Do weekly mathematics 44 #mathematics
 * [ ] Do weekly mathematics 45 #mathematics
 * [ ] Read Ekte programmering

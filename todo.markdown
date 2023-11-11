@@ -10,6 +10,10 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Do weekly mathematics 42 #mathematics
+* [ ] Do weekly mathematics 43 #mathematics
+* [ ] Do weekly mathematics 44 #mathematics
+* [ ] Do weekly mathematics 45 #mathematics
 * [ ] Read Ekte programmering
 * [ ] Look into making assets for folder #intro-3d
 * [ ] Texture shroom #intro-3d
@@ -23,11 +27,6 @@ colorlinks: true
 * [ ] Do Mock exam 2 #programming
 * [ ] Do closed book exam 2022 #programming
 * [ ] Buy superglue
-* [x] Go to art addicts
-* [ ] Do weekly mathematics 42 #mathematics
-* [ ] Do weekly mathematics 43 #mathematics
-* [ ] Do weekly mathematics 44 #mathematics
-* [ ] Do weekly mathematics 45 #mathematics
 * [ ] Read a book 20 minutes #recreation
 * [ ] Make carrot man as practice #intro-3d
 * [ ] Hand in first drawabox assignment
@@ -70,7 +69,6 @@ colorlinks: true
 ###### Deffered actions. Waiting for the right time or on other people
 
 * [ ] Review Getting Things Done in three months -> january-2023
-* [ ] Make Butter Chicken on Sunday
 
 # Long term plan
 ###### Update Weekly

@@ -87,7 +87,7 @@ colorlinks: true
 * [ ] Help Ulrik excel at 10. grade Mathematics
 * [x] Ulrik lesson 1
 * [x] Ulrik lesson 2
-* [ ] Ulrik lesson 3
+* [x] Ulrik lesson 3
 * [ ] Ulrik lesson 4
 * [ ] Ulrik lesson 5
 * [ ] Write paper for mdpi

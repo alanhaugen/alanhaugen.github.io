@@ -21,7 +21,7 @@ colorlinks: true
 * [x] Take washing out of washing machine
 * [x] Do weekly mathematics 42 #mathematics
 * [x] Do weekly mathematics 43 #mathematics
-* [ ] Do weekly mathematics 44 #mathematics
+* [x] Do weekly mathematics 44 #mathematics
 * [ ] Do weekly mathematics 45 #mathematics
 * [ ] Read Ekte programmering
 * [x] Look into making assets for folder #intro-3d

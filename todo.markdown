@@ -5,20 +5,26 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Buy detergent for clothes
+* [ ] Make a list of new assets for intro3d
+* [ ] Do maths exam 20H
+* [ ] Do maths exam 21H
+* [ ] Do maths exam 22H
+* [ ] Do maths exam kontV21
+* [ ] Do maths exam kontV22
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Buy detergent for clothes
 * [x] Take washing out of washing machine
 * [x] Do weekly mathematics 42 #mathematics
 * [x] Do weekly mathematics 43 #mathematics
 * [ ] Do weekly mathematics 44 #mathematics
 * [ ] Do weekly mathematics 45 #mathematics
 * [ ] Read Ekte programmering
-* [ ] Look into making assets for folder #intro-3d
+* [x] Look into making assets for folder #intro-3d
 * [ ] Texture shroom #intro-3d
 * [ ] Animate shroom #intro-3d
 * [ ] Texture fish #intro-3d

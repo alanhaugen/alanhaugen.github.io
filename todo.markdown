@@ -6,6 +6,7 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Go to art addicts
+* [ ] Do weekly mathematics 46 #mathematics
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

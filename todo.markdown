@@ -7,6 +7,7 @@ colorlinks: true
 
 * [ ] Go to art addicts
 * [ ] Do weekly mathematics 46 #mathematics
+* [ ] Buy a blue and red pen
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

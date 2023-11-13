@@ -5,12 +5,7 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Make a list of new assets for intro3d
-* [ ] Do maths exam 20H
-* [ ] Do maths exam 21H
-* [ ] Do maths exam 22H
-* [ ] Do maths exam kontV21
-* [ ] Do maths exam kontV22
+* [ ] Go to art addicts
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -23,6 +18,12 @@ colorlinks: true
 * [x] Do weekly mathematics 43 #mathematics
 * [x] Do weekly mathematics 44 #mathematics
 * [ ] Do weekly mathematics 45 #mathematics
+* [ ] Make a list of new assets for intro3d
+* [ ] Do maths exam 20H
+* [ ] Do maths exam 21H
+* [ ] Do maths exam 22H
+* [ ] Do maths exam kontV21
+* [ ] Do maths exam kontV22
 * [ ] Read Ekte programmering
 * [x] Look into making assets for folder #intro-3d
 * [ ] Texture shroom #intro-3d

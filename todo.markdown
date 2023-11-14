@@ -11,7 +11,6 @@ colorlinks: true
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [ ] Go to art addicts
-* [ ] Do weekly mathematics 46 #mathematics
 * [x] Buy detergent for clothes
 * [x] Buy a blue and red pen
 * [x] Take washing out of washing machine
@@ -19,6 +18,7 @@ colorlinks: true
 * [x] Do weekly mathematics 43 #mathematics
 * [x] Do weekly mathematics 44 #mathematics
 * [ ] Do weekly mathematics 45 #mathematics
+* [x] Do weekly mathematics 46 #mathematics
 * [ ] Make a list of new assets for intro3d
 * [ ] Do maths exam 20H
 * [ ] Do maths exam 21H

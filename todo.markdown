@@ -10,7 +10,7 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Go to art addicts
+* [x] Go to art addicts
 * [x] Buy detergent for clothes
 * [x] Buy a blue and red pen
 * [x] Take washing out of washing machine

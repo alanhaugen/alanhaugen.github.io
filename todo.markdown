@@ -5,6 +5,12 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Make low-poly tree [https://www.youtube.com/watch?v=y7PdiGXbrD0](https://www.youtube.com/watch?v=y7PdiGXbrD0)
+* [ ] Make low-poly flower [https://www.youtube.com/watch?v=cxd-m7Tv3BM](https://www.youtube.com/watch?v=cxd-m7Tv3BM)
+* [ ] Make a bush [https://www.youtube.com/watch?v=huvZkHTSHD8](https://www.youtube.com/watch?v=huvZkHTSHD8)
+* [ ] Make a platform
+* [ ] Make a rock [https://www.youtube.com/watch?v=pqlR30p9BmA](https://www.youtube.com/watch?v=pqlR30p9BmA)
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
@@ -19,7 +25,7 @@ colorlinks: true
 * [x] Do weekly mathematics 44 #mathematics
 * [ ] Do weekly mathematics 45 #mathematics
 * [x] Do weekly mathematics 46 #mathematics
-* [ ] Make a list of new assets for intro3d
+* [x] Make a list of new assets for intro3d
 * [ ] Do maths exam 20H
 * [ ] Do maths exam 21H
 * [ ] Do maths exam 22H

@@ -98,7 +98,7 @@ colorlinks: true
 * [x] Ulrik lesson 1
 * [x] Ulrik lesson 2
 * [x] Ulrik lesson 3
-* [ ] Ulrik lesson 4
+* [x] Ulrik lesson 4
 * [ ] Ulrik lesson 5
 * [ ] Write paper for mdpi
 * [ ] Do global game jam in January with Rudi

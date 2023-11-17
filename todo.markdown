@@ -5,48 +5,47 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Make low-poly tree [https://www.youtube.com/watch?v=y7PdiGXbrD0](https://www.youtube.com/watch?v=y7PdiGXbrD0)
-* [ ] Make low-poly flower [https://www.youtube.com/watch?v=cxd-m7Tv3BM](https://www.youtube.com/watch?v=cxd-m7Tv3BM)
-* [ ] Make a bush [https://www.youtube.com/watch?v=huvZkHTSHD8](https://www.youtube.com/watch?v=huvZkHTSHD8)
-* [ ] Make a platform
-* [ ] Make sub platforms [https://www.youtube.com/watch?v=Qa107gT_nXc](https://www.youtube.com/watch?v=Qa107gT_nXc)
-* [ ] Make a rock [https://www.youtube.com/watch?v=pqlR30p9BmA](https://www.youtube.com/watch?v=pqlR30p9BmA)
+* [ ] Put hot water in bucket
+* [ ] Put washing up liquid in hot water bucket
+* [ ] Clean bathroom floor
+* [ ] Clean bathroom walls
+* [ ] Clean bathroom mirror
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [x] Go to art addicts
-* [x] Buy detergent for clothes
-* [x] Buy a blue and red pen
-* [x] Take washing out of washing machine
+* [x] Make low-poly tree [https://www.youtube.com/watch?v=y7PdiGXbrD0](https://www.youtube.com/watch?v=y7PdiGXbrD0)
+* [x] Make low-poly flower [https://www.youtube.com/watch?v=cxd-m7Tv3BM](https://www.youtube.com/watch?v=cxd-m7Tv3BM)
+* [x] Make a bush [https://www.youtube.com/watch?v=huvZkHTSHD8](https://www.youtube.com/watch?v=huvZkHTSHD8)
+* [ ] Make a platform
+* [ ] Make sub platforms [https://www.youtube.com/watch?v=Qa107gT_nXc](https://www.youtube.com/watch?v=Qa107gT_nXc)
+* [ ] Make a rock [https://www.youtube.com/watch?v=pqlR30p9BmA](https://www.youtube.com/watch?v=pqlR30p9BmA)
+* [ ] Texture shroom #intro-3d
+* [ ] Animate shroom #intro-3d
+* [ ] Texture fish #intro-3d
+* [ ] Animate fish #intro-3d
+* [ ] Make carrot man as practice #intro-3d
+* [ ] Make an intro for 3d folder #intro-3d
+* [ ] Make sound effects for intro #intro-3d
 * [x] Do weekly mathematics 42 #mathematics
 * [x] Do weekly mathematics 43 #mathematics
 * [x] Do weekly mathematics 44 #mathematics
 * [ ] Do weekly mathematics 45 #mathematics
 * [x] Do weekly mathematics 46 #mathematics
-* [x] Make a list of new assets for intro3d
+* [ ] Read Ekte programmering
 * [ ] Do maths exam 20H
 * [ ] Do maths exam 21H
 * [ ] Do maths exam 22H
 * [ ] Do maths exam kontV21
 * [ ] Do maths exam kontV22
-* [ ] Read Ekte programmering
 * [x] Look into making assets for folder #intro-3d
-* [ ] Texture shroom #intro-3d
-* [ ] Animate shroom #intro-3d
-* [ ] Texture fish #intro-3d
-* [ ] Animate fish #intro-3d
-* [ ] Make an intro for 3d folder #intro-3d
-* [ ] Make sound effects for intro #intro-3d
 * [ ] Consider Abbas mathematics notes #mathematics
 * [ ] Do Mock exam 1 #programming
 * [ ] Do Mock exam 2 #programming
 * [ ] Do closed book exam 2022 #programming
-* [ ] Buy superglue
 * [ ] Read a book 20 minutes #recreation
-* [ ] Make carrot man as practice #intro-3d
 * [ ] Hand in first drawabox assignment
 * [ ] Consider Linear Algebra Done Right [https://linear.axler.net](https://linear.axler.net)
 * [ ] Consider 50,000 feet (life), 40,000 feet (three/five year plan), 30,000 feet (one/two year plan), 20,2000 feet (My hats), 10,000 feet (Current projects) and Runway (actions)

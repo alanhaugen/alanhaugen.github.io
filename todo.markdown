@@ -21,7 +21,7 @@ colorlinks: true
 * [x] Make a bush [https://www.youtube.com/watch?v=huvZkHTSHD8](https://www.youtube.com/watch?v=huvZkHTSHD8)
 * [ ] Make a platform
 * [ ] Make sub platforms [https://www.youtube.com/watch?v=Qa107gT_nXc](https://www.youtube.com/watch?v=Qa107gT_nXc)
-* [ ] Make a rock [https://www.youtube.com/watch?v=pqlR30p9BmA](https://www.youtube.com/watch?v=pqlR30p9BmA)
+* [x] Make a rock [https://www.youtube.com/watch?v=pqlR30p9BmA](https://www.youtube.com/watch?v=pqlR30p9BmA)
 * [x] Texture shroom #intro-3d
 * [ ] Animate shroom #intro-3d
 * [x] Texture fish #intro-3d

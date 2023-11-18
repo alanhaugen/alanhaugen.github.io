@@ -5,26 +5,26 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Put hot water in bucket
-* [ ] Put washing up liquid in hot water bucket
-* [ ] Clean bathroom floor
-* [ ] Clean bathroom walls
-* [ ] Clean bathroom mirror
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Put hot water in bucket
+* [ ] Put washing up liquid in hot water bucket
+* [ ] Clean bathroom floor
+* [ ] Clean bathroom walls
+* [ ] Clean bathroom mirror
 * [x] Make low-poly tree [https://www.youtube.com/watch?v=y7PdiGXbrD0](https://www.youtube.com/watch?v=y7PdiGXbrD0)
 * [x] Make low-poly flower [https://www.youtube.com/watch?v=cxd-m7Tv3BM](https://www.youtube.com/watch?v=cxd-m7Tv3BM)
 * [x] Make a bush [https://www.youtube.com/watch?v=huvZkHTSHD8](https://www.youtube.com/watch?v=huvZkHTSHD8)
 * [ ] Make a platform
 * [ ] Make sub platforms [https://www.youtube.com/watch?v=Qa107gT_nXc](https://www.youtube.com/watch?v=Qa107gT_nXc)
 * [ ] Make a rock [https://www.youtube.com/watch?v=pqlR30p9BmA](https://www.youtube.com/watch?v=pqlR30p9BmA)
-* [ ] Texture shroom #intro-3d
+* [x] Texture shroom #intro-3d
 * [ ] Animate shroom #intro-3d
-* [ ] Texture fish #intro-3d
+* [x] Texture fish #intro-3d
 * [ ] Animate fish #intro-3d
 * [ ] Make carrot man as practice #intro-3d
 * [ ] Make an intro for 3d folder #intro-3d

@@ -19,8 +19,8 @@ colorlinks: true
 * [x] Make low-poly tree [https://www.youtube.com/watch?v=y7PdiGXbrD0](https://www.youtube.com/watch?v=y7PdiGXbrD0)
 * [x] Make low-poly flower [https://www.youtube.com/watch?v=cxd-m7Tv3BM](https://www.youtube.com/watch?v=cxd-m7Tv3BM)
 * [x] Make a bush [https://www.youtube.com/watch?v=huvZkHTSHD8](https://www.youtube.com/watch?v=huvZkHTSHD8)
-* [ ] Make a platform
-* [ ] Make sub platforms [https://www.youtube.com/watch?v=Qa107gT_nXc](https://www.youtube.com/watch?v=Qa107gT_nXc)
+* [x] Make a platform
+* [x] Make sub platforms [https://www.youtube.com/watch?v=Qa107gT_nXc](https://www.youtube.com/watch?v=Qa107gT_nXc)
 * [x] Make a rock [https://www.youtube.com/watch?v=pqlR30p9BmA](https://www.youtube.com/watch?v=pqlR30p9BmA)
 * [x] Texture shroom #intro-3d
 * [x] Animate shroom #intro-3d

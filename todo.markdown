@@ -29,7 +29,7 @@ colorlinks: true
 * [x] Animate shroom #intro-3d
 * [x] Texture fish #intro-3d
 * [ ] Animate fish #intro-3d (drop?)
-* [ ] Make carrot man as practice #intro-3d
+* [x] Make carrot man as practice #intro-3d
 * [x] Make an intro for 3d folder #intro-3d
 * [ ] Make sound effects for intro #intro-3d
 * [x] Do weekly mathematics 42 #mathematics

@@ -5,6 +5,9 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Texture carrot man
+* [ ] Animate carrot man
+* [ ] Make scene in unreal
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

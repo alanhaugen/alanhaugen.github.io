@@ -5,20 +5,20 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Texture carrot man
-* [ ] Animate carrot man
-* [ ] Make scene in unreal
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Put hot water in bucket
-* [ ] Put washing up liquid in hot water bucket
-* [ ] Clean bathroom floor
-* [ ] Clean bathroom walls
-* [ ] Clean bathroom mirror
+* [ ] Texture carrot man
+* [ ] Animate carrot man
+* [ ] Make scene in unreal
+* [x] Put hot water in bucket
+* [x] Put washing up liquid in hot water bucket
+* [x] Clean bathroom floor
+* [x] Clean bathroom walls
+* [x] Clean bathroom mirror
 * [x] Make low-poly tree [https://www.youtube.com/watch?v=y7PdiGXbrD0](https://www.youtube.com/watch?v=y7PdiGXbrD0)
 * [x] Make low-poly flower [https://www.youtube.com/watch?v=cxd-m7Tv3BM](https://www.youtube.com/watch?v=cxd-m7Tv3BM)
 * [x] Make a bush [https://www.youtube.com/watch?v=huvZkHTSHD8](https://www.youtube.com/watch?v=huvZkHTSHD8)

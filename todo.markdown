@@ -14,6 +14,10 @@ colorlinks: true
 * [ ] Spawn powerups in Unreal
 * [ ] Attack enemy in Unreal
 * [ ] Take damage in Unreal
+* [ ] Get scenes running in sequence in unreal
+* [ ] Improve models and make finer castles and houses
+* [ ] Import platforms, can be used as stones with grass on top
+* [ ] Reimport tree assets converted to power by 2 textures
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

@@ -5,6 +5,15 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Buy Ben Eater CPU kit
+* [ ] Buy Ben Eater GPU kit
+* [ ] Move left and right in Unreal
+* [ ] Jump in Unreal
+* [ ] Attack in Unreal
+* [ ] Pickup flowers in Unreal
+* [ ] Spawn powerups in Unreal
+* [ ] Attack enemy in Unreal
+* [ ] Take damage in Unreal
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -35,7 +44,7 @@ colorlinks: true
 * [x] Do weekly mathematics 42 #mathematics
 * [x] Do weekly mathematics 43 #mathematics
 * [x] Do weekly mathematics 44 #mathematics
-* [ ] Do weekly mathematics 45 #mathematics
+* [x] Do weekly mathematics 45 #mathematics
 * [x] Do weekly mathematics 46 #mathematics
 * [ ] Read Ekte programmering
 * [ ] Do maths exam 20H
@@ -53,7 +62,7 @@ colorlinks: true
 * [ ] Consider Linear Algebra Done Right [https://linear.axler.net](https://linear.axler.net)
 * [ ] Consider 50,000 feet (life), 40,000 feet (three/five year plan), 30,000 feet (one/two year plan), 20,2000 feet (My hats), 10,000 feet (Current projects) and Runway (actions)
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
-* [ ] Play Alan Wake II
+* [x] Play Alan Wake II
 * [ ] Learn more about Fritz Haber
 * [ ] Read flex bison book
 * [ ] Consider Algortihms link [https://matklad.github.io/2023/08/13/role-of-algorithms.html](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
@@ -107,7 +116,7 @@ colorlinks: true
 * [x] Ulrik lesson 2
 * [x] Ulrik lesson 3
 * [x] Ulrik lesson 4
-* [ ] Ulrik lesson 5
+* [x] Ulrik lesson 5
 * [ ] Write paper for mdpi
 * [ ] Do global game jam in January with Rudi
 

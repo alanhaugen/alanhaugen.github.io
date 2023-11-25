@@ -5,6 +5,11 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+###### #calls #atComputer #errands #office #atHome #agendas #read
+
+# Action
+###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
+
 * [ ] Buy Ben Eater CPU kit
 * [ ] Buy Ben Eater GPU kit
 * [ ] Move left and right in Unreal
@@ -18,12 +23,7 @@ colorlinks: true
 * [ ] Improve models and make finer castles and houses
 * [ ] Import platforms, can be used as stones with grass on top
 * [ ] Reimport tree assets converted to power by 2 textures
-
-###### #calls #atComputer #errands #office #atHome #agendas #read
-
-# Action
-###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
-
+* [ ] Implement signs in unreal
 * [ ] Texture carrot man
 * [ ] Animate carrot man
 * [ ] Make scene in unreal

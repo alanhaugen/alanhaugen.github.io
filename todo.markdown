@@ -24,7 +24,7 @@ colorlinks: true
 * [ ] Import platforms, can be used as stones with grass on top
 * [x] Reimport tree assets converted to power by 2 textures
 * [ ] Implement signs in unreal
-* [ ] Texture carrot man
+* [x] Texture carrot man
 * [ ] Animate carrot man
 * [ ] Make scene in unreal
 * [x] Put hot water in bucket

@@ -17,9 +17,9 @@ colorlinks: true
 * [ ] Buy Ben Eater CPU kit
 * [ ] Buy Ben Eater GPU kit
 * [x] Move left and right in Unreal
-* [ ] Jump in Unreal
-* [ ] Attack in Unreal
-* [ ] Pickup flowers in Unreal
+* [x] Jump in Unreal
+* [x] Attack in Unreal
+* [x] Pickup flowers in Unreal
 * [ ] Spawn powerups in Unreal
 * [ ] Attack enemy in Unreal
 * [ ] Take damage in Unreal

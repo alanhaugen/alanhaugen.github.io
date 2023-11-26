@@ -5,6 +5,10 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Buy labeler for post box
+* [ ] Make a machine exoskeleton for fish model
+* [ ] Animate fish
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action

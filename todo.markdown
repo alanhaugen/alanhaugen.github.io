@@ -16,19 +16,19 @@ colorlinks: true
 
 * [ ] Buy Ben Eater CPU kit
 * [ ] Buy Ben Eater GPU kit
-* [ ] Move left and right in Unreal
+* [x] Move left and right in Unreal
 * [ ] Jump in Unreal
 * [ ] Attack in Unreal
 * [ ] Pickup flowers in Unreal
 * [ ] Spawn powerups in Unreal
 * [ ] Attack enemy in Unreal
 * [ ] Take damage in Unreal
-* [ ] Get scenes running in sequence in unreal
+* [x] Get scenes running in sequence in unreal
 * [ ] Improve models and make finer castles and houses
 * [ ] Import platforms, can be used as stones with grass on top
-* [ ] Reimport tree assets converted to power by 2 textures
+* [x] Reimport tree assets converted to power by 2 textures
 * [ ] Implement signs in unreal
-* [ ] Texture carrot man
+* [x] Texture carrot man
 * [ ] Animate carrot man
 * [ ] Make scene in unreal
 * [x] Put hot water in bucket

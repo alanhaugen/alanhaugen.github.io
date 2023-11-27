@@ -13,6 +13,7 @@ colorlinks: true
 * [ ] Pickup club and discard club
 * [ ] Attack with sword (in mouth?)
 * [ ] Attack with club (in mouth?)
+* [ ] Change all content to have names following unreal naming scheme [https://docs.unrealengine.com/5.3/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/](https://docs.unrealengine.com/5.3/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

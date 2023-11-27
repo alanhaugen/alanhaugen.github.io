@@ -8,6 +8,11 @@ colorlinks: true
 * [ ] Buy labeler for post box
 * [ ] Make a machine exoskeleton for fish model
 * [ ] Animate fish
+* [ ] Game over state in unreal
+* [ ] Pickup sword and discard sword
+* [ ] Pickup club and discard club
+* [ ] Attack with sword (in mouth?)
+* [ ] Attack with club (in mouth?)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -20,7 +25,7 @@ colorlinks: true
 * [x] Jump in Unreal
 * [x] Attack in Unreal
 * [x] Pickup flowers in Unreal
-* [ ] Spawn powerups in Unreal
+* [x] Spawn powerups in Unreal
 * [ ] Attack enemy in Unreal
 * [ ] Take damage in Unreal
 * [x] Get scenes running in sequence in unreal

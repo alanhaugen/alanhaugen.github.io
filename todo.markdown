@@ -9,6 +9,7 @@ colorlinks: true
 * [ ] Set UVs and textures for sword
 * [ ] Upload models to sketchfab
 * [ ] Display damage (flash of pain)
+* [] Consider [https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/](https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

@@ -27,13 +27,13 @@ colorlinks: true
 * [x] Attack in Unreal
 * [x] Pickup flowers in Unreal
 * [x] Spawn powerups in Unreal
-* [ ] Attack enemy in Unreal
+* [x] Attack enemy in Unreal
 * [ ] Take damage in Unreal
 * [x] Get scenes running in sequence in unreal
 * [ ] Improve models and make finer castles and houses
 * [ ] Import platforms, can be used as stones with grass on top
 * [x] Reimport tree assets converted to power by 2 textures
-* [ ] Implement signs in unreal
+* [x] Implement signs in unreal
 * [x] Texture carrot man
 * [ ] Animate carrot man
 * [ ] Make scene in unreal

@@ -5,6 +5,16 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Double check naming convention
+* [ ] Set UVs and textures for sword
+* [ ] Upload models to sketchfab
+* [ ] Display damage (flash of pain)
+
+###### #calls #atComputer #errands #office #atHome #agendas #read
+
+# Action
+###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
+
 * [ ] Buy labeler for post box
 * [ ] Make a machine exoskeleton for fish model
 * [ ] Animate fish
@@ -13,13 +23,7 @@ colorlinks: true
 * [ ] Pickup club and discard club
 * [ ] Attack with sword (in mouth?)
 * [ ] Attack with club (in mouth?)
-* [ ] Change all content to have names following unreal naming scheme [https://docs.unrealengine.com/5.3/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/](https://docs.unrealengine.com/5.3/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/)
-
-###### #calls #atComputer #errands #office #atHome #agendas #read
-
-# Action
-###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
-
+* [x] Change all content to have names following unreal naming scheme [https://docs.unrealengine.com/5.3/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/](https://docs.unrealengine.com/5.3/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/)
 * [ ] Buy Ben Eater CPU kit
 * [ ] Buy Ben Eater GPU kit
 * [x] Move left and right in Unreal
@@ -28,7 +32,7 @@ colorlinks: true
 * [x] Pickup flowers in Unreal
 * [x] Spawn powerups in Unreal
 * [x] Attack enemy in Unreal
-* [ ] Take damage in Unreal
+* [x] Take damage in Unreal
 * [x] Get scenes running in sequence in unreal
 * [ ] Improve models and make finer castles and houses
 * [ ] Import platforms, can be used as stones with grass on top
@@ -36,7 +40,7 @@ colorlinks: true
 * [x] Implement signs in unreal
 * [x] Texture carrot man
 * [ ] Animate carrot man
-* [ ] Make scene in unreal
+* [x] Make scene in unreal
 * [x] Put hot water in bucket
 * [x] Put washing up liquid in hot water bucket
 * [x] Clean bathroom floor

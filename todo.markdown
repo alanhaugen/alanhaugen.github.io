@@ -5,10 +5,10 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Write reflection note for part 1
-* [ ] Write reflection note for part 2
-* [ ] Prepare assets for Sketchfab
-* [ ] Upload assets to Sketchfab
+* [x] Write reflection note for part 1
+* [x] Write reflection note for part 2
+* [x] Prepare assets for Sketchfab
+* [x] Upload assets to Sketchfab
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -16,8 +16,7 @@ colorlinks: true
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [ ] Double check naming convention
-* [ ] Set UVs and textures for sword
-* [ ] Upload models to sketchfab
+* [x] Set UVs and textures for sword
 * [ ] Display damage (flash of pain)
 * [ ] Consider [https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/](https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/)
 * [ ] Implement attack delay

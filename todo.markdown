@@ -10,6 +10,7 @@ colorlinks: true
 * [ ] Upload models to sketchfab
 * [ ] Display damage (flash of pain)
 * [] Consider [https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/](https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/)
+* [] Implement attack delay
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

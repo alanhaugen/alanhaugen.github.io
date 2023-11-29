@@ -5,18 +5,22 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Double check naming convention
-* [ ] Set UVs and textures for sword
-* [ ] Upload models to sketchfab
-* [ ] Display damage (flash of pain)
-* [] Consider [https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/](https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/)
-* [] Implement attack delay
+* [ ] Write reflection note for part 1
+* [ ] Write reflection note for part 2
+* [ ] Prepare assets for Sketchfab
+* [ ] Upload assets to Sketchfab
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Double check naming convention
+* [ ] Set UVs and textures for sword
+* [ ] Upload models to sketchfab
+* [ ] Display damage (flash of pain)
+* [ ] Consider [https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/](https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/)
+* [ ] Implement attack delay
 * [ ] Buy labeler for post box
 * [ ] Make a machine exoskeleton for fish model
 * [ ] Animate fish

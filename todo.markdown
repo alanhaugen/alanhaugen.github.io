@@ -9,6 +9,8 @@ colorlinks: true
 * [x] Write reflection note for part 2
 * [x] Prepare assets for Sketchfab
 * [x] Upload assets to Sketchfab
+* [ ] Push player in correct direction
+* [ ] Jump on head of enemy
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

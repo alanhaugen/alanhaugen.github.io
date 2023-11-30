@@ -5,18 +5,19 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [x] Write reflection note for part 1
-* [x] Write reflection note for part 2
-* [x] Prepare assets for Sketchfab
-* [x] Upload assets to Sketchfab
-* [ ] Push player in correct direction
-* [ ] Jump on head of enemy
+* [ ] Add HUD which shows amount of flowers
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Write reflection note for part 1
+* [x] Write reflection note for part 2
+* [x] Prepare assets for Sketchfab
+* [x] Upload assets to Sketchfab
+* [ ] Push player in correct direction
+* [ ] Jump on head of enemy
 * [ ] Double check naming convention
 * [x] Set UVs and textures for sword
 * [ ] Display damage (flash of pain)

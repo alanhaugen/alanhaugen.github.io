@@ -9,8 +9,8 @@ colorlinks: true
 * [x] Write reflection note for part 2
 * [x] Prepare assets for Sketchfab
 * [x] Upload assets to Sketchfab
-* [ ] Push player in correct direction
-* [ ] Jump on head of enemy
+* [x] Push player in correct direction
+* [x] Jump on head of enemy
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -21,7 +21,7 @@ colorlinks: true
 * [x] Set UVs and textures for sword
 * [ ] Display damage (flash of pain)
 * [ ] Consider [https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/](https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/)
-* [ ] Implement attack delay
+* [x] Implement attack delay
 * [ ] Buy labeler for post box
 * [ ] Make a machine exoskeleton for fish model
 * [ ] Animate fish

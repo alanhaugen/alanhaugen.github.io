@@ -8,6 +8,7 @@ colorlinks: true
 * [ ] Go to programming workshop Saturday
 * [ ] Go to programming workshop Monday
 * [ ] Ask Ulrik when he wants to have more lessons
+* [ ] Figure out how 10. graders do likningssett
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

@@ -19,12 +19,16 @@
 
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/skeleton.css">
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/skeleton.css">
 
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="icon" type="image/png" href="https://avatars.githubusercontent.com/u/1408981?v=4">
+
+	<!-- jsCalendar v1.4.4 Javascript and CSS -->
+	<script src="https://cdn.jsdelivr.net/npm/simple-jscalendar@1.4.4/source/jsCalendar.min.js" integrity="sha384-0LaRLH/U5g8eCAwewLGQRyC/O+g0kXh8P+5pWpzijxwYczD3nKETIqUyhuA8B/UB" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simple-jscalendar@1.4.4/source/jsCalendar.min.css" integrity="sha384-44GnAqZy9yUojzFPjdcUpP822DGm1ebORKY8pe6TkHuqJ038FANyfBYBpRvw8O9w" crossorigin="anonymous">
 
   </head>
   <body>
@@ -35,48 +39,49 @@
       <div class="row">
         <div class="two-thirds column" style="margin-top: 25%">
 
-          <h4>Alan Whitburn Haugen's <span class="heading-font-size">personal website</span></h4>
+          <h4>Programming I</h4>
 
-          <p>I enjoy Computer Graphics, Games, Music, Drawing, Stories, Computer Vision and Mathematics.</p>
-          <p>I am now a student again. I recently did a MSc on <a>cultured meat</a> and a BA involving <a>computer vision</a>. I am now trying to do another bachelor, this time on games.</p>
+          <p>Workshop Saturday 2. December 2023</p>
+          <p>Workshop Monday 4. December 2023</p>
+          <p>Exam Wednesday 6. December 2023</p>
+          <p></p>
 
-          <h5>Gallery</h5>
-
-          <p><a href=https://github.com/alanhaugen/chess><img src="https://github.com/alanhaugen/chess/raw/master/output.gif"></a></p>
-          <p><a href=https://www.gamebrew.org/wiki/AE_Mini_Game_Collection><img src="images/Aeminigame6.png"></a></p>
         </div>
 
         <!-- Side column
         –––––––––––––––––––––––––––––––––––––––––––––––––– -->
         <div class="one-third column portrait" style="margin-top: 25%">
-          <a href=cv.pdf><img src=images/cv.png style="width:50px"></a>
-          <a href=#publications><img src=images/publications.png style="width:50px"></a>
-          <a href=https://github.com/alanhaugen><img src=images/github-mark.png style="width:50px"></a>
-          <a href="mailto:alanhaugen@gmail.com"><img src=images/contact.png style="width:50px"></a>
         </div>
       </div>
 
       <div class="row">
         <div class="two-thirds column">
 
-          <h5 id=publications>Publications</h5>
+<div id="my-calendar"></div>
 
-          <a href=https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3037560>Expansion of bovine skeletal muscle cells in a lab-bench bioreactor using edible microcarriers made of eggshell membrane</a> Master thesis - NTNU 2022
-          </br>
-          <a href=https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2664006>Bruk av maskinsyn for automatisk telling og artsbestemmelse av villfisk som beiter under oppdrettsmerder</a> Bachelor thesis - NTNU 2020
+<script type="text/javascript">
+    // Get the element
+    var element = document.getElementById("my-calendar");
+
+    // Create the calendar
+    var cal = jsCalendar.new({
+        target : element,
+        navigator : false,
+        firstDayOfTheWeek : "2"
+    });
+    cal.set('now');
+
+    // Add events
+    cal.select([
+            "02/12/2023",
+            "04/12/2023",
+            "06/12/2023"
+    ]);
+</script>
 
         </div>
 
         <div class="one-third column portrait">
-          <h5>Find me.</h5>
-            <a href=https://kaggle.com/alanhaugen>kaggle.com/alanhaugen</a> 
-            </br>
-            <a href=https://github.com/alanhaugen>github.com/alanhaugen</a> 
-            </br>
-            <a href=https://linkedin.com/in/alanhaugen>linkedin.com/in/alanhaugen</a> 
-            </br>
-            <a href=https://twitter.com/alanwhaugen>twitter.com/alanwhaugen</a> 
-          </div>
         </div>
       </div>
     </div>

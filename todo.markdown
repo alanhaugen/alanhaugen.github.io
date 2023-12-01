@@ -5,74 +5,17 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [x] Write reflection note for part 1
-* [x] Write reflection note for part 2
-* [x] Prepare assets for Sketchfab
-* [x] Upload assets to Sketchfab
-* [x] Push player in correct direction
-* [x] Jump on head of enemy
-* [ ] Add HUD which shows amount of flowers
+* [ ] Go to programming workshop Saturday
+* [ ] Go to programming workshop Monday
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [x] Write reflection note for part 1
-* [x] Write reflection note for part 2
-* [x] Prepare assets for Sketchfab
-* [x] Upload assets to Sketchfab
-* [ ] Push player in correct direction
-* [ ] Jump on head of enemy
-* [ ] Double check naming convention
-* [x] Set UVs and textures for sword
-* [ ] Display damage (flash of pain)
-* [ ] Consider [https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/](https://docs.unrealengine.com/5.3/en-US/blueprint-best-practices-in-unreal-engine/)
-* [x] Implement attack delay
 * [ ] Buy labeler for post box
-* [ ] Make a machine exoskeleton for fish model
-* [ ] Animate fish
-* [ ] Game over state in unreal
-* [ ] Pickup sword and discard sword
-* [ ] Pickup club and discard club
-* [ ] Attack with sword (in mouth?)
-* [ ] Attack with club (in mouth?)
-* [x] Change all content to have names following unreal naming scheme [https://docs.unrealengine.com/5.3/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/](https://docs.unrealengine.com/5.3/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/)
 * [ ] Buy Ben Eater CPU kit
 * [ ] Buy Ben Eater GPU kit
-* [x] Move left and right in Unreal
-* [x] Jump in Unreal
-* [x] Attack in Unreal
-* [x] Pickup flowers in Unreal
-* [x] Spawn powerups in Unreal
-* [x] Attack enemy in Unreal
-* [x] Take damage in Unreal
-* [x] Get scenes running in sequence in unreal
-* [ ] Improve models and make finer castles and houses
-* [ ] Import platforms, can be used as stones with grass on top
-* [x] Reimport tree assets converted to power by 2 textures
-* [x] Implement signs in unreal
-* [x] Texture carrot man
-* [ ] Animate carrot man
-* [x] Make scene in unreal
-* [x] Put hot water in bucket
-* [x] Put washing up liquid in hot water bucket
-* [x] Clean bathroom floor
-* [x] Clean bathroom walls
-* [x] Clean bathroom mirror
-* [x] Make low-poly tree [https://www.youtube.com/watch?v=y7PdiGXbrD0](https://www.youtube.com/watch?v=y7PdiGXbrD0)
-* [x] Make low-poly flower [https://www.youtube.com/watch?v=cxd-m7Tv3BM](https://www.youtube.com/watch?v=cxd-m7Tv3BM)
-* [x] Make a bush [https://www.youtube.com/watch?v=huvZkHTSHD8](https://www.youtube.com/watch?v=huvZkHTSHD8)
-* [x] Make a platform
-* [x] Make sub platforms [https://www.youtube.com/watch?v=Qa107gT_nXc](https://www.youtube.com/watch?v=Qa107gT_nXc)
-* [x] Make a rock [https://www.youtube.com/watch?v=pqlR30p9BmA](https://www.youtube.com/watch?v=pqlR30p9BmA)
-* [x] Texture shroom #intro-3d
-* [x] Animate shroom #intro-3d
-* [x] Texture fish #intro-3d
-* [ ] Animate fish #intro-3d (drop?)
-* [x] Make carrot man as practice #intro-3d
-* [x] Make an intro for 3d folder #intro-3d
-* [ ] Make sound effects for intro #intro-3d
 * [x] Do weekly mathematics 42 #mathematics
 * [x] Do weekly mathematics 43 #mathematics
 * [x] Do weekly mathematics 44 #mathematics

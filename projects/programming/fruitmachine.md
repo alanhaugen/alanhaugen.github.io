@@ -1,4 +1,4 @@
-At the beginning of Extended ASCII (an entire byte (8 bits) instead of 7 in ASCII) you will find some interesting characters on the Windows platform.
+At the beginning of Extended ASCII (an entire byte (8 bits) instead of 7 bits in ASCII) you will find some interesting characters on the Windows platform.
 
 
 Use the clubs (♣), diamonds (♦), hearts (♥), and spades (♠) characters to make a fruit machine.

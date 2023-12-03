@@ -5,32 +5,32 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Go to programming workshop Saturday
-* [ ] Go to programming workshop Monday
-* [ ] Ask Ulrik when he wants to have more lessons
-* [ ] Figure out how 10. graders do likningssett
+* [ ] Go to Krabbe at 4
+* [ ] Add another exam to list of maths exams to do
+* [ ] Do jeh exercises in programming
+* [ ] Do MockExam exercises in programming
+* [ ] Do Closed book exercises in programming
+* [ ] Ask Olea if she wants more lessons
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Buy labeler for post box
-* [ ] Buy Ben Eater CPU kit
-* [ ] Buy Ben Eater GPU kit
-* [x] Do weekly mathematics 42 #mathematics
-* [x] Do weekly mathematics 43 #mathematics
-* [x] Do weekly mathematics 44 #mathematics
-* [x] Do weekly mathematics 45 #mathematics
-* [x] Do weekly mathematics 46 #mathematics
-* [ ] Read Ekte programmering
+* [x] Go to programming workshop Saturday
 * [ ] Do maths exam 20H
 * [ ] Do maths exam 21H
 * [ ] Do maths exam 22H
 * [ ] Do maths exam kontV21
 * [ ] Do maths exam kontV22
-* [x] Look into making assets for folder #intro-3d
 * [ ] Consider Abbas mathematics notes #mathematics
+* [ ] Read Ekte programmering
+* [ ] Go to programming workshop Monday
+* [ ] Ask Ulrik when he wants to have more lessons
+* [ ] Figure out how 10. graders do likningssett
+* [ ] Buy labeler for post box
+* [ ] Buy Ben Eater CPU kit
+* [ ] Buy Ben Eater GPU kit
 * [ ] Do Mock exam 1 #programming
 * [ ] Do Mock exam 2 #programming
 * [ ] Do closed book exam 2022 #programming

@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	// This will output ♣ ♦ ♥ ♠ if run in a Windows CLI (on windows)
+	// This will output clubs (♣), diamonds (♦), hearts (♥), and spades (♠) if run in a Windows CLI (on Windows)
 	cout << char(3) << endl;
 	cout << char(4) << endl;
 	cout << char(5) << endl;

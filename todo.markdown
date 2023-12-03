@@ -11,6 +11,7 @@ colorlinks: true
 * [ ] Do MockExam exercises in programming
 * [ ] Do Closed book exercises in programming
 * [ ] Ask Olea if she wants more lessons
+* [ ] Read The collapse of insects [https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/INSECT-APOCALYPSE/egpbykdxjvq/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn](https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/INSECT-APOCALYPSE/egpbykdxjvq/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -131,6 +132,8 @@ colorlinks: true
 * Finish your projects [https://github.com/readme/guides/finish-your-projects](https://github.com/readme/guides/finish-your-projects)
 * Learning Modern 3D Graphics Programming [https://paroj.github.io/gltut/](https://paroj.github.io/gltut/)
 * Choosing Ruby On Rails For Your Next Web Development Project [https://www.ideamotive.co/ruby-on-rails/guide](https://www.ideamotive.co/ruby-on-rails/guide)
+* Read [https://stanforddatascience.github.io/best-practices/study-design-phase.html#define-the-research-question](https://stanforddatascience.github.io/best-practices/study-design-phase.html#define-the-research-question)
+* Read [http://jeffe.cs.illinois.edu/teaching/algorithms/?utm_source=hackernewsletter&utm_medium=email&utm_term=books](http://jeffe.cs.illinois.edu/teaching/algorithms/?utm_source=hackernewsletter&utm_medium=email&utm_term=books)
 
 # Dreams
 ###### Goals I might get around to some day

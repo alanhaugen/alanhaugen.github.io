@@ -1,0 +1,18 @@
+<p>Morse code consists of dots and dashes.</p>
+<p><code>abcdefghijklmnopqrstuvxyz1234567890</code></p>
+<p>Translates to</p>
+<p><code>.- -... -.-. -.. . ..-. --. .... .. .--- -.- .-.. -- -. --- .--. --.- .-. ... - ..- ...- -..- -.-- --.. .---- ..--- ...-- ....- ..... -.... --... ---.. ----. -----</code></p>
+<p>Write a program which takes in letters and translates them to morse
+code. Write a program which takes in morse code (as string input) and
+translates morse code to letters.</p>
+<p>Example:</p>
+<p>program1:</p>
+<blockquote>
+<p>Alan Haugen</p>
+</blockquote>
+<p>.- .-.. .- -. …. .- ..- –. . -.</p>
+<p>program2:</p>
+<blockquote>
+<p>…. . .-.. .-.. — - …. . .-. .</p>
+</blockquote>
+<p>Hello there</p>

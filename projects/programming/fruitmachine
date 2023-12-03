@@ -1,0 +1,25 @@
+<p>At the beginning of Extended ASCII (an entire byte (8 bits) instead
+of 7 in ASCII) you will find some interesting characters on the Windows
+platform.</p>
+<p>Use the clubs (♣), diamonds (♦), hearts (♥), and spades (♠)
+characters to make a fruit machine.</p>
+<p>Get the user to pull the one-armed-bandit lever and output three
+random numbers represented in the range 3-6 as extended-ascii. Give the
+player points if the three numbers are equal.</p>
+<p>Example:</p>
+<p>Welcome to Fruit Machine</p>
+<p>Type (1) to insert coins. Type (2) to pull the lever and try your
+luck.</p>
+<p>Coins: 5</p>
+<blockquote>
+<p>2</p>
+</blockquote>
+<p>(♣) (♦) (♥)</p>
+<p>Better luck next time</p>
+<p>Coins: 4</p>
+<p>Score: 0</p>
+<p>Type (1) to insert coins. Type (2) to pull the lever and try your
+luck.</p>
+<blockquote>
+<p>…</p>
+</blockquote>

@@ -5,19 +5,19 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Go to Krabbe at 4
-* [ ] Add another exam to list of maths exams to do
-* [ ] Do jeh exercises in programming
-* [ ] Do MockExam exercises in programming
-* [ ] Do Closed book exercises in programming
-* [ ] Ask Olea if she wants more lessons
-* [ ] Read The collapse of insects [https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/INSECT-APOCALYPSE/egpbykdxjvq/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn](https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/INSECT-APOCALYPSE/egpbykdxjvq/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Go to Krabbe at 4
+* [ ] Add another exam to list of maths exams to do
+* [ ] Do jeh exercises in programming
+* [ ] Do MockExam exercises in programming
+* [ ] Do Closed book exercises in programming
+* [x] Ask Olea if she wants more lessons
+* [x] Read The collapse of insects [https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/INSECT-APOCALYPSE/egpbykdxjvq/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn](https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/INSECT-APOCALYPSE/egpbykdxjvq/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn)
 * [x] Go to programming workshop Saturday
 * [ ] Do maths exam 20H
 * [ ] Do maths exam 21H
@@ -26,8 +26,8 @@ colorlinks: true
 * [ ] Do maths exam kontV22
 * [ ] Consider Abbas mathematics notes #mathematics
 * [ ] Read Ekte programmering
-* [ ] Go to programming workshop Monday
-* [ ] Ask Ulrik when he wants to have more lessons
+* [x] Go to programming workshop Monday
+* [x] Ask Ulrik when he wants to have more lessons
 * [ ] Figure out how 10. graders do likningssett
 * [ ] Buy labeler for post box
 * [ ] Buy Ben Eater CPU kit

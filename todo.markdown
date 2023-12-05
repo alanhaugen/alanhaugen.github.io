@@ -11,14 +11,11 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [x] Go to Krabbe at 4
+* [ ] Hand in first drawabox assignment -> 18. desember 2023
 * [ ] Add another exam to list of maths exams to do
 * [ ] Do jeh exercises in programming
 * [ ] Do MockExam exercises in programming
 * [ ] Do Closed book exercises in programming
-* [x] Ask Olea if she wants more lessons
-* [x] Read The collapse of insects [https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/INSECT-APOCALYPSE/egpbykdxjvq/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn](https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/INSECT-APOCALYPSE/egpbykdxjvq/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn)
-* [x] Go to programming workshop Saturday
 * [ ] Do maths exam 20H
 * [ ] Do maths exam 21H
 * [ ] Do maths exam 22H
@@ -26,9 +23,7 @@ colorlinks: true
 * [ ] Do maths exam kontV22
 * [ ] Consider Abbas mathematics notes #mathematics
 * [ ] Read Ekte programmering
-* [x] Go to programming workshop Monday
-* [x] Ask Ulrik when he wants to have more lessons
-* [ ] Figure out how 10. graders do likningssett
+* [x] Figure out how 10. graders do likningssett
 * [ ] Buy labeler for post box
 * [ ] Buy Ben Eater CPU kit
 * [ ] Buy Ben Eater GPU kit
@@ -36,11 +31,9 @@ colorlinks: true
 * [ ] Do Mock exam 2 #programming
 * [ ] Do closed book exam 2022 #programming
 * [ ] Read a book 20 minutes #recreation
-* [ ] Hand in first drawabox assignment
 * [ ] Consider Linear Algebra Done Right [https://linear.axler.net](https://linear.axler.net)
 * [ ] Consider 50,000 feet (life), 40,000 feet (three/five year plan), 30,000 feet (one/two year plan), 20,2000 feet (My hats), 10,000 feet (Current projects) and Runway (actions)
 * [ ] Write script to do Modern Graphics Programming files (currently on tut05 out of tut18), make it as an append and prepend comment option in solid #programming
-* [x] Play Alan Wake II
 * [ ] Learn more about Fritz Haber
 * [ ] Read flex bison book
 * [ ] Consider Algortihms link [https://matklad.github.io/2023/08/13/role-of-algorithms.html](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
@@ -60,7 +53,6 @@ colorlinks: true
 * [ ] Reconsider UML (made in nomnoml)
 * [ ] Implement numerical methods for Mathematics I for the computer
 * [ ] Reference all books in private library
-* [x] Reference all bookmarks and delete them
 * [ ] List all active courses I want to complete
 * [ ] Make mazes
 * [ ] Recreate fsn
@@ -112,7 +104,7 @@ colorlinks: true
 * [x] Compulsory 3 -> 27-october-2023   #programming-I
 * [x] Compulsory 3 -> 3-november-2023   #intro-3d
 * [x] Oblig 3      -> 17-november-2023  #mathematics-I
-* [ ] Folder due   -> 1-december-2023   #intro-3d [projects/blender/intro3d](projects/blender/intro3d)
+* [x] Folder due   -> 1-december-2023   #intro-3d [projects/blender/intro3d](projects/blender/intro3d)
 * [ ] Written exam -> 6-december-2023   #programming-I
 * [ ] Written exam -> 11-december-2023  #mathematics-I
 

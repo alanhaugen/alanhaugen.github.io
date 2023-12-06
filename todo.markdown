@@ -11,16 +11,16 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Hand in first drawabox assignment -> 18. desember 2023
-* [ ] Add another exam to list of maths exams to do
-* [ ] Do jeh exercises in programming
-* [ ] Do MockExam exercises in programming
-* [ ] Do Closed book exercises in programming
 * [ ] Do maths exam 20H
 * [ ] Do maths exam 21H
 * [ ] Do maths exam 22H
 * [ ] Do maths exam kontV21
 * [ ] Do maths exam kontV22
+* [ ] Hand in first drawabox assignment -> 18. desember 2023
+* [ ] Add another exam to list of maths exams to do
+* [ ] Do jeh exercises in programming
+* [ ] Do MockExam exercises in programming
+* [ ] Do Closed book exercises in programming
 * [ ] Consider Abbas mathematics notes #mathematics
 * [ ] Read Ekte programmering
 * [x] Figure out how 10. graders do likningssett

@@ -11,11 +11,11 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Do maths exam 20H
-* [ ] Do maths exam 21H
-* [ ] Do maths exam 22H
-* [ ] Do maths exam kontV21
-* [ ] Do maths exam kontV22
+* [x] Do maths exam 20H
+* [x] Do maths exam 21H
+* [x] Do maths exam 22H
+* [x] Do maths exam kontV21
+* [x] Do maths exam kontV22
 * [ ] Hand in first drawabox assignment -> 18. desember 2023
 * [ ] Add another exam to list of maths exams to do
 * [ ] Do jeh exercises in programming
@@ -105,8 +105,8 @@ colorlinks: true
 * [x] Compulsory 3 -> 3-november-2023   #intro-3d
 * [x] Oblig 3      -> 17-november-2023  #mathematics-I
 * [x] Folder due   -> 1-december-2023   #intro-3d [projects/blender/intro3d](projects/blender/intro3d)
-* [ ] Written exam -> 6-december-2023   #programming-I
-* [ ] Written exam -> 11-december-2023  #mathematics-I
+* [x] Written exam -> 6-december-2023   #programming-I
+* [x] Written exam -> 11-december-2023  #mathematics-I
 
 ###### Organize each day (triage). Then weekly (big picture)
 

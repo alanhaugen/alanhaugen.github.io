@@ -5,15 +5,14 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Take washing out of washing machine
-* [ ] Hang clothes up to dry
+* [x] Take washing out of washing machine
+* [x] Hang clothes up to dry
 * [ ] Take clothes up to room
-* [ ] Wash more clothes
+* [x] Wash more clothes
 * [ ] Dry second batch of clothes
 * [ ] Take second batch up to room
 * [ ] Get Rudi's washing out of the way
-* [ ] Get a haircut
-* [ ] Buy new bed linen
+* [x] Buy new bed linen
 * [x] Cut fingernails
 * [x] Cut beard
 
@@ -24,8 +23,6 @@ colorlinks: true
 
 * [ ] Hand in first drawabox assignment -> 18. desember 2023
 * [ ] Do jeh exercises in programming
-* [ ] Do MockExam exercises in programming
-* [ ] Do Closed book exercises in programming
 * [ ] Consider Abbas mathematics notes #mathematics
 * [ ] Read Ekte programmering
 * [ ] Buy labeler for post box

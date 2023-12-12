@@ -14,6 +14,8 @@ colorlinks: true
 * [ ] Get Rudi's washing out of the way
 * [ ] Get a haircut
 * [ ] Buy new bed linen
+* [ ] Cut fingernails
+* [ ] Cut beard
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

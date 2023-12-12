@@ -5,22 +5,18 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [x] Take washing out of washing machine
-* [x] Hang clothes up to dry
-* [ ] Take clothes up to room
-* [x] Wash more clothes
-* [ ] Dry second batch of clothes
-* [ ] Take second batch up to room
-* [ ] Get Rudi's washing out of the way
-* [x] Buy new bed linen
-* [x] Cut fingernails
-* [x] Cut beard
-
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Take washing out of washing machine
+* [x] Hang clothes up to dry
+* [ ] Take clothes up to room
+* [x] Wash more clothes
+* [x] Dry second batch of clothes
+* [ ] Take second batch up to room
+* [ ] Get Rudi's washing out of the way
 * [ ] Hand in first drawabox assignment -> 18. desember 2023
 * [ ] Do jeh exercises in programming
 * [ ] Consider Abbas mathematics notes #mathematics

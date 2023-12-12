@@ -5,25 +5,27 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Take washing out of washing machine
+* [ ] Hang clothes up to dry
+* [ ] Take clothes up to room
+* [ ] Wash more clothes
+* [ ] Dry second batch of clothes
+* [ ] Take second batch up to room
+* [ ] Get Rudi's washing out of the way
+* [ ] Get a haircut
+* [ ] Buy new bed linen
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [x] Do maths exam 20H
-* [x] Do maths exam 21H
-* [x] Do maths exam 22H
-* [x] Do maths exam kontV21
-* [x] Do maths exam kontV22
 * [ ] Hand in first drawabox assignment -> 18. desember 2023
-* [ ] Add another exam to list of maths exams to do
 * [ ] Do jeh exercises in programming
 * [ ] Do MockExam exercises in programming
 * [ ] Do Closed book exercises in programming
 * [ ] Consider Abbas mathematics notes #mathematics
 * [ ] Read Ekte programmering
-* [x] Figure out how 10. graders do likningssett
 * [ ] Buy labeler for post box
 * [ ] Buy Ben Eater CPU kit
 * [ ] Buy Ben Eater GPU kit

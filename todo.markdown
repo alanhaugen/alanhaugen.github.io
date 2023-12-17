@@ -16,8 +16,8 @@ colorlinks: true
 * [x] Wash more clothes
 * [x] Dry second batch of clothes
 * [ ] Take second batch up to room
-* [ ] Get Rudi's washing out of the way
-* [ ] Hand in first drawabox assignment -> 18. desember 2023
+* [x] Get Rudi's washing out of the way
+* [x] Hand in first drawabox assignment -> 18. desember 2023
 * [ ] Do jeh exercises in programming
 * [ ] Consider Abbas mathematics notes #mathematics
 * [ ] Read Ekte programmering

@@ -5,6 +5,10 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Code for at least 15 minutes
+* [ ] Read Lær Sjakk and complete first chapter (and exercises)
+* [ ] Hand in second drawabox assignment -> 18. january 2023
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
@@ -16,7 +20,6 @@ colorlinks: true
 * [x] Wash more clothes
 * [x] Dry second batch of clothes
 * [ ] Take second batch up to room
-* [x] Get Rudi's washing out of the way
 * [x] Hand in first drawabox assignment -> 18. desember 2023
 * [ ] Do jeh exercises in programming
 * [ ] Consider Abbas mathematics notes #mathematics
@@ -92,18 +95,7 @@ colorlinks: true
 
 # Due dates
 
-* [x] Compulsory 1 -> 1-september-2023  #programming-I 
-* [x] Oblig 1      -> 18-september-2023 #mathematics-I
-* [x] Compulsory 1 -> 22-september-2023 #intro-3d
-* [x] Compulsory 2 -> 29-september-2023 #programming-I
-* [x] Compulsory 2 -> 20-october-2023   #intro-3d
-* [x] Oblig 2      -> 23-october-2023   #mathematics-I
-* [x] Compulsory 3 -> 27-october-2023   #programming-I
-* [x] Compulsory 3 -> 3-november-2023   #intro-3d
-* [x] Oblig 3      -> 17-november-2023  #mathematics-I
-* [x] Folder due   -> 1-december-2023   #intro-3d [projects/blender/intro3d](projects/blender/intro3d)
-* [x] Written exam -> 6-december-2023   #programming-I
-* [x] Written exam -> 11-december-2023  #mathematics-I
+* [ ] Read Lær Sjakk #chess
 
 ###### Organize each day (triage). Then weekly (big picture)
 

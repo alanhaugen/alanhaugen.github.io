@@ -5,6 +5,7 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Code for at least 15 minutes
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -13,7 +14,7 @@ colorlinks: true
 
 * [x] Do plotted perspective box homework
 * [x] Hand in drawabox lesson 1 completely
-* [ ] Code for at least 15 minutes
+* [x] Code for at least 15 minutes
 * [x] Read Lær Sjakk and complete first chapter (and exercises)
 * [ ] Hand in second drawabox assignment -> 18. january 2023
 * [x] Take washing out of washing machine

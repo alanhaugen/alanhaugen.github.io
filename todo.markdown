@@ -5,6 +5,8 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Do plotted perspective box homework
+* [ ] Hand in drawabox lesson 1 completely
 * [ ] Code for at least 15 minutes
 * [ ] Read Lær Sjakk and complete first chapter (and exercises)
 * [ ] Hand in second drawabox assignment -> 18. january 2023

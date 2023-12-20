@@ -6,16 +6,14 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Code for at least 15 minutes
+* [ ] Draw 2 hours
+* [ ] Read Lær Sjakk and complete third chapter (and exercises)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [x] Do plotted perspective box homework
-* [x] Hand in drawabox lesson 1 completely
-* [x] Code for at least 15 minutes
-* [x] Read Lær Sjakk and complete first chapter (and exercises)
 * [ ] Hand in second drawabox assignment -> 18. january 2023
 * [x] Take washing out of washing machine
 * [x] Hang clothes up to dry

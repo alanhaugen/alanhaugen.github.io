@@ -7,13 +7,14 @@ colorlinks: true
 
 * [ ] Read Lær Sjakk and complete fourth chapter (and exercises) -> 23.december.2023
 * [ ] Read Lær Sjakk and complete fifth chapter (and exercises) -> 23.december.2023
+* [ ] Code for at least 15 minutes
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Code for at least 15 minutes
+* [x] Code for at least 15 minutes
 * [ ] Draw 2 hours
 * [ ] Complete 250 box challenge
 * [ ] Read Lær Sjakk and complete third chapter (and exercises) -> 23.december.2023

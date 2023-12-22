@@ -5,15 +5,18 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Code for at least 15 minutes
-* [ ] Draw 2 hours
-* [ ] Read Lær Sjakk and complete third chapter (and exercises)
+* [ ] Read Lær Sjakk and complete fourth chapter (and exercises) -> 23.december.2023
+* [ ] Read Lær Sjakk and complete fifth chapter (and exercises) -> 23.december.2023
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Code for at least 15 minutes
+* [ ] Draw 2 hours
+* [ ] Complete 250 box challenge
+* [ ] Read Lær Sjakk and complete third chapter (and exercises) -> 23.december.2023
 * [ ] Hand in second drawabox assignment -> 18. january 2023
 * [x] Take washing out of washing machine
 * [x] Hang clothes up to dry

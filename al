@@ -202,6 +202,13 @@ echo "
                 cal.colorfulSelect('06/12/2023', 'jsCalendar-colorful-green');
                 cal.colorfulSelect('11/12/2023', 'jsCalendar-colorful-blue');
                 }
+                if (month == 5)
+                {
+                cal.colorfulSelect('7/5/2024', 'jsCalendar-colorful-red');
+                cal.colorfulSelect('13/5/2024', 'jsCalendar-colorful-orange');
+                //cal.colorfulSelect('13/5/2024', 'jsCalendar-colorful-green');
+                cal.colorfulSelect('21/5/2024', 'jsCalendar-colorful-blue');
+                }
             }
 
             makeCal(1); // January

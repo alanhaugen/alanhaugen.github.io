@@ -239,40 +239,40 @@ addWeekColumn(3);
 addWeekColumn(4);
 addWeekColumn(5);
 
-addWeekNumber(1, 1, 31);
-addWeekNumber(1, 2, 32);
-addWeekNumber(1, 3, 33);
-addWeekNumber(1, 4, 34);
-addWeekNumber(1, 5, 35);
-addWeekNumber(1, 6, 36);
+addWeekNumber(1, 1, 52);
+addWeekNumber(1, 2, 1);
+addWeekNumber(1, 3, 2);
+addWeekNumber(1, 4, 3);
+addWeekNumber(1, 5, 4);
+addWeekNumber(1, 6, 5);
 
-addWeekNumber(2, 1, 35);
-addWeekNumber(2, 2, 36);
-addWeekNumber(2, 3, 37);
-addWeekNumber(2, 4, 38);
-addWeekNumber(2, 5, 39); // Kjøkken, entre, stue
-addWeekNumber(2, 6, 40); // Søppel
+addWeekNumber(2, 1, 5);
+addWeekNumber(2, 2, 6);
+addWeekNumber(2, 3, 7);
+addWeekNumber(2, 4, 8);
+addWeekNumber(2, 5, 9); // Kjøkken, entre, stue
+addWeekNumber(2, 6, 10); // Søppel
 
-addWeekNumber(3, 1, 39);
-addWeekNumber(3, 2, 40);
-addWeekNumber(3, 3, 41); // Bad
-addWeekNumber(3, 4, 42); // Kjøkken stue entre
-addWeekNumber(3, 5, 43); // Søppel
-addWeekNumber(3, 6, 44); // Bad
+addWeekNumber(3, 1, 9);
+addWeekNumber(3, 2, 10);
+addWeekNumber(3, 3, 11); // Bad
+addWeekNumber(3, 4, 12); // Kjøkken stue entre
+addWeekNumber(3, 5, 13); // Søppel
+addWeekNumber(3, 6, 14); // Bad
 
-addWeekNumber(4, 1, 44);
-addWeekNumber(4, 2, 45); // Kjøkken stue entre
-addWeekNumber(4, 3, 46); // Søppel
-addWeekNumber(4, 4, 47); // Bad
-addWeekNumber(4, 5, 48); // Kjøkken stue entre
-addWeekNumber(4, 6, 49); // Søppel
+addWeekNumber(4, 1, 13);
+addWeekNumber(4, 2, 14); // Kjøkken stue entre
+addWeekNumber(4, 3, 15); // Søppel
+addWeekNumber(4, 4, 16); // Bad
+addWeekNumber(4, 5, 17); // Kjøkken stue entre
+addWeekNumber(4, 6, 18); // Søppel
 
-addWeekNumber(5, 1, 48);
-addWeekNumber(5, 2, 49);
-addWeekNumber(5, 3, 50); // Bad
-addWeekNumber(5, 4, 51); // Kjøkken stue entre
-addWeekNumber(5, 5, 52); // Søppel
-addWeekNumber(5, 6, 53); // Bad
+addWeekNumber(5, 1, 18);
+addWeekNumber(5, 2, 19);
+addWeekNumber(5, 3, 20); // Bad
+addWeekNumber(5, 4, 21); // Kjøkken stue entre
+addWeekNumber(5, 5, 22); // Søppel
+addWeekNumber(5, 6, 23); // Bad
 
 " >> todo.html
 

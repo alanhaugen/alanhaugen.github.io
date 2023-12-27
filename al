@@ -146,37 +146,14 @@ echo "
                 var element = document.getElementById('calendar');
                 month = month - 1;
 
-                var d = new Date();
-                var diff = month - d.getMonth();
-
                 var cal = jsCalendar.new({
                     target : element,
                     navigator : false,
                     firstDayOfTheWeek : "2"
                 });
                 cal.set('now');
+                cal.goto('1/' + month + '/2024');
 
-                if (diff < 0)
-                {
-                    while (diff != 0)
-                    {
-                        cal.previous();
-                        diff = diff + 1;
-                    }
-                }
-                else if (diff > 0)
-                {
-                    while (diff != 0)
-                    {
-                        cal.next();
-                        diff = diff - 1;
-                    }
-                }
-
-                month = month + 1;
-
-                //cal.select('now');
-                //cal.select('01/09/2023');
                 if (month == 1)
                 {
                 cal.colorfulSelect('01/09/2023', 'jsCalendar-colorful-green');
@@ -196,6 +173,13 @@ echo "
                 cal.colorfulSelect('17/11/2023', 'jsCalendar-colorful-blue');
                 }
                 if (month == 4)
+                {
+                cal.colorfulSelect('7/5/2024', 'jsCalendar-colorful-red');
+                cal.colorfulSelect('13/5/2024', 'jsCalendar-colorful-orange');
+                //cal.colorfulSelect('13/5/2024', 'jsCalendar-colorful-green');
+                cal.colorfulSelect('21/5/2024', 'jsCalendar-colorful-blue');
+                }
+                if (month == 5)
                 {
                 cal.colorfulSelect('7/5/2024', 'jsCalendar-colorful-red');
                 cal.colorfulSelect('13/5/2024', 'jsCalendar-colorful-orange');

@@ -68,11 +68,24 @@
               <li>Download CMake <a href="https://cmake.org">https://cmake.org</a></li>
               <li>Download the tutorial source code <a href="https://github.com/paroj/gltut/releases">github.com</a></li>
               <li>Compile all the tutorials (windows, linux or macos)</li>
-              <li>Read Part I Chapter 1: The Basics <a href="https://paroj.github.io/gltut/Basics/Basics.html">link</a></li>
+              <li>Start reading Part I: The Basics <a href="https://paroj.github.io/gltut/Basics/Basics.html">link</a></li>
               <li>Read Introduction <a href="https://paroj.github.io/gltut/Basics/Introduction.html">link</a></li>
               <li>Read Graphics and Rendering <a href="https://paroj.github.io/gltut/Basics/Intro%20Graphics%20and%20Rendering.html">link</a></li>
               <li>Read What is OpenGL <a href="https://paroj.github.io/gltut/Basics/Intro%20What%20is%20OpenGL.html">link</a></li>
-              <li>Read Chapter 1 Introduction Glossary <a href="https://paroj.github.io/gltut/Basics/Intro%20Glossary.html">link</a></li>
+              <li>Read Introduction Glossary <a href="https://paroj.github.io/gltut/Basics/Intro%20Glossary.html">link</a></li>
+              <li>Read Chapter 1 Hello Triangle! <a href="https://paroj.github.io/gltut/Basics/Tutorial%2001.html">link</a></li>
+              <li>Read Dissecting Display <a href="https://paroj.github.io/gltut/Basics/Tut01%20Dissecting%20Display.html">link</a></li>
+              <li>Read Following the Data <a href="https://paroj.github.io/gltut/Basics/Tut01%20Following%20the%20Data.html">link</a></li>
+              <li>Read Making Shaders <a href="https://paroj.github.io/gltut/Basics/Tut01%20Making%20Shaders.html">link</a></li>
+              <li>Read Cleanup <a href="https://paroj.github.io/gltut/Basics/Tut01%20Cleanup.html">link</a></li>
+              <li>Read Chapter 1 In Review <a href="https://paroj.github.io/gltut/Basics/Tut01%20In%20Review.html">link</a></li>
+              <li>Read Chapter 1 Glossary <a href="https://paroj.github.io/gltut/Basics/Tut01%20In%20Review.html">link</a></li>
+              <li>Change the color value set by the fragment shader to different values. Use values in the range [0, 1], and then see what happens when you go outside that range.</li>
+              <li>Change the positions of the vertex data. Keep position values in the [-1, 1] range, then see what happens when triangles go outside this range. Notice what happens when you change the Z value of the positions (note: nothing should happen while they're within the range). Keep the W values at 1.0 for now.</li>
+              <li>Change the clear color, using values in the range [0, 1]. Notice how this interacts with changes to the viewport above.</li>
+              <li>Add another 3 vertices to the list, and change the number of vertices sent in the glDrawArrays call from 3 to 6. Add more and play with them.</li>
+              Change the values that reshape gives to glViewport. Make them bigger or smaller than the window and see what happens. Shift them around to different quadrants within the window.</li>
+              <li>Change the reshape function so that changing the window size does not stretch the triangle. This means that the area rendered to, the viewport, may be smaller than the window area. Also, try to make it so that it always centers the area within the window.</li>
               <li>Consider writing your own framework and hello triangle using glfw, SDL or winAPI. <a href="https://paroj.github.io/gltut/Getting%20Started%20with%20OpenGL.html">Appendix D</a> might help. You could use <a href=https://glad.dav1d.de>Glad</a> or similar to load the newest OpenGL API for your system.</li>
             </ul>
 
@@ -89,6 +102,8 @@
               <li>In Review <a href="https://paroj.github.io/gltut/Basics/Tut02%20In%20Review.html">link</a></li>
               <li>Read Glossary <a href="https://paroj.github.io/gltut/Basics/Tut02%20Glossary.html">link</a></li>
               <li>Try modifying tutorial 2, try to change the colours</li>
+              <li>Change the viewport in the FragPosition tutorial. Put the viewport in the top half of the display, and then put it in the bottom half. See how this affects the shading on the triangle.</li>
+              <li>Combine the FragPosition tutorial with the Vertex Color tutorial. Use interpolated color from the vertex shader and multiply that with the value computed based on the screen-space position of the fragment.</li>
               <li>Start on Part II: Positioning <a href="https://paroj.github.io/gltut/Positioning/Positioning.html">link</a></li>
               <li>Start on chapter 3: OpenGL's Moving Triangle <a href="https://paroj.github.io/gltut/Positioning/Tutorial%2003.html">link</a></li>
             </ul>
@@ -109,6 +124,9 @@
               <li>Read On Vertex Shader Performance <a href="https://paroj.github.io/gltut/Positioning/Tut03%20On%20Vertex%20Shader%20Performance.html">link</a></li>
               <li>Read Chapter 3 In Review <a href="https://paroj.github.io/gltut/Positioning/Tut03%20In%20Review.html">link</a></li>
               <li>Read Chapter 3 Glossary <a href="https://paroj.github.io/gltut/Positioning/Tut03%20Glossary.html">link</a></li>
+              <li>With VertCalcOffset.cpp, change it so that it draws two triangles moving in a circle, with one a half loopDuration ahead of the other. Simply change the uniforms after the glDrawArrays call and then make the glDrawArrays call again. Add half of the loop duration to the time before setting it the second time.</li>
+              <li>In FragChangeColor.cpp, change it so that the fragment program bounces between firstColor and secondColor, rather than popping from secondColor back to first at the end of a loop. The first-to-second-to-first transition should all happen within a single fragLoopDuration time interval. In case you are wondering, GLSL supports the if statement, as well as the ?: operator. For bonus points however, do it without an explicit conditional statement; feel free to use a sin or cos function to do this.</li>
+              <li>Using our knowledge of uniforms, go back to Tutorial 2's FragPosition tutorial. Modify the code so that it takes a uniform that describes the window's height, rather than using a hard-coded value. Change the reshape function to bind the program and modify the uniform with the new height.</li>
               <li>Try using uniforms to change various properties of the graphics 
             </ul>
 
@@ -125,6 +143,10 @@
               <li>Read The Matrix has You <a href="https://paroj.github.io/gltut/Positioning/Tut04%20The%20Matrix%20Has%20You.html">link</a></li>
               <li>Read Aspect of the World <a href="https://paroj.github.io/gltut/Positioning/Tut04%20Aspect%20of%20the%20World.html">link</a></li>
               <li>Read Chapter 4 In Review <a href="https://paroj.github.io/gltut/Positioning/Tut04%20In%20Review.html">link</a></li>
+              <li>In all of the perspective tutorials, we only ever had a frustum scale of 1.0. Adjust the frustum scale and see how it affects the scene.</li>
+              <li>Adjust the zNear distance, so that it intersects with the prism. See how this affects the rendering. Adjust the zFar distance similarly and see what happens.</li>
+              <li>We made some simplifying assumptions in our perspective transformation algorithm. In particular, we fixed the eye point at (0, 0, 0). and the plane at (0, 0, 1). However, this was not strictly necessary; we could have altered our perspective transform algorithm to use a variable eye point. Adjust the ShaderPerspective to implement an arbitrary perspective plane location (the size remains fixed at [-1, 1]). You will need to offset the X, Y camera-space positions of the vertices by Ex and Ey respectively, but only after the scaling (for aspect ratio). And you will need to divide the camera-space Z term by -Ez instead of just -1.</li>
+              <li>Do the above, but in matrix form. Remember that any terms placed in the fourth column will be added to that component, due to the multiplication by Wcamera (which is always 1.0).
               <li>Read Chater 4 Glossary <a href="https://paroj.github.io/gltut/Positioning/Tut04%20Glossary.html">link</a></li>
               <li>Try to make a program which lets you toggle between perspective and orthogonal projection</li>
             </ul>
@@ -163,6 +185,10 @@
               <li>Read Fun with Matrices <a href="https://paroj.github.io/gltut/Positioning/Tut06%20Fun%20with%20Matrices.html">link</a></li>
               <li>Chapter 6 In Review <a href="https://paroj.github.io/gltut/Positioning/Tut06%20In%20Review.html">link</a></li>
               <li>Chapter 6 Glossary <a href="https://paroj.github.io/gltut/Positioning/Tut06%20Glossary.html">link</a></li>
+              <li>In the Translation tutorial, we had two objects that rotated around a specific point. This was achieved by computing the offset for the rotated position on the CPU, not through the use of a rotation transformation. Change this code to use rotation transformations instead. Make sure that the orientation of the objects do not change as they are being rotated around; this will require applying more than one rotation transformation.</li>
+              <li>Reverse the order that the two rotations on the wrist are applied in the Hierarchy tutorial. Note how this affects the ability to adjust the wrist.</li>
+              <li>Reimplement the Hierarchy tutorial, instead using a more generic data structure. Have each node be a struct/class that can be attached as a child to another node. Each node has one parent, but multiple children. The scene will simply be the root node: the node that has no parent. The individual angle values should be stored in the node object. The node should have a render function that will render this node, given the matrix stack. It would render itself, then recursively render its children. The node would also have a way to define the size (in world-space) and origin point of the rectangle to be drawn.</li>
+              <li>Given the generalized Hierarchy code, remove the matrix stack. Use matrix objects created on the C++ stack instead. The node render function would take a const& to a matrix rather than a matrix stack reference.</li>
               <li>Try moving an object around the scene with keyboard input</li>
               <li>Make the entire solar system out of spheres in OpenGL, where the planets spin at correct speeds and are at correct distances and orbits to the sun</li>
             </ul>
@@ -180,6 +206,8 @@
               <li>Read Shared Uniforms <a href="https://paroj.github.io/gltut/Positioning/Tut07%20Shared%20Uniforms.html">link</a></li>
               <li>Read The Perils of World Space <a href="https://paroj.github.io/gltut/Positioning/Tut07%20The%20Perils%20of%20World%20Space.html">link</a></li>
               <li>Read Chapter 7 In Review <a href="https://paroj.github.io/gltut/Positioning/Tut07%20In%20Review.html">link</a></li>
+              <li>In the World Space tutorial, we use 3 matrices. This requires an extra matrix multiply, which is a wasteful per-vertex cost. Fold the camera matrix into the perspective transformation matrix, so that only two matrices are used. Any time parameters change to one matrix, make sure to recompute both and combine them together before uploading the combined world-to-clip-space matrix.</li>
+              <li>Instead of folding the world-to-camera transform into the perspective matrix, fold it into the model-to-world matrix instead. Simply push it onto the same stack as everything else. The function MatrixStack::ApplyMatrix can right-multiply an arbitrary matrix with the current matrix.</li>
               <li>Read Chapter 7 Glossary <a href="https://paroj.github.io/gltut/Positioning/Tut07%20Glossary.html">link</a></li>
               <li>Write code which renders an icosphere</li>
               <li>Write code which renders a uv-sphere</li>
@@ -201,6 +229,8 @@
               <li>Read Interpolation <a href="https://paroj.github.io/gltut/Positioning/Tut08%20Interpolation.html">link</a></li>
               <li>Read Chapter 8 In Review <a href="https://paroj.github.io/gltut/Positioning/Tut08%20In%20Review.html">link</a></li>
               <li>Read Chapter 8 Glossary <a href="https://paroj.github.io/gltut/Positioning/Tut08%20Glossary.html">link</a></li>
+              <li>Modify the Interpolation tutorial to allow multiple animations to be active simultaneously. The Orientation class is already close to being able to allow this. Instead of storing a single Orientation::Animation object, it should store a std::deque of them. When the external code adds a new one, it gets pushed onto the end of the deque. During update, the front-most entries can end and be popped off, recording its destination index as the new current one in the Orientation class. To get the orientation, just call each animation's orientation function, feeding the previous result into the next one.</li>
+              <li>Change the Interpolation tutorial to allow one to specify whether the long path or short path between two orientations should be taken. This can work for both linear and spherical interpolation.</li>
             </ul>
 
           <h4>Workshop Friday 8. March 2024</h4>
@@ -217,6 +247,8 @@
               <li>Read Global Illumination <a href="https://paroj.github.io/gltut/Illumination/Tut09%20Global%20Illumination.html">link</a></li>
               <li>Read Mesh Topology <a href="https://paroj.github.io/gltut/Illumination/Tut09%20Mesh%20Topology.html">link</a></li>
               <li>Read Chapter 9 In Review <a href="https://paroj.github.io/gltut/Illumination/Tut09%20In%20Review.html">link</a></li>
+              <li>Modify the ambient lighting tutorial, bumping the diffuse light intensity up to 1.0. See how this effects the results.</li>
+              <li>Change the shaders in the ambient lighting tutorial to use the lighting intensity correction mentioned above. Divide the diffuse color by a value, then pass larger lighting intensities to the shader. Notice how this changes the quality of the lighting.</li>
               <li>Read Chapter 9 Glossary <a href="https://paroj.github.io/gltut/Illumination/Tut09%20Glossary.html">link</a></li>
               <li>Consider Phong shading <a href="https://web.archive.org/web/20180816064924/http://www.sunandblackcat.com/tipFullView.php?l=eng&topicid=30">arhive.org</a></li>
             </ul>
@@ -235,6 +267,9 @@
               <li>Read Distant Points of Light <a href="https://paroj.github.io/gltut/Illumination/Tut10%20Distant%20Points%20of%20Light.html">link</a></li>
               <li>Read Chapter 10 In Review <a href="https://paroj.github.io/gltut/Illumination/Tut10%20In%20Review.html">link</a></li>
               <li>Read Chapter 10 Glossary <a href="https://paroj.github.io/gltut/Illumination/Tut10%20Glossary.html">link</a></li>
+              <li>When we used model space-based lighting computations, we had to perform an inverse on our matrix from the matrix stack to transform the light position from camera space to model space. However, it would be entirely possible to simply build an inverse matrix at the same time we build a regular matrix on our matrix stack. The inverse of a rotation matrix is just the rotation matrix with a negated angle; the inverse of a scale is just the multiplicative inverse of the scales, and the inverse of the translation is the negation of the translation vector.</li>
+              <li>To do this, you will need to modify the MatrixStack class in a number of ways. It must store a second matrix representing the accumulated inverse matrix. When a transformation command is given to the stack, it must also generate the inverse matrix for this transform and left multiply this into the accumulated inverse. The push/pop will have to push/pop the inverse matrix as well. It can use the same stack, so long as the pop function puts the two matrices in the proper places.</li>
+              <li>Implement the alternative attenuation described at the end of the section on attenuation.</li>
             </ul>
 
           <h4>Workshop Friday 22. March 2024</h4>
@@ -252,6 +287,7 @@
               <li>Read On Performance <a href="https://paroj.github.io/gltut/Illumination/Tut11%20On%20Performance.html">link</a></li>
               <li>Read Chapter 11 In Review <a href="https://paroj.github.io/gltut/Illumination/Tut11%20In%20Review.html">link</a></li>
               <li>Read Chapter 11 Glossary <a href="https://paroj.github.io/gltut/Illumination/Tut11%20Glossary.html">link</a></li>
+              <li>Change the shaders to use the diffuse color as the specular color. You may need to drop the specular color somewhat to keep from over-brightening the scene. How this all looks will be particularly evident with the colored cylinder.</li>
             </ul>
 
           <h4>Workshop Friday 29. March 2024</h4>
@@ -267,6 +303,8 @@
               <li>Read Linearity and Gamma <a href="https://paroj.github.io/gltut/Illumination/Tut12%20Monitors%20and%20Gamma.html">link</a></li>
               <li>Read Chapter 12 In Review <a href="https://paroj.github.io/gltut/Illumination/Tut12%20In%20Review.html">link</a></li>
               <li>Read Chapter 12 Glossary <a href="https://paroj.github.io/gltut/Illumination/Tut12%20Glossary.html">link</a></li>
+              <li>Add a fifth light, a directional light representing the moon, to the gamma-correct scene. This will require creating another set of interpolators and expanding the SunlightValues structure to hold the lighting intensity of the moon. It also means expanding the number of lights the shaders use from 4 to 5 (or removing one of the point lights). The moon should be much less bright than the sun, but it should still have a noticeable effect on brightness.</li>
+              <li>Play with the ambient lighting intensity in the gamma-correct scene, particularly in the daytime. A little ambient, even with a maximum intensity as high as 10, really goes a long way to bringing up the level of brightness in a scene.</li>
             </ul>
 
           <h4>Workshop Friday 5. April 2024</h4>
@@ -283,6 +321,8 @@
               <li>Read Purloined Primitives <a href="https://paroj.github.io/gltut/Illumination/Tut13%20Purloined%20Primitives.html">link</a></li>
               <li>Read Chatper 13 In Review <a href="https://paroj.github.io/gltut/Illumination/Tut13%20In%20Review.html">link</a></li>
               <li>Read Chatper 13 Glossary <a href="https://paroj.github.io/gltut/Illumination/Tut13%20Glossary.html">link</a></li>
+              <li>The first version of our impostors was a sphere approximation. It was not useful for relatively large spheres, but it could be useful for small ones. However, that approximation did not compute the depth of the fragment correctly. Make a version of it that does.</li>
+              <li>Change the geometry impostor tutorial to take another vertex input: the material to use. The vertex shader should pass it along to the geometry shader, and the geometry shader should hand it to the fragment shader. You can still use gl_PrimitiveID as the way to tell the fragment shader. Regardless of how you send it, you will need to convert the value to an integer at some point. That can be done with this constructor-like syntax: int(value_to_convert).</li>
             </ul>
 
           <h4>Workshop Friday 12. April 2024</h4>
@@ -299,6 +339,8 @@
               <li>Read Texture Mapping <a href="https://paroj.github.io/gltut/Texturing/Tut14%20Texture%20Mapping.html">link</a></li>
               <li>Read Chapter 14 In Review <a href="https://paroj.github.io/gltut/Texturing/Tut14%20In%20Review.html">link</a></li>
               <li>Read Chapter 14 Glossary <a href="https://paroj.github.io/gltut/Texturing/Tut14%20Glossary.html">link</a></li>
+              <li>If you were to look at the look-up table for our specular function, you will see that much of it is very dark, if not actually at 0.0. Even when the dot product is close to 1.0, it does not take very far before the specular value becomes negligible. One way to improve our look-up table without having to use larger textures is to change how we index the texture. If we index the texture by the square-root of the dot-product, then there will be more room in the table for the values close to 1.0, and less for the values close to 0.0. This is similar to how gamma correction works. Implement this by storing the values in the table based on the square-root of the dot-product, and then take the square-root of the dot-product in the shader before accessing the texture.</li>
+              <li>Animate the texture coordinates in the texture mapping tutorial. Do this by sending an offset to the fragment shader which is applied to the texture coordinates. You can generate the offset based on the Framework::Timer g_lightTimer. Make sure to use the mod function on the texture coordinates with a value of 1.0, so that the texture coordinate will always stay on the range [0, 1].</li>
             </ul>
 
           <h4>Workshop Friday 19. April 2024</h4>
@@ -317,6 +359,9 @@
               <li>Read Performance <a href="https://paroj.github.io/gltut/Texturing/Tut15%20Performace.html">link</a></li>
               <li>Read Chapter 15 In Review <a href="https://paroj.github.io/gltut/Texturing/Tut15%20In%20Review.html">link</a></li>
               <li>Read Chapter 15 Glossary <a href="https://paroj.github.io/gltut/Texturing/Tut15%20Glossary.html">link</a></li>
+              <li>Use non-mipmap filtering with anisotropic filtering and compare the results with the mipmap-based anisotropic version.</li>
+              <li>Change the GL_TEXTURE_MAX_LEVEL of the checkerboard texture. Subtract 3 from the computed max level. This will prevent OpenGL from accessing the bottom 3 mipmaps: 1x1, 2x2, and 4x4. See what happens. Notice how there is less grey in the distance, but some of the shimmering from our non-mipmapped version has returned.</li>
+              <li>Go back to Basic Texture in the previous tutorial and modify the sampler to use linear mag and min filtering on the 1D texture. See if the linear filtering makes some of the lower resolution versions of the table more palatable. If you were to try this with the 2D lookup texture in Material Texture tutorial, it would cause filtering in both the S and T coordinates. This would mean that it would filter across the shininess of the table as well. Try this and see how this affects the results. Also try using linear filtering on the shininess texture.</li>
             </ul>
 
           <h4>Workshop Friday 26. April 2024</h4>
@@ -347,6 +392,9 @@
               <li>Read Pointing Projections <a href="https://paroj.github.io/gltut/Texturing/Tut17%20Pointing%20Projections.html">link</a></li>
               <li>Read Chapter 17 In Review <a href="https://paroj.github.io/gltut/Texturing/Tut17%20In%20Review.html">link</a></li>
               <li>Read Chapter 17 Glossary <a href="https://paroj.github.io/gltut/Texturing/Tut17%20Glossary.html">link</a></li>
+              <li>In the spotlight project, change the projection texture coordinate from a full 4D coordinate to a 2D. Do this by performing the divide-by-W step directly in the vertex shader, and simply pass the ST coordinates to the fragment shader. Just use texture instead of textureProj in the fragment shader. See how that affects things. Also, try doing the perspective divide in the fragment shader and see how this differs from doing it in the vertex shader.</li>
+              <li>In the spotlight project, change the interpolation style from smooth to noperspective. See how non-perspective-correct interpolation changes the projection.</li>
+              <li>Instead of using a projective texture, build a lighting system for spot lights entirely within the shader. It should have a maximum angle; the larger the angle, the wider the spotlight. It should also have an inner angle that is smaller than the maximum angle. This the the point where the light starts falling off. At the maximum angle, the light intensity goes to zero; at the minimum angle, the light intensity is full. The key here is remembering that the dot product between the spotlight's direction and the direction from the surface to the light is the cosine of the angle between the two vectors. The acos function can be used to compute the angle (in radians) from the cosine.</li>
               <li>Read Part V. Framebuffer <a href="https://paroj.github.io/gltut/Framebuffer/Framebuffer.html">link</a></li>
               <li>Read Part VI. Advanced Lighting <a href="https://paroj.github.io/gltut/Adv%20Lighting/Advanced%20Lighting.html">link</a></li>
               <li>There aren't many things on the final two parts. Try storing the framebuffer with glReadPixels as an image with <a href="https://github.com/nothings/stb/blob/master/stb_image_write.h">stb_image_write</a> or in the very simple <a href="https://en.wikipedia.org/wiki/Netpbm#File_formats">PPM</a> image format.</li>

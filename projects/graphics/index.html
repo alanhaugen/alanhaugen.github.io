@@ -398,8 +398,10 @@
               <li>Read Part V. Framebuffer <a href="https://paroj.github.io/gltut/Framebuffer/Framebuffer.html">link</a></li>
               <li>Read Part VI. Advanced Lighting <a href="https://paroj.github.io/gltut/Adv%20Lighting/Advanced%20Lighting.html">link</a></li>
               <li>There aren't many things on the final two parts. Try storing the framebuffer with glReadPixels as an image with <a href="https://github.com/nothings/stb/blob/master/stb_image_write.h">stb_image_write</a> or in the very simple <a href="https://en.wikipedia.org/wiki/Netpbm#File_formats">PPM</a> image format.</li>
-              <li>There are many great resources on graphics, consider Anton's tutorials which has mouse picking as well as morph target tutorials. See the side bar under optional literature.</li>
-
+              <li>There are many great resources on graphics, consider Anton's tutorials which has cube map, mouse picking, as well as morph target tutorials. See the side bar under optional literature.</li>
+              <li>Cube maps are fairly old technology. The version used in GPUs today derive from the Renderman standard and earlier works. However, before hardware that allowed cubemaps became widely available, there were alternative techniques that were used to achieve similar effects.</li>
+              <li>The basic idea behind all of these is to transform a 3D vector direction into a 2D texture coordinate. Note that converting a 3D direction into a 2D plane is a problem that was encountered long before computer graphics. It is effectively the global mapping problem: how you create a 2D map of a 3D spherical surface. All of these techniques introduce some distance distortion into the 2D map. Some distortion is more acceptable in certain circumstances than others.</li>
+              <li>One of the more common pre-cube map techniques was sphere mapping. This required a very heavily distorted 2D texture, so the results left something to be desired. But the 3D-to-2D computations were simple enough to be encoded into early graphics hardware, or performed quickly on the CPU, so it was acceptable as a stop-gap. Other techniques, such as dual paraboloid mapping, were also used. The latter used a pair of textures, so they ate up more resources. But they required less heavy distortions of the texture, so in some cases, they were a better tradeoff.</li>
             </ul>
 
           <p></p>

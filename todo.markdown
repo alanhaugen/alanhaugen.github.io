@@ -84,6 +84,9 @@ colorlinks: true
 * [ ] Complete Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
 * [ ] Exam Practice Mathematics #mathematics
+* [ ] Exam Mathematics II -> 07.05.2024 #mathematics
+* [ ] Exam Game Deisgn -> 13.05.2024 #design
+* [ ] Exam Programming II -> 21.05.2024 #programming
 * [ ] Complete Semester 1 Game School [https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host](https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host)
 * [ ] Do drawabox.com course
 * [ ] Learn to make music [https://learningmusic.ableton.com](https://learningmusic.ableton.com)

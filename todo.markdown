@@ -5,7 +5,7 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Try contacting Valmuen and NITO if they would like to fund a graphics course
+* [x] Try contacting Valmuen and NITO if they would like to fund a graphics course
 * [ ] Add when chores need to be done into calendar
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read

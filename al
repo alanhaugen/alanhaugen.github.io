@@ -177,10 +177,10 @@ echo "
                 }
                 if (month == 5)
                 {
-                cal.colorfulSelect('7/5/2024', 'jsCalendar-colorful-red');
+                cal.colorfulSelect('7/5/2024', 'jsCalendar-colorful-blue');
                 cal.colorfulSelect('13/5/2024', 'jsCalendar-colorful-orange');
-                //cal.colorfulSelect('13/5/2024', 'jsCalendar-colorful-green');
-                cal.colorfulSelect('21/5/2024', 'jsCalendar-colorful-blue');
+                //cal.colorfulSelect('13/5/2024', 'jsCalendar-colorful-red');
+                cal.colorfulSelect('21/5/2024', 'jsCalendar-colorful-green');
                 }
             }
 

@@ -156,6 +156,58 @@
             "16/2/2024",
             "23/2/2024"
     ]);
+
+    // Get the element
+    // Create the calendar
+    var calMarch = jsCalendar.new({
+        target : element,
+        navigator : false,
+        firstDayOfTheWeek : "2"
+    });
+    calMarch.set('now');
+    calMarch.goto("1/3/2024");
+
+    // Add events
+    calMarch.select([
+            "1/3/2024",
+            "8/3/2024",
+            "15/3/2024",
+            "22/3/2024",
+            "29/3/2024"
+    ]);
+
+    // Get the element
+    // Create the calendar
+    var calApril = jsCalendar.new({
+        target : element,
+        navigator : false,
+        firstDayOfTheWeek : "2"
+    });
+    calApril.set('now');
+    calApril.goto("1/4/2024");
+
+    // Add events
+    calApril.select([
+            "5/4/2024",
+            "12/4/2024",
+            "19/4/2024",
+            "26/4/2024"
+    ]);
+
+    // Get the element
+    // Create the calendar
+    var calMay = jsCalendar.new({
+        target : element,
+        navigator : false,
+        firstDayOfTheWeek : "2"
+    });
+    calMay.set('now');
+    calMay.goto("1/5/2024");
+
+    // Add events
+    calMay.select([
+            "3/5/2024"
+    ]);
 </script>
 
         <br />

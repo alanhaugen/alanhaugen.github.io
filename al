@@ -144,13 +144,13 @@ echo "
             function makeCal(month)
             {
                 var element = document.getElementById('calendar');
-                month = month - 1;
 
                 var cal = jsCalendar.new({
                     target : element,
                     navigator : false,
                     firstDayOfTheWeek : "2"
                 });
+
                 cal.set('now');
                 cal.goto('1/' + month + '/2024');
 

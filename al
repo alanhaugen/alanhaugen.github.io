@@ -160,6 +160,9 @@ echo "
                 cal.colorfulSelect('18/09/2023', 'jsCalendar-colorful-blue');
                 cal.colorfulSelect('22/09/2023', 'jsCalendar-colorful-orange');
                 cal.colorfulSelect('29/09/2023', 'jsCalendar-colorful-green');
+                cal.colorfulSelect('26/1/2024', 'jsCalendar-colorful-red');
+                cal.colorfulSelect('27/1/2024', 'jsCalendar-colorful-red');
+                cal.colorfulSelect('28/1/2024', 'jsCalendar-colorful-red');
                 }
                 if (month == 2)
                 {

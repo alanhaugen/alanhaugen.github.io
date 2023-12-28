@@ -5,29 +5,23 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [x] Try contacting Valmuen and NITO if they would like to fund a graphics course
-* [ ] Add when chores need to be done into calendar
+* [ ] Make an app out of dallebot
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Try contacting Valmuen and NITO if they would like to fund a graphics course
+* [ ] Add when chores need to be done into calendar
+* [ ] Read Lær Sjakk and complete third chapter (and exercises) -> 23.december.2023
 * [ ] Read Lær Sjakk and complete fourth chapter (and exercises) -> 23.december.2023
 * [ ] Read Lær Sjakk and complete fifth chapter (and exercises) -> 23.december.2023
-* [x] Code for at least 15 minutes
-* [x] Code for at least 15 minutes
 * [ ] Draw 2 hours
 * [ ] Complete 250 box challenge
-* [ ] Read Lær Sjakk and complete third chapter (and exercises) -> 23.december.2023
 * [ ] Hand in second drawabox assignment -> 18. january 2023
-* [x] Take washing out of washing machine
-* [x] Hang clothes up to dry
 * [ ] Take clothes up to room
-* [x] Wash more clothes
-* [x] Dry second batch of clothes
 * [ ] Take second batch up to room
-* [x] Hand in first drawabox assignment -> 18. desember 2023
 * [ ] Do jeh exercises in programming
 * [ ] Consider Abbas mathematics notes #mathematics
 * [ ] Read Ekte programmering

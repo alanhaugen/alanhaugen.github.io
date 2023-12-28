@@ -14,7 +14,7 @@ colorlinks: true
 
 * [x] Try contacting Valmuen and NITO if they would like to fund a graphics course
 * [ ] Add when chores need to be done into calendar
-* [ ] Read Lær Sjakk and complete third chapter (and exercises) -> 23.december.2023
+* [x] Read Lær Sjakk and complete third chapter (and exercises) -> 23.december.2023
 * [ ] Read Lær Sjakk and complete fourth chapter (and exercises) -> 23.december.2023
 * [ ] Read Lær Sjakk and complete fifth chapter (and exercises) -> 23.december.2023
 * [ ] Draw 2 hours

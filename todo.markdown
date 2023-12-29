@@ -5,16 +5,13 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Make an app out of dallebot
-
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [x] Try contacting Valmuen and NITO if they would like to fund a graphics course
+* [ ] Make an app out of dallebot
 * [ ] Add when chores need to be done into calendar
-* [x] Read Lær Sjakk and complete third chapter (and exercises) -> 23.december.2023
 * [ ] Read Lær Sjakk and complete fourth chapter (and exercises) -> 23.december.2023
 * [ ] Read Lær Sjakk and complete fifth chapter (and exercises) -> 23.december.2023
 * [ ] Draw 2 hours

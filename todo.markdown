@@ -5,13 +5,13 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Make tower defence in solid
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Make tower defence in solid
 * [ ] Make an app out of dallebot
 * [ ] Add when chores need to be done into calendar
 * [ ] Read Lær Sjakk and complete fourth chapter (and exercises) -> 23.december.2023
@@ -19,8 +19,8 @@ colorlinks: true
 * [ ] Draw 2 hours
 * [ ] Complete 250 box challenge
 * [ ] Hand in second drawabox assignment -> 18. january 2023
-* [ ] Take clothes up to room
-* [ ] Take second batch up to room
+* [x] Take clothes up to room
+* [x] Take second batch up to room
 * [ ] Do jeh exercises in programming
 * [ ] Consider Abbas mathematics notes #mathematics
 * [ ] Read Ekte programmering

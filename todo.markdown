@@ -5,6 +5,8 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Bring books down to cellar
+* [ ] Buy a book shelf
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

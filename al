@@ -163,12 +163,15 @@ echo "
                 cal.colorfulSelect('26/1/2024', 'jsCalendar-colorful-red');
                 cal.colorfulSelect('27/1/2024', 'jsCalendar-colorful-red');
                 cal.colorfulSelect('28/1/2024', 'jsCalendar-colorful-red');
+                cal.colorfulSelect('16/1/2024', 'jsCalendar-colorful-red');
+                cal.colorfulSelect('30/1/2024', 'jsCalendar-colorful-red');
                 }
                 if (month == 2)
                 {
                 cal.colorfulSelect('20/10/2023', 'jsCalendar-colorful-orange');
                 cal.colorfulSelect('23/10/2023', 'jsCalendar-colorful-blue');
                 cal.colorfulSelect('27/10/2023', 'jsCalendar-colorful-green');
+                cal.colorfulSelect('13/2/2024', 'jsCalendar-colorful-red');
                 }
                 if (month == 3)
                 {

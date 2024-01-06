@@ -7,7 +7,7 @@ colorlinks: true
 
 * [x] Bring books down to cellar
 * [ ] Buy a book shelf
-* [ ] Cut nails
+* [x] Cut nails
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

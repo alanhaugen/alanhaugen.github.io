@@ -5,15 +5,17 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [x] Bring books down to cellar
-* [ ] Buy a book shelf
-* [x] Cut nails
+* [ ] Wash clothes
+* [ ] Take clothes out of washing machine
+* [ ] Take dry clothes up to room
+* [ ] Play Outer Wilds
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Buy a book shelf
 * [ ] Make tower defence in solid
 * [ ] Make an app out of dallebot
 * [ ] Add when chores need to be done into calendar

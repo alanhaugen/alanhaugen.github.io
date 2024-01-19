@@ -5,6 +5,9 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Review Getting Things Done in three months -> january-2023
+* [ ] Do global game jam in January
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
@@ -13,7 +16,6 @@ colorlinks: true
 * [x] Wash clothes
 * [x] Take clothes out of washing machine
 * [ ] Take dry clothes up to room
-* [x] Play Outer Wilds
 * [ ] Buy a book shelf
 * [ ] Make tower defence in solid
 * [ ] Make an app out of dallebot
@@ -23,8 +25,6 @@ colorlinks: true
 * [ ] Draw 2 hours
 * [ ] Complete 250 box challenge
 * [ ] Hand in second drawabox assignment -> 18. january 2023
-* [x] Take clothes up to room
-* [x] Take second batch up to room
 * [ ] Do jeh exercises in programming
 * [ ] Consider Abbas mathematics notes #mathematics
 * [ ] Read Ekte programmering
@@ -71,31 +71,35 @@ colorlinks: true
 # Wait
 ###### Deffered actions. Waiting for the right time or on other people
 
-* [ ] Review Getting Things Done in three months -> january-2023
-
 # Long term plan
 ###### Update Weekly
 
-* [ ] Modern Graphics Programming files #programming
-* [ ] Complete Piano4All
-* [ ] Complete Blender Character Creator v2.0 for Video Games Design Course
-* [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
 * [ ] Exam Practice Mathematics #mathematics
 * [ ] Exam Mathematics II -> 07.05.2024 #mathematics
 * [ ] Exam Game Deisgn -> 13.05.2024 #design
 * [ ] Exam Programming II -> 21.05.2024 #programming
-* [ ] Complete Semester 1 Game School [https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host](https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host)
+* [x] Go to programming lecture 1
+* [ ] Go to programming lecture 3
+* [ ] Go to programming lecture 4
+* [ ] Go to programming lecture 5
+* [ ] Go to programming lecture 6
+* [ ] Go to programming lecture 7
+* [ ] Go to programming lecture 8
+* [ ] Go to programming lecture 9
+* [ ] Go to programming lecture 10
+* [ ] Go to programming lecture 11
+* [ ] Go to programming lecture 12
+* [ ] Go to programming lecture 13
+* [ ] Go to programming lecture 14
+* [ ] Modern Graphics Programming files #programming
+* [ ] Complete Piano4All
+* [ ] Complete Blender Character Creator v2.0 for Video Games Design Course
+* [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
+* [x] Complete Semester 1 Game School [https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host](https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host)
+* [ ] Complete Semester 2 Game School [https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host](https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host)
 * [ ] Do drawabox.com course
 * [ ] Learn to make music [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
-* [ ] Help Philip excel at R1
-* [ ] Help Ulrik excel at 10. grade Mathematics
-* [x] Ulrik lesson 1
-* [ ] Ulrik lesson 2
-* [ ] Ulrik lesson 3
-* [ ] Ulrik lesson 4
-* [ ] Ulrik lesson 5
 * [ ] Write paper for mdpi
-* [ ] Do global game jam in January with Rudi
 
 # Project reference material
 ###### TODO: Maybe make a website for each project?

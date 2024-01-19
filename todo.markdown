@@ -11,7 +11,7 @@ colorlinks: true
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [x] Wash clothes
-* [ ] Take clothes out of washing machine
+* [x] Take clothes out of washing machine
 * [ ] Take dry clothes up to room
 * [x] Play Outer Wilds
 * [ ] Buy a book shelf

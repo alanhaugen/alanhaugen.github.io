@@ -5,17 +5,18 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [x] Buy softer toothbrush
-* [ ] Make solid work in browser
-* [ ] Review Getting Things Done in three months -> january-2023
-* [ ] Do global game jam in January
-* [x] Put glasses in sack
+* [ ] Consider what to do with github pro
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Buy softer toothbrush
+* [ ] Make solid work in browser
+* [ ] Review Getting Things Done in three months -> january-2023
+* [ ] Do global game jam in January
+* [x] Put glasses in sack
 * [x] Wash clothes
 * [x] Take clothes out of washing machine
 * [ ] Take dry clothes up to room

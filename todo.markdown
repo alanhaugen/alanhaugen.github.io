@@ -5,11 +5,11 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Buy softer toothbrush
+* [x] Buy softer toothbrush
 * [ ] Make solid work in browser
 * [ ] Review Getting Things Done in three months -> january-2023
 * [ ] Do global game jam in January
-* [ ] Put glasses in sack
+* [x] Put glasses in sack
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

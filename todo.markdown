@@ -7,6 +7,7 @@ colorlinks: true
 
 * [ ] Review Getting Things Done in three months -> january-2023
 * [ ] Do global game jam in January
+* [ ] Put glasses in sack
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

@@ -5,6 +5,8 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Buy softer toothbrush
+* [ ] Make solid work in browser
 * [ ] Review Getting Things Done in three months -> january-2023
 * [ ] Do global game jam in January
 * [ ] Put glasses in sack
@@ -14,7 +16,8 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Take clothes out of washing machine
+* [x] Wash clothes
+* [x] Take clothes out of washing machine
 * [ ] Take dry clothes up to room
 * [ ] Buy a book shelf
 * [ ] Make tower defence in solid

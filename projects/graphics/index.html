@@ -36,6 +36,11 @@
 	}
 	</style>
 
+    <script>
+        //localStorage.setItem("checked", "false");
+        // Considering adding remember checkboxes functionality
+    </script>
+
   </head>
   <body>
 
@@ -92,8 +97,8 @@
               <li><input type="checkbox" id="horns" name="horns" disabled checked/>Change the positions of the vertex data. Keep position values in the [-1, 1] range, then see what happens when triangles go outside this range. Notice what happens when you change the Z value of the positions (note: nothing should happen while they're within the range). Keep the W values at 1.0 for now.</li>
               <li><input type="checkbox" id="horns" name="horns" disabled checked/>Change the clear color, using values in the range [0, 1]. Notice how this interacts with changes to the viewport above.</li>
               <li><input type="checkbox" id="horns" name="horns" disabled checked/>Add another 3 vertices to the list, and change the number of vertices sent in the glDrawArrays call from 3 to 6. Add more and play with them.</li>
-	      <li><input type="checkbox" id="horns" name="horns" />Change the values that reshape gives to glViewport. Make them bigger or smaller than the window and see what happens. Shift them around to different quadrants within the window.</li>
-              <li><input type="checkbox" id="horns" name="horns" />Change the reshape function so that changing the window size does not stretch the triangle. This means that the area rendered to, the viewport, may be smaller than the window area. Also, try to make it so that it always centers the area within the window.</li>
+	      <li><input type="checkbox" id="horns" name="horns" disabled checked/>Change the values that reshape gives to glViewport. Make them bigger or smaller than the window and see what happens. Shift them around to different quadrants within the window.</li>
+              <li><input type="checkbox" id="horns" name="horns" disabled checked/>Change the reshape function so that changing the window size does not stretch the triangle. This means that the area rendered to, the viewport, may be smaller than the window area. Also, try to make it so that it always centers the area within the window.</li>
               <li><input type="checkbox" id="horns" name="horns" disabled checked/>Consider writing your own framework and hello triangle using glfw, SDL or winAPI. <a href="https://paroj.github.io/gltut/Getting%20Started%20with%20OpenGL.html">Appendix D</a> might help. You could use <a href=https://glad.dav1d.de>Glad</a> or similar to load the newest OpenGL API for your system.</li>
             </ol>
 

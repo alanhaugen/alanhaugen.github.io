@@ -41,6 +41,23 @@
         // Considering adding remember checkboxes functionality
     </script>
 
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
   </head>
   <body>
 
@@ -64,6 +81,7 @@
 
     <br />
 
+    <div class=collapsible>
           <h3>Weekly Colleqium Friday 12. January 2024</h3>
 
             <p><b>Room:</b> Grupperom 7 <a href="https://use.mazemap.com/#v=1&config=hinn&zlevel=1&center=11.073828,60.796261&zoom=20.6&campusid=353&sharepoitype=poi&sharepoi=914634">map</a></p>
@@ -101,6 +119,7 @@
               <li><input type="checkbox" id="horns" name="horns" disabled checked/>Change the reshape function so that changing the window size does not stretch the triangle. This means that the area rendered to, the viewport, may be smaller than the window area. Also, try to make it so that it always centers the area within the window.</li>
               <li><input type="checkbox" id="horns" name="horns" disabled checked/>Consider writing your own framework and hello triangle using glfw, SDL or winAPI. <a href="https://paroj.github.io/gltut/Getting%20Started%20with%20OpenGL.html">Appendix D</a> might help. You could use <a href=https://glad.dav1d.de>Glad</a> or similar to load the newest OpenGL API for your system.</li>
             </ol>
+    </div>
 
           <h4>Colloquium Friday 19. January 2024</h4>
 

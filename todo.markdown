@@ -12,7 +12,7 @@ colorlinks: true
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [ ] Take dry clothes up to room
-* [ ] Consider what to do with github pro
+* [x] Consider what to do with github pro
 * [ ] Make solid work in browser
 * [ ] Review Getting Things Done in three months -> january-2023
 * [ ] Do global game jam in January

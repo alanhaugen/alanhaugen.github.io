@@ -5,6 +5,8 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Do some coding
+* [ ] Do some on udemy course
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

@@ -13,7 +13,7 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Take dry clothes up to room
+* [x] Take dry clothes up to room
 * [x] Consider what to do with github pro
 * [ ] Make solid work in browser
 * [ ] Review Getting Things Done in three months -> january-2023
@@ -81,7 +81,7 @@ colorlinks: true
 * [ ] Exam Game Deisgn -> 13.05.2024 #design
 * [ ] Exam Programming II -> 21.05.2024 #programming
 * [x] Go to programming lecture 1
-* [ ] Go to programming lecture 3
+* [x] Go to programming lecture 3
 * [ ] Go to programming lecture 4
 * [ ] Go to programming lecture 5
 * [ ] Go to programming lecture 6

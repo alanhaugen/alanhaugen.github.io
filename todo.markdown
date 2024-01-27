@@ -5,14 +5,13 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Do some coding
-* [ ] Do some on udemy course
-
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Do some coding
+* [ ] Do some on udemy course
 * [x] Take dry clothes up to room
 * [x] Consider what to do with github pro
 * [ ] Make solid work in browser

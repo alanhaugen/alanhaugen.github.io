@@ -10,7 +10,7 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Do some coding
+* [x] Do some coding
 * [ ] Do some on udemy course
 * [x] Take dry clothes up to room
 * [x] Consider what to do with github pro

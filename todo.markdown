@@ -82,7 +82,7 @@ colorlinks: true
 * [ ] Exam Programming II -> 21.05.2024 #programming
 * [x] Go to programming lecture 1 -> 11.01.2024
 * [x] Go to programming lecture 3 -> 25.01.2024
-* [ ] Go to programming lecture 4 -> 01.02.2024
+* [x] Go to programming lecture 4 -> 01.02.2024
 * [ ] Go to programming lecture 5 -> 08.02.2024
 * [ ] Go to programming lecture 6 -> 15.02.2024
 * [ ] Go to programming lecture 7 -> 22.02.2024

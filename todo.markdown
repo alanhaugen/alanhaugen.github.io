@@ -79,19 +79,20 @@ colorlinks: true
 * [ ] Exam Mathematics II -> 07.05.2024 #mathematics
 * [ ] Exam Game Deisgn -> 13.05.2024 #design
 * [ ] Exam Programming II -> 21.05.2024 #programming
-* [x] Go to programming lecture 1
-* [x] Go to programming lecture 3
-* [ ] Go to programming lecture 4
-* [ ] Go to programming lecture 5
-* [ ] Go to programming lecture 6
-* [ ] Go to programming lecture 7
-* [ ] Go to programming lecture 8
-* [ ] Go to programming lecture 9
-* [ ] Go to programming lecture 10
-* [ ] Go to programming lecture 11
-* [ ] Go to programming lecture 12
-* [ ] Go to programming lecture 13
-* [ ] Go to programming lecture 14
+* [x] Go to programming lecture 1 -> 11.01.2024
+* [x] Go to programming lecture 3 -> 25.01.2024
+* [ ] Go to programming lecture 4 -> 01.02.2024
+* [ ] Go to programming lecture 5 -> 08.02.2024
+* [ ] Go to programming lecture 6 -> 15.02.2024
+* [ ] Go to programming lecture 7 -> 22.02.2024
+* [ ] Go to programming lecture 8 -> 07.03.2024
+* [ ] Go to programming lecture 9 -> 14.03.2024
+* [ ] Go to programming lecture 10 -> 21.03.2024
+* [ ] Go to programming lecture 11 -> 04.04.2024
+* [ ] Go to programming lecture 12 -> 11.04.2024
+* [ ] Go to programming lecture 13 -> 18.04.2024
+* [ ] Go to programming lecture 14 -> 25.04.2024
+* [ ] Go to programming lecture 15 -> 02.05.2024
 * [ ] Modern Graphics Programming files #programming
 * [ ] Complete Piano4All
 * [ ] Complete Blender Character Creator v2.0 for Video Games Design Course
@@ -108,6 +109,9 @@ colorlinks: true
 # Due dates
 
 * [ ] Read Lær Sjakk #chess
+* [ ] Exam Mathematics II -> 07.05.2024 #mathematics
+* [ ] Exam Game Deisgn -> 13.05.2024 #design
+* [ ] Exam Programming II -> 21.05.2024 #programming
 
 ###### Organize each day (triage). Then weekly (big picture)
 

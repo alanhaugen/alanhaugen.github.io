@@ -10,13 +10,14 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Cut nails
+* [x] Shave beard
 * [x] Do some coding
 * [ ] Do some on udemy course
 * [x] Take dry clothes up to room
 * [x] Consider what to do with github pro
 * [ ] Make solid work in browser
 * [ ] Review Getting Things Done in three months -> january-2023
-* [ ] Do global game jam in January
 * [ ] Buy a book shelf
 * [ ] Make tower defence in solid
 * [ ] Make an app out of dallebot

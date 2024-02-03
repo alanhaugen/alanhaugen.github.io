@@ -5,6 +5,9 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Make containers fast in solid
+* [ ] Fix leaks in solid
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action

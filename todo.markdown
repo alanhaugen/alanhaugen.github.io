@@ -7,6 +7,7 @@ colorlinks: true
 
 * [ ] Make containers fast in solid
 * [ ] Fix leaks in solid
+* [ ] Implement The Ladder Game
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

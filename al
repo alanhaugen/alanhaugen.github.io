@@ -179,9 +179,11 @@ echo "
                 cal.colorfulSelect('17/11/2024', 'jsCalendar-colorful-blue');
                 cal.colorfulSelect('5/3/2024', 'jsCalendar-colorful-orange');
                 cal.colorfulSelect('13/3/2024', 'jsCalendar-colorful-orange');
+                cal.colorfulSelect('04/3/2024', 'jsCalendar-colorful-green');
                 }
                 if (month == 4)
                 {
+                cal.colorfulSelect('22/4/2024', 'jsCalendar-colorful-green');
                 }
                 if (month == 5)
                 {

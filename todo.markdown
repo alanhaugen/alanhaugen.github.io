@@ -119,8 +119,10 @@ colorlinks: true
 
 * [ ] Game Design assignemnt 1 -> 05.03.2024 #game-design
 * [ ] Game Design assignemnt 2 -> 12.03.2024 #game-design
+* [ ] Compulsory 2 programming II -> week 10 #programming
+* [ ] Compulsory 3 programming II -> week 17 #programming
 * [ ] Exam Mathematics II -> 07.05.2024 #mathematics
-* [ ] Exam Game Deisgn -> 13.05.2024 #design
+* [ ] Exam Game Design -> 13.05.2024 #game-design
 * [ ] Exam Programming II -> 21.05.2024 #programming
 
 ###### Organize each day (triage). Then weekly (big picture)

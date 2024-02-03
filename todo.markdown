@@ -8,6 +8,9 @@ colorlinks: true
 * [ ] Make containers fast in solid
 * [ ] Fix leaks in solid
 * [ ] Implement The Ladder Game
+* [ ] Implement RPG Craft
+* [ ] Get all due dates in calendar
+* [ ] Start working on the game design docs
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

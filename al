@@ -175,8 +175,10 @@ echo "
                 }
                 if (month == 3)
                 {
-                cal.colorfulSelect('03/11/2023', 'jsCalendar-colorful-orange');
-                cal.colorfulSelect('17/11/2023', 'jsCalendar-colorful-blue');
+                cal.colorfulSelect('03/11/2024', 'jsCalendar-colorful-orange');
+                cal.colorfulSelect('17/11/2024', 'jsCalendar-colorful-blue');
+                cal.colorfulSelect('5/3/2024', 'jsCalendar-colorful-orange');
+                cal.colorfulSelect('13/3/2024', 'jsCalendar-colorful-orange');
                 }
                 if (month == 4)
                 {

@@ -117,7 +117,8 @@ colorlinks: true
 
 # Due dates
 
-* [ ] Read Lær Sjakk #chess
+* [ ] Game Design assignemnt 1 -> 05.03.2024 #game-design
+* [ ] Game Design assignemnt 2 -> 12.03.2024 #game-design
 * [ ] Exam Mathematics II -> 07.05.2024 #mathematics
 * [ ] Exam Game Deisgn -> 13.05.2024 #design
 * [ ] Exam Programming II -> 21.05.2024 #programming

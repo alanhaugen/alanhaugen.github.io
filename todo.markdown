@@ -10,6 +10,7 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Make a Kings Mood prototype in C++ which actually works
 * [x] Cut nails
 * [x] Shave beard
 * [x] Do some coding

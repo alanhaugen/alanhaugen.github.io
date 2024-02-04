@@ -5,18 +5,25 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Make containers fast in solid
-* [ ] Fix leaks in solid
-* [ ] Implement The Ladder Game
-* [ ] Implement RPG Craft
-* [ ] Get all due dates in calendar
-* [ ] Start working on the game design docs
+* [ ] Decompile TLG and get assets in a good format 
+* [ ] Wash clothes
+* [ ] Bring dry clothes up to room
+* [ ] Clean the floors in the flat
+* [ ] Wash the bathroom
+* [ ] Take out the trash
+* [ ] Clean the kitchen and living area
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Make containers fast in solid
+* [ ] Fix leaks in solid
+* [ ] Implement The Ladder Game
+* [ ] Implement RPG Craft
+* [ ] Get all due dates in calendar
+* [ ] Start working on the game design docs
 * [ ] Make a Kings Mood prototype in C++ which actually works
 * [x] Cut nails
 * [x] Shave beard

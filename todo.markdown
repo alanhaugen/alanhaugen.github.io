@@ -12,6 +12,7 @@ colorlinks: true
 * [ ] Wash the bathroom
 * [ ] Take out the trash
 * [ ] Clean the kitchen and living area
+* [ ] Add public licenced typefaces to engine
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

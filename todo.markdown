@@ -13,6 +13,7 @@ colorlinks: true
 * [ ] Take out the trash
 * [ ] Clean the kitchen and living area
 * [ ] Add public licenced typefaces to engine
+* [ ] Make productivity software online
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

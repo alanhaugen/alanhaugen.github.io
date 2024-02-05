@@ -8,6 +8,7 @@ colorlinks: true
 * [ ] Code fencing game in solid
 * [ ] Read for 20 min
 * [ ] Write for 20 min
+* [ ] Take library books back (hamar and inn)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

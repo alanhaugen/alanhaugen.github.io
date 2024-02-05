@@ -6,6 +6,8 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Code fencing game in solid
+* [ ] Read for 20 min
+* [ ] Write for 20 min
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

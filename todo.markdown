@@ -5,14 +5,14 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Take out matavfall
-* [ ] Pante flasker
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Take out matavfall
+* [x] Pante flasker
 * [ ] Code fencing game in solid
 * [ ] Read for 20 min
 * [ ] Write for 20 min

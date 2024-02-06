@@ -5,23 +5,25 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Code fencing game in solid
-* [ ] Read for 20 min
-* [ ] Write for 20 min
-* [ ] Take library books back (hamar and inn)
+* [ ] Take out matavfall
+* [ ] Pante flasker
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Code fencing game in solid
+* [ ] Read for 20 min
+* [ ] Write for 20 min
+* [x] Take library books back (hamar and inn)
 * [x] Decompile TLG and get assets in a good format 
 * [x] Wash clothes
 * [ ] Bring dry clothes up to room
-* [ ] Clean the floors in the flat
-* [ ] Wash the bathroom
+* [x] Clean the floors in the flat
+* [x] Wash the bathroom
 * [x] Take out the trash
-* [ ] Clean the kitchen and living area
+* [x] Clean the kitchen and living area
 * [ ] Add public licenced typefaces to engine
 * [ ] Make productivity software online
 * [ ] Make containers fast in solid
@@ -138,6 +140,7 @@ colorlinks: true
 # Reference material
 ###### All goodies you come across
 
+* Reading list for games school [https://bibsys-up.alma.exlibrisgroup.com/leganto/readinglist/lists](https://bibsys-up.alma.exlibrisgroup.com/leganto/readinglist/lists)
 * Are Modern Macs Really NeXTSTEP in Disguise? [https://www.youtube.com/watch?v=HyitnJQRvu0&t=625s](https://www.youtube.com/watch?v=HyitnJQRvu0&t=625s)
 * Julia: A Fresh Approach to Computing [https://computationalthinking.mit.edu/Fall23/](https://computationalthinking.mit.edu/Fall23/)
 * Implementing Skeletal Animation [https://veeenu.github.io/blog/implementing-skeletal-animation/](https://veeenu.github.io/blog/implementing-skeletal-animation/)

@@ -5,16 +5,17 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Code fencing game in solid
-* [ ] Read for 20 min
-* [ ] Write for 20 min
-* [ ] Take library books back (hamar and inn)
+* [ ] Learn to play with a rubix cube
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Code fencing game in solid
+* [ ] Read for 20 min
+* [ ] Write for 20 min
+* [x] Take library books back (hamar and inn)
 * [x] Decompile TLG and get assets in a good format 
 * [x] Wash clothes
 * [ ] Bring dry clothes up to room

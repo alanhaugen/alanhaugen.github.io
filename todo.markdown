@@ -6,6 +6,7 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Learn to play with a rubix cube
+* [ ] Complete learn rubix cube video [https://www.youtube.com/watch?v=1t1OL2zN0LQ](https://www.youtube.com/watch?v=1t1OL2zN0LQ)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

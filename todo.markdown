@@ -5,14 +5,15 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Learn to play with a rubix cube
-* [ ] Complete learn rubix cube video [https://www.youtube.com/watch?v=1t1OL2zN0LQ](https://www.youtube.com/watch?v=1t1OL2zN0LQ)
+* [ ] Fix solid gles2drawable destructor a drawable is deleted (FPSCounter does not get removed every frame) 
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Complete learn rubix cube video [https://www.youtube.com/watch?v=1t1OL2zN0LQ](https://www.youtube.com/watch?v=1t1OL2zN0LQ)
+* [ ] Learn to play with a rubix cube
 * [ ] Code fencing game in solid
 * [ ] Read for 20 min
 * [ ] Write for 20 min

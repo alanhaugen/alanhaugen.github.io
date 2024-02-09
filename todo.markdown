@@ -5,6 +5,8 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Deliver Deichman books
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action

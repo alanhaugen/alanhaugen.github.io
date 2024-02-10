@@ -5,13 +5,14 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Deliver Deichman books
+* [ ] Check and fix leaks in String class
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Deliver Deichman books
 * [x] Fix solid gles2drawable destructor a drawable is deleted (FPSCounter does not get removed every frame) 
 * [ ] Complete learn rubix cube video [https://www.youtube.com/watch?v=1t1OL2zN0LQ](https://www.youtube.com/watch?v=1t1OL2zN0LQ)
 * [ ] Learn to play with a rubix cube
@@ -23,7 +24,7 @@ colorlinks: true
 * [x] Take library books back (hamar and inn)
 * [x] Decompile TLG and get assets in a good format 
 * [x] Wash clothes
-* [ ] Bring dry clothes up to room
+* [x] Bring dry clothes up to room
 * [x] Clean the floors in the flat
 * [x] Wash the bathroom
 * [x] Take out the trash

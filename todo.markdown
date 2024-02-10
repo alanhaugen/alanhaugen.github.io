@@ -5,7 +5,7 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Check and fix leaks in String class
+* [ ] Check and fix leaks in Sprite class
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

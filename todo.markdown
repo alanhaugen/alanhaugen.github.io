@@ -6,6 +6,7 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Change Uniform system to hash datastructure (current version is insane)
+* [ ] Bring up dry clothes
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

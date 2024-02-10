@@ -5,7 +5,7 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Check and fix leaks in Sprite class
+* [ ] Change Uniform system to hash datastructure (current version is insane)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

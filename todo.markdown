@@ -5,7 +5,6 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Change Uniform system to hash datastructure (current version is insane)
 * [ ] Bring up dry clothes
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
@@ -13,6 +12,7 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Change Uniform system to hash datastructure (current version is insane) (edit: just fixed the leaks, it is still... very insane)
 * [x] Deliver Deichman books
 * [x] Fix solid gles2drawable destructor a drawable is deleted (FPSCounter does not get removed every frame) 
 * [ ] Complete learn rubix cube video [https://www.youtube.com/watch?v=1t1OL2zN0LQ](https://www.youtube.com/watch?v=1t1OL2zN0LQ)

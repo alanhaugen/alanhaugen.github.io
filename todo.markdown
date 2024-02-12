@@ -6,6 +6,7 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Fix solid gles2drawable destructor a drawable is deleted (FPSCounter does not get removed every frame) 
+* [ ] Cut nails
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

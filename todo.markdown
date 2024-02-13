@@ -5,6 +5,7 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Figure out when to meet supervisor game design
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

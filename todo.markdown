@@ -5,13 +5,12 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Get mathematics notes from Scotland out of storage
-
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Get mathematics notes from Scotland out of storage
 * [ ] Figure out when to meet supervisor game design
 * [ ] Fix solid gles2drawable destructor a drawable is deleted (FPSCounter does not get removed every frame) 
 * [x] Cut nails

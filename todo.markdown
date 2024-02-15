@@ -5,6 +5,9 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Make 10 more personal goals
+* [ ] Figure out which one is most important and make it into a project
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action

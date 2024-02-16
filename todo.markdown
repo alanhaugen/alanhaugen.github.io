@@ -6,6 +6,7 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Figure out why there is a ogl warning every time a texture is used for a drawable and see if is the reason performance is hampered when using fpscounter and if fixing it will make the webassembly build start working
+* [ ] Implement pixmap into renderer from now on
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

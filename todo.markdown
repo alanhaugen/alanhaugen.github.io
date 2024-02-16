@@ -17,7 +17,7 @@ colorlinks: true
 * [x] Cut nails
 * [ ] Figure out why fpscounter leaks memory and harms performance
 * [ ] Fix smart pointer class Ptr
-* [ ] Bring up dry clothes
+* [x] Bring up dry clothes
 * [x] Change Uniform system to hash datastructure (current version is insane) (edit: just fixed the leaks, it is still... very insane)
 * [x] Deliver Deichman books
 * [x] Fix solid gles2drawable destructor a drawable is deleted (FPSCounter does not get removed every frame) 

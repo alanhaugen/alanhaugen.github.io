@@ -5,13 +5,14 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Implement multi texture support (bump maps!)
+* [ ] Fix all warnings in solid
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Implement multi texture support (bump maps!)
 * [ ] Figure out why there is a ogl warning every time a texture is used for a drawable and see if is the reason performance is hampered when using fpscounter and if fixing it will make the webassembly build start working
 * [ ] Implement pixmap into renderer from now on
 * [ ] Make 10 more personal goals

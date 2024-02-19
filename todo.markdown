@@ -9,6 +9,7 @@ colorlinks: true
 * [ ] Do oblig 2 maths
 * [ ] Write a little on report and GDD
 * [ ] Fix all warnings in solid
+* [ ] Clean the kitchen (especially before 27.)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

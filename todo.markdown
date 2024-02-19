@@ -8,20 +8,24 @@ colorlinks: true
 * [ ] Clean computer
 * [ ] Do oblig 2 maths
 * [ ] Write a little on report and GDD
+* [ ] Fix all warnings in solid
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Implement multi texture support (bump maps!)
+* [ ] Figure out why there is a ogl warning every time a texture is used for a drawable and see if is the reason performance is hampered when using fpscounter and if fixing it will make the webassembly build start working
+* [ ] Implement pixmap into renderer from now on
 * [ ] Make 10 more personal goals
 * [ ] Figure out which one is most important and make it into a project
 * [x] Get mathematics notes from Scotland out of storage
-* [ ] Figure out when to meet supervisor game design
-* [ ] Fix solid gles2drawable destructor a drawable is deleted (FPSCounter does not get removed every frame) 
+* [x] Figure out when to meet supervisor game design
+* [x] Fix solid gles2drawable destructor a drawable is deleted (FPSCounter does not get removed every frame) 
 * [x] Cut nails
-* [ ] Figure out why fpscounter leaks memory and harms performance
-* [ ] Fix smart pointer class Ptr
+* [x] Figure out why fpscounter leaks memory and harms performance
+* [x] Fix smart pointer class Ptr
 * [x] Bring up dry clothes
 * [x] Change Uniform system to hash datastructure (current version is insane) (edit: just fixed the leaks, it is still... very insane)
 * [x] Deliver Deichman books

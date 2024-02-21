@@ -5,6 +5,8 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Bring dry clothes up to room
+* [ ] Cut nails
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

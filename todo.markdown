@@ -5,14 +5,16 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Bring dry clothes up to room
-* [ ] Cut nails
+* [ ] Update Unreal
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Bring dry clothes up to room
+* [ ] Cut nails
+* [ ] Find calculator (or buy new one and put name and number on it)
 * [x] Clean computer
 * [ ] Do oblig 2 maths
 * [ ] Write a little on report and GDD

@@ -11,6 +11,15 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Do oblig 2 maths
+* [ ] Implement The Ladder Game
+* [ ] Implement RPG Craft
+* [ ] Fix leaks in solid
+* [ ] Get all due dates in calendar
+* [ ] Start working on the game design docs
+* [ ] Make a Kings Mood prototype in C++ which actually works
+* [ ] Do some on udemy course
+* [ ] Make solid work in browser
 * [x] Clean computer
 * [ ] Do oblig 2 maths
 * [ ] Write a little on report and GDD
@@ -49,14 +58,6 @@ colorlinks: true
 * [ ] Add public licenced typefaces to engine
 * [ ] Make productivity software online
 * [ ] Make containers fast in solid
-* [ ] Fix leaks in solid
-* [ ] Implement The Ladder Game
-* [ ] Implement RPG Craft
-* [ ] Get all due dates in calendar
-* [ ] Start working on the game design docs
-* [ ] Make a Kings Mood prototype in C++ which actually works
-* [ ] Do some on udemy course
-* [ ] Make solid work in browser
 * [ ] Review Getting Things Done in three months -> january-2023
 * [ ] Buy a book shelf
 * [ ] Make tower defence in solid

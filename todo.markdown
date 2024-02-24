@@ -21,7 +21,7 @@ colorlinks: true
 * [ ] Do some on udemy course
 * [ ] Make solid work in browser
 * [ ] Bring dry clothes up to room
-* [ ] Cut nails
+* [x] Cut nails
 * [ ] Find calculator (or buy new one and put name and number on it)
 * [x] Clean computer
 * [ ] Do oblig 2 maths

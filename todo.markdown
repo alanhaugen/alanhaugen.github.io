@@ -5,14 +5,24 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Implement Dungeon Crawler
-* [ ] Implement a new game concept
+* [ ] Fix references game design
+* [ ] Find earlier reserach game design
+* [ ] Make button work TLG
+* [ ] Design first level TLG
+* [ ] Design first boss TLG
+* [ ] Design second level TLG
+* [ ] Design second boss TLG
+* [ ] Design third and last level TLG
+* [ ] Complete udemy c++ unreal section 2
+* [ ] Complete udemy c++ unreal section 3
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Implement Dungeon Crawler
+* [ ] Implement a new game concept (investigate crime scene)
 * [x] Update Unreal
 * [x] Do oblig 2 maths
 * [ ] Implement The Ladder Game

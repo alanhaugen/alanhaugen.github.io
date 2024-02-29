@@ -5,6 +5,16 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Finish writing game analysis draft -> 5. March
+* [ ] Contribute to Art Bible 7. mars
+* [ ] Write a solid version of GDD -> 12. March
+* [ ] Write three pages of the report for board game -> 1. March
+
+###### #calls #atComputer #errands #office #atHome #agendas #read
+
+# Action
+###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
+
 * [ ] Fix references game design
 * [ ] Find earlier reserach game design
 * [ ] Make button work TLG
@@ -15,12 +25,6 @@ colorlinks: true
 * [ ] Design third and last level TLG
 * [ ] Complete udemy c++ unreal section 2
 * [ ] Complete udemy c++ unreal section 3
-
-###### #calls #atComputer #errands #office #atHome #agendas #read
-
-# Action
-###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
-
 * [ ] Implement Dungeon Crawler
 * [ ] Implement a new game concept (investigate crime scene)
 * [x] Update Unreal

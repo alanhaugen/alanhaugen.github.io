@@ -16,7 +16,7 @@ colorlinks: true
 * [ ] Make egg 3D model for board game -> 6. March
 * [ ] Make gemestone 3D model for board game -> 6. March
 * [ ] Import models into Tabletop Simulator -> 6. March
-* [ ] Make start game code and start game button -> 6. March
+* [x] Make start game code and start game button -> 6. March
 * [x] Get the newest board game design into Tabletop Simulator -> 6. March
 * [ ] Make select amount of players screen (and display colors for each player, player 2 - 6) -> 7. March
 * [ ] Make first level prototype for The Castle prototype -> 6. March

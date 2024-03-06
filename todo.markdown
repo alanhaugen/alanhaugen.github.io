@@ -5,15 +5,40 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Update Unreal
+* [ ] Finish writing game analysis draft -> 5. March
+* [ ] Contribute to Art Bible 7. mars
+* [ ] Write a solid version of GDD -> 12. March
+* [ ] Write three pages of the report for board game -> 1. March
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Fix references game design
+* [ ] Find earlier reserach game design
+* [ ] Make button work TLG
+* [ ] Design first level TLG
+* [ ] Design first boss TLG
+* [ ] Design second level TLG
+* [ ] Design second boss TLG
+* [ ] Design third and last level TLG
+* [ ] Complete udemy c++ unreal section 2
+* [ ] Complete udemy c++ unreal section 3
+* [ ] Implement Dungeon Crawler
+* [ ] Implement a new game concept (investigate crime scene)
+* [x] Update Unreal
+* [x] Do oblig 2 maths
+* [ ] Implement The Ladder Game
+* [ ] Implement RPG Craft
+* [ ] Fix leaks in solid
+* [ ] Get all due dates in calendar
+* [ ] Start working on the game design docs
+* [ ] Make a Kings Mood prototype in C++ which actually works
+* [ ] Do some on udemy course
+* [ ] Make solid work in browser
 * [ ] Bring dry clothes up to room
-* [ ] Cut nails
+* [x] Cut nails
 * [ ] Find calculator (or buy new one and put name and number on it)
 * [x] Clean computer
 * [ ] Do oblig 2 maths
@@ -53,14 +78,6 @@ colorlinks: true
 * [ ] Add public licenced typefaces to engine
 * [ ] Make productivity software online
 * [ ] Make containers fast in solid
-* [ ] Fix leaks in solid
-* [ ] Implement The Ladder Game
-* [ ] Implement RPG Craft
-* [ ] Get all due dates in calendar
-* [ ] Start working on the game design docs
-* [ ] Make a Kings Mood prototype in C++ which actually works
-* [ ] Do some on udemy course
-* [ ] Make solid work in browser
 * [ ] Review Getting Things Done in three months -> january-2023
 * [ ] Buy a book shelf
 * [ ] Make tower defence in solid

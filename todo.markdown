@@ -14,6 +14,8 @@ colorlinks: true
 * [ ] Make start game code and start game button -> 6. March
 * [ ] Get the newest board game design into Tabletop Simulator -> 6. March
 * [ ] Make select amount of players screen (and display colors for each player, player 2 - 6) -> 7. March
+* [ ] Make first level prototype for The Castle prototype -> 6. March
+* [ ] Go to councelor and talk about my struggles in teamwork
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

@@ -190,6 +190,7 @@ colorlinks: true
 * Get an amazing girlfriend and loving relationships
 * Start the ultimate lifeform project
 * Make The Castle
+* Make Simulating Ecological Systems in C inspired video games
 * Make Lingua Quest
 * Make Speed Cars
 * Make Spring Man

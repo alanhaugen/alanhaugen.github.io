@@ -5,26 +5,35 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Finish writing game analysis draft -> 5. March
-* [ ] Contribute to Art Bible 7. mars
-* [ ] Write a solid version of GDD -> 12. March
-* [ ] Write three pages of the report for board game -> 1. March
+* [ ] Make a simple logo for board game -> 6. March
+* [ ] Write rule book for board game -> 6. March
+* [ ] Make dwarf 3D model for board game -> 6. March
+* [ ] Make egg 3D model for board game -> 6. March
+* [ ] Make gemestone 3D model for board game -> 6. March
+* [ ] Import models into Tabletop Simulator -> 6. March
+* [ ] Make start game code and start game button -> 6. March
+* [ ] Get the newest board game design into Tabletop Simulator -> 6. March
+* [ ] Make select amount of players screen (and display colors for each player, player 2 - 6) -> 7. March
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
-* [ ] Fix references game design
-* [ ] Find earlier reserach game design
-* [ ] Make button work TLG
+* [x] Finish writing game analysis draft -> 5. March
+* [x] Contribute to Art Bible 7. mars
+* [x] Write a solid version of GDD -> 12. March
+* [x] Write three pages of the report for board game -> 1. March
+* [x] Fix references game design
+* [x] Find research papers for game analysis game design
+* [x] Make button work TLG
 * [ ] Design first level TLG
 * [ ] Design first boss TLG
 * [ ] Design second level TLG
 * [ ] Design second boss TLG
 * [ ] Design third and last level TLG
-* [ ] Complete udemy c++ unreal section 2
-* [ ] Complete udemy c++ unreal section 3
+* [x] Complete udemy c++ unreal section 2
+* [x] Complete udemy c++ unreal section 3
 * [ ] Implement Dungeon Crawler
 * [ ] Implement a new game concept (investigate crime scene)
 * [x] Update Unreal

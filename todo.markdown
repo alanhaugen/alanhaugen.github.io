@@ -5,23 +5,22 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Make a simple logo for board game -> 6. March
+###### #calls #atComputer #errands #office #atHome #agendas #read
+
+# Action
+###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
+
+* [x] Make a simple logo for board game -> 6. March
 * [ ] Write rule book for board game -> 6. March
 * [ ] Make dwarf 3D model for board game -> 6. March
 * [ ] Make egg 3D model for board game -> 6. March
 * [ ] Make gemestone 3D model for board game -> 6. March
 * [ ] Import models into Tabletop Simulator -> 6. March
 * [ ] Make start game code and start game button -> 6. March
-* [ ] Get the newest board game design into Tabletop Simulator -> 6. March
+* [x] Get the newest board game design into Tabletop Simulator -> 6. March
 * [ ] Make select amount of players screen (and display colors for each player, player 2 - 6) -> 7. March
 * [ ] Make first level prototype for The Castle prototype -> 6. March
 * [ ] Go to councelor and talk about my struggles in teamwork
-
-###### #calls #atComputer #errands #office #atHome #agendas #read
-
-# Action
-###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
-
 * [x] Finish writing game analysis draft -> 5. March
 * [x] Contribute to Art Bible 7. mars
 * [x] Write a solid version of GDD -> 12. March

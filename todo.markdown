@@ -5,6 +5,8 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Install War Selection
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action

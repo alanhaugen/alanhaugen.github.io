@@ -12,9 +12,9 @@ colorlinks: true
 
 * [x] Make a simple logo for board game -> 6. March
 * [ ] Write rule book for board game -> 6. March
-* [ ] Make dwarf 3D model for board game -> 6. March
-* [ ] Make egg 3D model for board game -> 6. March
-* [ ] Make gemestone 3D model for board game -> 6. March
+* [x] Make dwarf 3D model for board game -> 6. March
+* [x] Make egg 3D model for board game -> 6. March
+* [x] Make gemestone 3D model for board game -> 6. March
 * [ ] Import models into Tabletop Simulator -> 6. March
 * [x] Make start game code and start game button -> 6. March
 * [x] Get the newest board game design into Tabletop Simulator -> 6. March

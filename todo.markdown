@@ -19,6 +19,7 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Review Getting Things Done in three months -> march-2023
 * [x] Make a simple logo for board game -> 6. March
 * [ ] Write rule book for board game -> 6. March
 * [x] Make dwarf 3D model for board game -> 6. March
@@ -97,7 +98,6 @@ colorlinks: true
 * [ ] Add public licenced typefaces to engine
 * [ ] Make productivity software online
 * [ ] Make containers fast in solid
-* [ ] Review Getting Things Done in three months -> january-2023
 * [ ] Buy a book shelf
 * [ ] Make tower defence in solid
 * [ ] Make an app out of dallebot

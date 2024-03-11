@@ -11,6 +11,7 @@ colorlinks: true
 * [ ] Recommend someone does the cards
 * [ ] Update the game design document, add timeline and who does what
 * [ ] Make a calendar for the team
+* [ ] Make a schedule for the games
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

@@ -6,6 +6,7 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Install War Selection
+* [ ] Make background for gem chase rulebook darker
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

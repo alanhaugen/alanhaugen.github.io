@@ -5,28 +5,28 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Install War Selection
-* [ ] Make background for gem chase rulebook darker
-* [ ] Cut fingernails
-* [ ] Recommend someone does the cards
-* [ ] Update the game design document, add timeline and who does what
-* [ ] Make a calendar for the team
-* [ ] Make a schedule for the games
-* [ ] Buy some beads
-* [ ] Make beginning of game Unreal engine
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Install War Selection
+* [x] Make background for gem chase rulebook darker
+* [x] Cut fingernails
+* [ ] Recommend someone does the cards
+* [ ] Update the game design document, add timeline and who does what
+* [ ] Make a calendar for the team
+* [ ] Make a schedule for the games
+* [ ] Buy some beads
+* [ ] Make beginning of game Unreal engine
 * [ ] Review Getting Things Done in three months -> march-2023
 * [x] Make a simple logo for board game -> 6. March
-* [ ] Write rule book for board game -> 6. March
+* [x] Write rule book for board game -> 6. March
 * [x] Make dwarf 3D model for board game -> 6. March
 * [x] Make egg 3D model for board game -> 6. March
 * [x] Make gemestone 3D model for board game -> 6. March
-* [ ] Import models into Tabletop Simulator -> 6. March
+* [x] Import models into Tabletop Simulator -> 6. March
 * [x] Make start game code and start game button -> 6. March
 * [x] Get the newest board game design into Tabletop Simulator -> 6. March
 * [ ] Make select amount of players screen (and display colors for each player, player 2 - 6) -> 7. March

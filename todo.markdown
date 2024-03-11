@@ -5,6 +5,7 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Add rulebook to tabletop simulator
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

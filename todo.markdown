@@ -7,6 +7,10 @@ colorlinks: true
 
 * [ ] Install War Selection
 * [ ] Make background for gem chase rulebook darker
+* [ ] Cut fingernails
+* [ ] Recommend someone does the cards
+* [ ] Update the game design document, add timeline and who does what
+* [ ] Make a calendar for the team
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

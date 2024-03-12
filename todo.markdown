@@ -19,7 +19,7 @@ colorlinks: true
 * [ ] Update the game design document, add timeline and who does what
 * [ ] Make a calendar for the team
 * [ ] Make a schedule for the games
-* [ ] Buy some beads
+* [x] Buy some beads
 * [ ] Make beginning of game Unreal engine
 * [ ] Review Getting Things Done in three months -> march-2023
 * [x] Make a simple logo for board game -> 6. March

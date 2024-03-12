@@ -10,6 +10,8 @@ colorlinks: true
 * [ ] Add and test turns to tabletop simualtor
 * [ ] Set all player colours in tabletop simulator
 * [ ] Make custom background tabletop simulator
+* [ ] Print 3D models for tabletop simulator
+* [ ] Add mission and chance cards to tabletop simulator
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

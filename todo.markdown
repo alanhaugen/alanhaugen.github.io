@@ -12,6 +12,8 @@ colorlinks: true
 * [ ] Make custom background tabletop simulator
 * [ ] Print 3D models for tabletop simulator
 * [ ] Add mission and chance cards to tabletop simulator
+* [ ] Generate some example cards for tabletop simulator
+* [ ] Translate cards into English
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

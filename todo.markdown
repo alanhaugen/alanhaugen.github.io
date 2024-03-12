@@ -6,6 +6,9 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Add rulebook to tabletop simulator
+* [ ] Add rules to notebook in tabletop simulator
+* [ ] Add and test turns to tabletop simualtor
+* [ ] Set all player colours in tabletop simulator
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

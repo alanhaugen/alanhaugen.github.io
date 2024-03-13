@@ -12,6 +12,7 @@ colorlinks: true
 * [ ] Make custom background tabletop simulator
 * [ ] Print 3D models for tabletop simulator
 * [ ] Add mission and chance cards to tabletop simulator
+* [ ] Add path obstruction objects to tabletop simulator
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

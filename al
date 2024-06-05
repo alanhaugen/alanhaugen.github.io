@@ -194,11 +194,18 @@ echo "
                 }
             }
 
-            makeCal(1); // January
-            makeCal(2); // February
-            makeCal(3); // March
-            makeCal(4); // April
-            makeCal(5); // May
+            //makeCal(1); // January
+            //makeCal(2); // February
+            //makeCal(3); // March
+            //makeCal(4); // April
+            //makeCal(5); // May
+            makeCal(6); // June
+            makeCal(7); // July
+            makeCal(8); // August
+            makeCal(9); // September
+            makeCal(10); // October
+            makeCal(11); // November
+            makeCal(12); // December
 
 
 function addWeekColumn(calendar)

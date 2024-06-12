@@ -21,12 +21,8 @@ colorlinks: true
 * [ ] Design second level TLG
 * [ ] Design second boss TLG
 * [ ] Design third and last level TLG
-* [x] Complete udemy c++ unreal section 2
-* [x] Complete udemy c++ unreal section 3
 * [ ] Implement Dungeon Crawler
 * [ ] Implement a new game concept (investigate crime scene)
-* [x] Update Unreal
-* [x] Do oblig 2 maths
 * [ ] Implement The Ladder Game
 * [ ] Implement RPG Craft
 * [ ] Fix leaks in solid
@@ -36,9 +32,7 @@ colorlinks: true
 * [ ] Do some on udemy course
 * [ ] Make solid work in browser
 * [ ] Bring dry clothes up to room
-* [x] Cut nails
 * [ ] Find calculator (or buy new one and put name and number on it)
-* [x] Clean computer
 * [ ] Do oblig 2 maths
 * [ ] Write a little on report and GDD
 * [ ] Fix all warnings in solid
@@ -48,31 +42,10 @@ colorlinks: true
 * [ ] Implement pixmap into renderer from now on
 * [ ] Make 10 more personal goals
 * [ ] Figure out which one is most important and make it into a project
-* [x] Get mathematics notes from Scotland out of storage
-* [x] Figure out when to meet supervisor game design
-* [x] Fix solid gles2drawable destructor a drawable is deleted (FPSCounter does not get removed every frame) 
-* [x] Cut nails
-* [x] Figure out why fpscounter leaks memory and harms performance
-* [x] Fix smart pointer class Ptr
-* [x] Bring up dry clothes
-* [x] Change Uniform system to hash datastructure (current version is insane) (edit: just fixed the leaks, it is still... very insane)
-* [x] Deliver Deichman books
-* [x] Fix solid gles2drawable destructor a drawable is deleted (FPSCounter does not get removed every frame) 
 * [ ] Complete learn rubix cube video [https://www.youtube.com/watch?v=1t1OL2zN0LQ](https://www.youtube.com/watch?v=1t1OL2zN0LQ)
 * [ ] Learn to play with a rubix cube
 * [ ] Code fencing game in solid
 * [ ] Read for 20 min
-* [ ] Write for 20 min
-* [x] Take out matavfall
-* [x] Pante flasker
-* [x] Take library books back (hamar and inn)
-* [x] Decompile TLG and get assets in a good format 
-* [x] Wash clothes
-* [x] Bring dry clothes up to room
-* [x] Clean the floors in the flat
-* [x] Wash the bathroom
-* [x] Take out the trash
-* [x] Clean the kitchen and living area
 * [ ] Add public licenced typefaces to engine
 * [ ] Make productivity software online
 * [ ] Make containers fast in solid
@@ -134,33 +107,16 @@ colorlinks: true
 # Long term plan
 ###### Update Weekly
 
-* [ ] Exam Practice Mathematics #mathematics
-* [ ] Exam Mathematics II -> 07.05.2024 #mathematics
-* [ ] Exam Game Deisgn -> 13.05.2024 #design
-* [ ] Exam Programming II -> 21.05.2024 #programming
-* [x] Go to programming lecture 1 -> 11.01.2024
-* [x] Go to programming lecture 3 -> 25.01.2024
-* [x] Go to programming lecture 4 -> 01.02.2024
-* [x] Go to programming lecture 5 -> 08.02.2024
-* [x] Go to programming lecture 6 -> 15.02.2024
-* [x] Go to programming lecture 7 -> 22.02.2024
-* [x] Go to programming lecture 8 -> 07.03.2024
-* [ ] Go to programming lecture 9 -> 14.03.2024
-* [ ] Go to programming lecture 10 -> 21.03.2024
-* [ ] Go to programming lecture 11 -> 04.04.2024
-* [ ] Go to programming lecture 12 -> 11.04.2024
-* [ ] Go to programming lecture 13 -> 18.04.2024
-* [ ] Go to programming lecture 14 -> 25.04.2024
-* [ ] Go to programming lecture 15 -> 02.05.2024
-* [ ] Modern Graphics Programming files #programming
 * [ ] Complete Piano4All
 * [ ] Complete Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
 * [x] Complete Semester 1 Game School [https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host](https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host)
-* [ ] Complete Semester 2 Game School [https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host](https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host)
+* [x] Complete Semester 2 Game School [https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host](https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host)
 * [ ] Do drawabox.com course
 * [ ] Learn to make music [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
 * [ ] Write paper for mdpi
+* [ ] Complete Unreal Engine course on udemy Ultimate
+* [ ] Complete Unreal Engine course on udemy FPS
 
 # Project reference material
 ###### TODO: Maybe make a website for each project?

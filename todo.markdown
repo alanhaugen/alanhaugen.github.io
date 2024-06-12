@@ -5,8 +5,8 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Go for a walk in the morning
-* [ ] Buy the book Jacked
+* [x] Go for a walk in the morning
+* [x] Buy the book Jacked
 * [ ] Read for 20 minutes
 * [ ] Draw for 30 minutes
 

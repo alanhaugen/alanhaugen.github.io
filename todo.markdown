@@ -110,8 +110,6 @@ colorlinks: true
 * [ ] Complete Piano4All
 * [ ] Complete Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
-* [x] Complete Semester 1 Game School [https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host](https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host)
-* [x] Complete Semester 2 Game School [https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host](https://studiekatalog.edutorium.no/inn/nb/program/B2VISIM/2023-host)
 * [ ] Do drawabox.com course
 * [ ] Learn to make music [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
 * [ ] Write paper for mdpi
@@ -136,7 +134,6 @@ colorlinks: true
 # Reference material
 ###### All goodies you come across
 
-* Reading list for games school [https://bibsys-up.alma.exlibrisgroup.com/leganto/readinglist/lists](https://bibsys-up.alma.exlibrisgroup.com/leganto/readinglist/lists)
 * Are Modern Macs Really NeXTSTEP in Disguise? [https://www.youtube.com/watch?v=HyitnJQRvu0&t=625s](https://www.youtube.com/watch?v=HyitnJQRvu0&t=625s)
 * Julia: A Fresh Approach to Computing [https://computationalthinking.mit.edu/Fall23/](https://computationalthinking.mit.edu/Fall23/)
 * Implementing Skeletal Animation [https://veeenu.github.io/blog/implementing-skeletal-animation/](https://veeenu.github.io/blog/implementing-skeletal-animation/)

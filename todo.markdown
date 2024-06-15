@@ -5,16 +5,19 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [x] Go for a walk in the morning
-* [x] Buy the book Jacked
-* [ ] Read for 20 minutes
-* [ ] Draw for 30 minutes
+* [ ] Consider what to do with Paulius
+* [ ] Go to dentist
+* [ ] Help Paul with RTS
+* [ ] Help Erik with coding
+* [ ] Go to inspection meeting on Thursday
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Read for 20 minutes
+* [ ] Draw for 30 minutes
 * [ ] Review Getting Things Done in three months -> march-2023
 * [ ] Design first level TLG
 * [ ] Design first boss TLG

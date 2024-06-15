@@ -5,11 +5,13 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Consider what to do with Paulius
+* [ ] Take Paulius to Lier or change plan
 * [ ] Go to dentist
 * [ ] Help Paul with RTS
-* [ ] Help Erik with coding
+* [x] Help Erik with coding
 * [ ] Go to inspection meeting on Thursday
+* [ ] Retrieve flash card from Håvard
+* [ ] Begin learning about databases and look at [Databases and Networks](https://studiekatalog.edutorium.no/inn/en/course/2DAN101/2024-autumn) 
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -118,6 +120,7 @@ colorlinks: true
 * [ ] Write paper for mdpi
 * [ ] Complete Unreal Engine course on udemy Ultimate
 * [ ] Complete Unreal Engine course on udemy FPS
+* [ ] Complete third semester Game School [https://studiekatalog.edutorium.no/inn/nb/programme/B2VISIM/2023](https://studiekatalog.edutorium.no/inn/nb/programme/B2VISIM/2023)
 
 # Project reference material
 ###### TODO: Maybe make a website for each project?

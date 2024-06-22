@@ -5,6 +5,9 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Write productivity software web-based
+* [ ] Write a drawing program like DX-Paint https://www.datagubbe.se/dpaint
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action

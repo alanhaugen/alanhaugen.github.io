@@ -5,19 +5,18 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Take Paulius to Lier or change plan
-* [ ] Go to dentist
-* [ ] Help Paul with RTS
-* [x] Help Erik with coding
-* [ ] Go to inspection meeting on Thursday
-* [ ] Retrieve flash card from Håvard
-* [ ] Begin learning about databases and look at [Databases and Networks](https://studiekatalog.edutorium.no/inn/en/course/2DAN101/2024-autumn) 
-
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [x] Take Paulius to Lier or change plan
+* [x] Go to dentist
+* [ ] Help Paul with RTS
+* [x] Help Erik with coding
+* [x] Go to inspection meeting on Thursday
+* [ ] Retrieve flash card from Håvard
+* [ ] Begin learning about databases and look at [Databases and Networks](https://studiekatalog.edutorium.no/inn/en/course/2DAN101/2024-autumn) 
 * [ ] Read for 20 minutes
 * [ ] Draw for 30 minutes
 * [ ] Review Getting Things Done in three months -> march-2023

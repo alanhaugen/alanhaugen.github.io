@@ -5,6 +5,7 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+<<<<<<< HEAD
 * [ ] Take Paulius to Lier or change plan
 * [ ] Go to dentist
 * [ ] Help Paul with RTS
@@ -13,12 +14,30 @@ colorlinks: true
 * [ ] Retrieve flash card from Håvard
 * [ ] Model chess pieces as practice
 * [ ] Begin learning about databases and look at [Databases and Networks](https://studiekatalog.edutorium.no/inn/en/course/2DAN101/2024-autumn) 
+=======
+* [ ] Make dog walking game, Dogorama
+* [ ] Consider sandsi project
+* [ ] Make interesting 2D platformer
+* [ ] Consider [https://tailwindcss.com](https://tailwindcss.com)
+* [ ] Til5 trauma centre
+* [ ] Car game
+* [ ] Piano game
+* [ ] Consider [https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551](https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551)
+* [ ] Consider [https://beej.us/guide/bgnet/](https://beej.us/guide/bgnet/)
+>>>>>>> 937aec1cc94494970febae6aef1bbf5694222367
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Figure out why there is a ogl warning every time a texture is used for a drawable and see if is the reason performance is hampered when using fpscounter and if fixing it will make the webassembly build start working
+* [ ] Look through old notebooks
+* [ ] Write productivity software web-based
+* [ ] Write a drawing program like DX-Paint [https://www.datagubbe.se/dpaint](https://www.datagubbe.se/dpaint)
+* [ ] Help Paul with RTS
+* [ ] Retrieve flash card from Håvard
+* [ ] Begin learning about databases and look at [Databases and Networks](https://studiekatalog.edutorium.no/inn/en/course/2DAN101/2024-autumn) 
 * [ ] Read for 20 minutes
 * [ ] Draw for 30 minutes
 * [ ] Review Getting Things Done in three months -> march-2023
@@ -44,7 +63,6 @@ colorlinks: true
 * [ ] Fix all warnings in solid
 * [ ] Clean the kitchen (especially before 27.)
 * [ ] Implement multi texture support (bump maps!)
-* [ ] Figure out why there is a ogl warning every time a texture is used for a drawable and see if is the reason performance is hampered when using fpscounter and if fixing it will make the webassembly build start working
 * [ ] Implement pixmap into renderer from now on
 * [ ] Make 10 more personal goals
 * [ ] Figure out which one is most important and make it into a project

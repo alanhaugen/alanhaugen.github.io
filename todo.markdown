@@ -5,7 +5,6 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-<<<<<<< HEAD
 * [ ] Take Paulius to Lier or change plan
 * [ ] Go to dentist
 * [ ] Help Paul with RTS
@@ -14,7 +13,6 @@ colorlinks: true
 * [ ] Retrieve flash card from Håvard
 * [ ] Model chess pieces as practice
 * [ ] Begin learning about databases and look at [Databases and Networks](https://studiekatalog.edutorium.no/inn/en/course/2DAN101/2024-autumn) 
-=======
 * [ ] Make dog walking game, Dogorama
 * [ ] Consider sandsi project
 * [ ] Make interesting 2D platformer
@@ -24,7 +22,6 @@ colorlinks: true
 * [ ] Piano game
 * [ ] Consider [https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551](https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551)
 * [ ] Consider [https://beej.us/guide/bgnet/](https://beej.us/guide/bgnet/)
->>>>>>> 937aec1cc94494970febae6aef1bbf5694222367
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

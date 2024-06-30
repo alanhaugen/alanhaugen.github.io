@@ -18,6 +18,7 @@ colorlinks: true
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Figure out why there is a ogl warning every time a texture is used for a drawable and see if is the reason performance is hampered when using fpscounter and if fixing it will make the webassembly build start working
 * [ ] Look through old notebooks
 * [ ] Write productivity software web-based
 * [ ] Write a drawing program like DX-Paint [https://www.datagubbe.se/dpaint](https://www.datagubbe.se/dpaint)
@@ -49,7 +50,6 @@ colorlinks: true
 * [ ] Fix all warnings in solid
 * [ ] Clean the kitchen (especially before 27.)
 * [ ] Implement multi texture support (bump maps!)
-* [ ] Figure out why there is a ogl warning every time a texture is used for a drawable and see if is the reason performance is hampered when using fpscounter and if fixing it will make the webassembly build start working
 * [ ] Implement pixmap into renderer from now on
 * [ ] Make 10 more personal goals
 * [ ] Figure out which one is most important and make it into a project

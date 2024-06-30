@@ -5,6 +5,7 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Make dog walking game
 * [ ] Consider sandsi project
 * [ ] Consider [https://tailwindcss.com](https://tailwindcss.com)
 

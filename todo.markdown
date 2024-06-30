@@ -13,6 +13,7 @@ colorlinks: true
 * [ ] Car game
 * [ ] Piano game
 * [ ] Consider [https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551](https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551)
+* [ ] Consider [https://beej.us/guide/bgnet/](https://beej.us/guide/bgnet/)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

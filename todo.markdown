@@ -5,13 +5,15 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Look through old notebooks
+* [ ] Consider sandsi project
+* [ ] Consider [https://tailwindcss.com](https://tailwindcss.com)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Look through old notebooks
 * [ ] Write productivity software web-based
 * [ ] Write a drawing program like DX-Paint https://www.datagubbe.se/dpaint
 * [ ] Help Paul with RTS

@@ -5,9 +5,13 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Make dog walking game
+* [ ] Make dog walking game, Dogorama
 * [ ] Consider sandsi project
+* [ ] Make interesting 2D platformer
 * [ ] Consider [https://tailwindcss.com](https://tailwindcss.com)
+* [ ] Til5 trauma centre
+* [ ] Car game
+* [ ] Piano game
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -16,7 +20,7 @@ colorlinks: true
 
 * [ ] Look through old notebooks
 * [ ] Write productivity software web-based
-* [ ] Write a drawing program like DX-Paint https://www.datagubbe.se/dpaint
+* [ ] Write a drawing program like DX-Paint [https://www.datagubbe.se/dpaint](https://www.datagubbe.se/dpaint)
 * [ ] Help Paul with RTS
 * [ ] Retrieve flash card from Håvard
 * [ ] Begin learning about databases and look at [Databases and Networks](https://studiekatalog.edutorium.no/inn/en/course/2DAN101/2024-autumn) 

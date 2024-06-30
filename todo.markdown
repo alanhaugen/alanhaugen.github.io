@@ -12,6 +12,7 @@ colorlinks: true
 * [ ] Til5 trauma centre
 * [ ] Car game
 * [ ] Piano game
+* [ ] Consider [https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551](https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551)
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 

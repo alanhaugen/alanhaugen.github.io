@@ -11,6 +11,7 @@ colorlinks: true
 * [x] Help Erik with coding
 * [ ] Go to inspection meeting on Thursday
 * [ ] Retrieve flash card from Håvard
+* [ ] Model chess pieces as practice
 * [ ] Begin learning about databases and look at [Databases and Networks](https://studiekatalog.edutorium.no/inn/en/course/2DAN101/2024-autumn) 
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read

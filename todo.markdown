@@ -6,7 +6,6 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Register for all exams innlandet
-* [x] Help Erik with coding
 * [ ] Model chess pieces as practice
 * [ ] Make dog walking game, Dogorama
 * [ ] Consider sandsi project

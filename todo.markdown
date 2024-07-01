@@ -5,6 +5,8 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Redesign shared uniforms solid
+
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action

@@ -5,6 +5,12 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+###### #calls #atComputer #errands #office #atHome #agendas #read
+
+# Action
+###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
+
+* [ ] Solve shared uniforms memory problem in solid
 * [ ] Register for all exams innlandet
 * [ ] Model chess pieces as practice
 * [ ] Make dog walking game, Dogorama
@@ -16,12 +22,6 @@ colorlinks: true
 * [ ] Piano game
 * [ ] Consider [https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551](https://www.amazon.com/Unix-Network-Programming-Sockets-Networking/dp/0131411551)
 * [ ] Consider [https://beej.us/guide/bgnet/](https://beej.us/guide/bgnet/)
-
-###### #calls #atComputer #errands #office #atHome #agendas #read
-
-# Action
-###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
-
 * [ ] Figure out why there is a ogl warning every time a texture is used for a drawable and see if is the reason performance is hampered when using fpscounter and if fixing it will make the webassembly build start working
 * [ ] Look through old notebooks
 * [ ] Write productivity software web-based

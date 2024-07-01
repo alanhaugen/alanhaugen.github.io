@@ -6,17 +6,11 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Register for all exams innlandet
-* [ ] Take Paulius to Lier or change plan
-* [ ] Go to dentist
-* [ ] Help Paul with RTS
 * [x] Help Erik with coding
-* [ ] Go to inspection meeting on Thursday
-* [ ] Retrieve flash card from Håvard
 * [ ] Model chess pieces as practice
-* [ ] Begin learning about databases and look at [Databases and Networks](https://studiekatalog.edutorium.no/inn/en/course/2DAN101/2024-autumn) 
 * [ ] Make dog walking game, Dogorama
 * [ ] Consider sandsi project
-* [ ] Make interesting 2D platformer
+* [ ] Make interesting 2D platformer, parallax scrolling, pixel art of prerend?
 * [ ] Consider [https://tailwindcss.com](https://tailwindcss.com)
 * [ ] Til5 trauma centre
 * [ ] Car game

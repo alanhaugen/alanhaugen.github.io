@@ -5,6 +5,7 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
+* [ ] Register for all exams innlandet
 * [ ] Take Paulius to Lier or change plan
 * [ ] Go to dentist
 * [ ] Help Paul with RTS

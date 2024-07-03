@@ -169,6 +169,7 @@ colorlinks: true
 * Choosing Ruby On Rails For Your Next Web Development Project [https://www.ideamotive.co/ruby-on-rails/guide](https://www.ideamotive.co/ruby-on-rails/guide)
 * Read [https://stanforddatascience.github.io/best-practices/study-design-phase.html#define-the-research-question](https://stanforddatascience.github.io/best-practices/study-design-phase.html#define-the-research-question)
 * Read [http://jeffe.cs.illinois.edu/teaching/algorithms/?utm_source=hackernewsletter&utm_medium=email&utm_term=books](http://jeffe.cs.illinois.edu/teaching/algorithms/?utm_source=hackernewsletter&utm_medium=email&utm_term=books)
+Consider [https://cseweb.ucsd.edu//~viscomp/classes/cse168/sp20/schedule.html](https://cseweb.ucsd.edu//~viscomp/classes/cse168/sp20/schedule.html)
 
 # Dreams
 ###### Goals I might get around to some day

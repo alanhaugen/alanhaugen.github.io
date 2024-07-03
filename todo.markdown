@@ -6,6 +6,7 @@ colorlinks: true
 ###### Update in the morning
 
 * [ ] Make a marble game
+* [ ] Learn to sit and hold a classical guitar
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -27,7 +28,6 @@ colorlinks: true
 * [ ] Consider [https://beej.us/guide/bgnet/](https://beej.us/guide/bgnet/)
 * [ ] Figure out why there is a ogl warning every time a texture is used for a drawable and see if is the reason performance is hampered when using fpscounter and if fixing it will make the webassembly build start working
 * [ ] Look through old notebooks
-* [ ] Write productivity software web-based
 * [ ] Write a drawing program like DX-Paint [https://www.datagubbe.se/dpaint](https://www.datagubbe.se/dpaint)
 * [ ] Help Paul with RTS
 * [ ] Retrieve flash card from Håvard
@@ -128,7 +128,10 @@ colorlinks: true
 * [ ] Complete Piano4All
 * [ ] Complete Blender Character Creator v2.0 for Video Games Design Course
 * [ ] Complete Blender Creator 3: Learn 3D Modelling for Beginners
+* [ ] Complete Computer Graphics II: Rendering # deadline: Dec 16, 2024
+* [ ] Make solid work with browser and ios+andriod
 * [ ] Do drawabox.com course
+* [ ] Write productivity software web-based
 * [ ] Learn to make music [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
 * [ ] Write paper for mdpi
 * [ ] Complete Unreal Engine course on udemy Ultimate

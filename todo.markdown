@@ -5,13 +5,14 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Redesign shared uniforms solid
+* [ ] Make a marble game
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
 # Action
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
+* [ ] Redesign shared uniforms solid
 * [ ] Solve shared uniforms memory problem in solid
 * [ ] Register for all exams innlandet
 * [ ] Model chess pieces as practice

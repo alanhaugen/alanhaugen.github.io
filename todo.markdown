@@ -5,8 +5,8 @@ colorlinks: true
 # Inbox
 ###### Update in the morning
 
-* [ ] Make a marble game
-* [ ] Learn to sit and hold a classical guitar
+* [ ] Make the solar system in solid
+* [ ] Make an audio visualizer in solid
 
 ###### #calls #atComputer #errands #office #atHome #agendas #read
 
@@ -14,6 +14,8 @@ colorlinks: true
 ###### Assign time. Revisit. Flag what needs to be done today. The battle is to remember what to do!
 
 * [ ] Redesign shared uniforms solid
+* [ ] Make a marble game
+* [ ] Learn to sit and hold a classical guitar
 * [ ] Solve shared uniforms memory problem in solid
 * [ ] Register for all exams innlandet
 * [ ] Model chess pieces as practice

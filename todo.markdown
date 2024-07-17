@@ -31,7 +31,7 @@ colorlinks: true
 * [ ] Figure out why there is a ogl warning every time a texture is used for a drawable and see if is the reason performance is hampered when using fpscounter and if fixing it will make the webassembly build start working
 * [ ] Look through old notebooks
 * [ ] Write a drawing program like DX-Paint [https://www.datagubbe.se/dpaint](https://www.datagubbe.se/dpaint)
-* [ ] Help Paul with RTS
+* [x] Help Paul with RTS
 * [ ] Retrieve flash card from Håvard
 * [ ] Begin learning about databases and look at [Databases and Networks](https://studiekatalog.edutorium.no/inn/en/course/2DAN101/2024-autumn) 
 * [ ] Read for 20 minutes
